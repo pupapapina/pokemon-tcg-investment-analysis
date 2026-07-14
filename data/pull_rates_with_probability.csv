@@ -1,0 +1,209 @@
+set_name,rarity_type,pull_rate_pct,probability
+Scarlet & Violet Base,Reverse Common,111.1,1.111
+Scarlet & Violet Base,Uncommon,100.0,1.0
+Scarlet & Violet Base,Common,100.0,1.0
+Scarlet & Violet Base,Energy,100.0,1.0
+Scarlet & Violet Base,Rare,76.9,0.769
+Scarlet & Violet Base,Reverse Uncommon,58.8,0.588
+Scarlet & Violet Base,Reverse Rare,21.3,0.213
+Scarlet & Violet Base,Double Rare,13.7,0.137
+Scarlet & Violet Base,Illustration Rare,7.7,0.077
+Scarlet & Violet Base,Ultra Rare,6.6,0.066
+Scarlet & Violet Base,Special Illustration Rare,3.2,0.032
+Scarlet & Violet Base,Hyper Rare,1.8,0.018
+Paldea Evolved,Uncommon,100.0,1.0
+Paldea Evolved,Common,100.0,1.0
+Paldea Evolved,Energy,100.0,1.0
+Paldea Evolved,Reverse Common,83.3,0.833
+Paldea Evolved,Rare,76.9,0.769
+Paldea Evolved,Reverse Uncommon,76.9,0.769
+Paldea Evolved,Reverse Rare,26.3,0.263
+Paldea Evolved,Double Rare,13.7,0.137
+Paldea Evolved,Illustration Rare,7.7,0.077
+Paldea Evolved,Ultra Rare,6.6,0.066
+Paldea Evolved,Special Illustration Rare,3.2,0.032
+Paldea Evolved,Hyper Rare,1.8,0.018
+Obsidian Flames,Uncommon,100.0,1.0
+Obsidian Flames,Common,100.0,1.0
+Obsidian Flames,Energy,100.0,1.0
+Obsidian Flames,Reverse Common,100.0,1.0
+Obsidian Flames,Rare,76.9,0.769
+Obsidian Flames,Reverse Uncommon,76.9,0.769
+Obsidian Flames,Double Rare,13.7,0.137
+Obsidian Flames,Reverse Rare,10.6,0.106
+Obsidian Flames,Illustration Rare,7.6,0.076
+Obsidian Flames,Ultra Rare,6.6,0.066
+Obsidian Flames,Special Illustration Rare,3.1,0.031
+Obsidian Flames,Hyper Rare,1.9,0.019
+151,Uncommon,100.0,1.0
+151,Common,100.0,1.0
+151,Rare,83.3,0.833
+151,Reverse Common,83.3,0.833
+151,Energy,76.9,0.769
+151,Reverse Uncommon,76.9,0.769
+151,Reverse Rare,30.3,0.303
+151,Energy (Holo),25.0,0.25
+151,Double Rare,13.3,0.133
+151,Illustration Rare,8.5,0.085
+151,Ultra Rare,6.5,0.065
+151,Special Illustration Rare,3.1,0.031
+151,Hyper Rare,1.9,0.019
+Paradox Rift,Uncommon,100.0,1.0
+Paradox Rift,Common,100.0,1.0
+Paradox Rift,Energy,100.0,1.0
+Paradox Rift,Reverse Common,90.9,0.909
+Paradox Rift,Rare,76.9,0.769
+Paradox Rift,Reverse Uncommon,62.5,0.625
+Paradox Rift,Reverse Rare,31.3,0.313
+Paradox Rift,Double Rare,15.6,0.156
+Paradox Rift,Illustration Rare,7.7,0.077
+Paradox Rift,Ultra Rare,6.6,0.066
+Paradox Rift,Special Illustration Rare,2.1,0.021
+Paradox Rift,Hyper Rare,1.2,0.012
+Paldean Fates,Uncommon,100.0,1.0
+Paldean Fates,Common,100.0,1.0
+Paldean Fates,Energy,100.0,1.0
+Paldean Fates,Rare,76.9,0.769
+Paldean Fates,Reverse Common,76.9,0.769
+Paldean Fates,Reverse Uncommon,47.6,0.476
+Paldean Fates,Reverse Rare,31.3,0.313
+Paldean Fates,Shiny Rare,25.6,0.256
+Paldean Fates,Double Rare,15.9,0.159
+Paldean Fates,Shiny Ultra Rare,7.7,0.077
+Paldean Fates,Illustration Rare,7.2,0.072
+Paldean Fates,Ultra Rare,6.6,0.066
+Paldean Fates,Special Illustration Rare,1.7,0.017
+Paldean Fates,Hyper Rare,1.6,0.016
+Temporal Forces,Uncommon,100.0,1.0
+Temporal Forces,Common,100.0,1.0
+Temporal Forces,Energy,100.0,1.0
+Temporal Forces,Reverse Common,90.9,0.909
+Temporal Forces,Rare,76.9,0.769
+Temporal Forces,Reverse Uncommon,71.4,0.714
+Temporal Forces,Reverse Rare,18.5,0.185
+Temporal Forces,Double Rare,16.9,0.169
+Temporal Forces,Illustration Rare,7.7,0.077
+Temporal Forces,Ultra Rare,6.7,0.067
+Temporal Forces,ACE SPEC Rare,5.0,0.05
+Temporal Forces,Special Illustration Rare,1.2,0.012
+Temporal Forces,Hyper Rare,0.7,0.007
+Twilight Masquerade,Uncommon,100.0,1.0
+Twilight Masquerade,Common,100.0,1.0
+Twilight Masquerade,Energy,100.0,1.0
+Twilight Masquerade,Reverse Common,100.0,1.0
+Twilight Masquerade,Rare,76.9,0.769
+Twilight Masquerade,Reverse Uncommon,71.4,0.714
+Twilight Masquerade,Reverse Rare,20.0,0.2
+Twilight Masquerade,Double Rare,16.9,0.169
+Twilight Masquerade,Illustration Rare,7.8,0.078
+Twilight Masquerade,Ultra Rare,6.6,0.066
+Twilight Masquerade,ACE SPEC Rare,5.1,0.051
+Twilight Masquerade,Special Illustration Rare,1.2,0.012
+Twilight Masquerade,Hyper Rare,0.7,0.007
+Shrouded Fable,Uncommon,100.0,1.0
+Shrouded Fable,Common,100.0,1.0
+Shrouded Fable,Energy,100.0,1.0
+Shrouded Fable,Reverse Common,90.9,0.909
+Shrouded Fable,Rare,76.9,0.769
+Shrouded Fable,Reverse Uncommon,66.7,0.667
+Shrouded Fable,Reverse Rare,23.8,0.238
+Shrouded Fable,Double Rare,16.7,0.167
+Shrouded Fable,Illustration Rare,7.7,0.077
+Shrouded Fable,Ultra Rare,7.0,0.07
+Shrouded Fable,ACE SPEC Rare,5.0,0.05
+Shrouded Fable,Special Illustration Rare,1.1,0.011
+Shrouded Fable,Hyper Rare,0.8,0.008
+Stellar Crown,Reverse Common,111.1,1.111
+Stellar Crown,Uncommon,100.0,1.0
+Stellar Crown,Common,100.0,1.0
+Stellar Crown,Energy,100.0,1.0
+Stellar Crown,Rare,76.9,0.769
+Stellar Crown,Reverse Uncommon,58.8,0.588
+Stellar Crown,Reverse Rare,22.2,0.222
+Stellar Crown,Double Rare,16.9,0.169
+Stellar Crown,Illustration Rare,7.8,0.078
+Stellar Crown,Ultra Rare,6.8,0.068
+Stellar Crown,ACE SPEC Rare,5.0,0.05
+Stellar Crown,Special Illustration Rare,1.1,0.011
+Stellar Crown,Hyper Rare,0.7,0.007
+Surging Sparks,Uncommon,100.0,1.0
+Surging Sparks,Common,100.0,1.0
+Surging Sparks,Energy,100.0,1.0
+Surging Sparks,Reverse Common,100.0,1.0
+Surging Sparks,Rare,76.9,0.769
+Surging Sparks,Reverse Uncommon,66.7,0.667
+Surging Sparks,Reverse Rare,17.9,0.179
+Surging Sparks,Double Rare,16.9,0.169
+Surging Sparks,Illustration Rare,7.7,0.077
+Surging Sparks,Ultra Rare,6.8,0.068
+Surging Sparks,ACE SPEC Rare,5.0,0.05
+Surging Sparks,Special Illustration Rare,1.1,0.011
+Surging Sparks,Hyper Rare,0.5,0.005
+Prismatic Evolutions,Uncommon,100.0,1.0
+Prismatic Evolutions,Common,100.0,1.0
+Prismatic Evolutions,Energy,100.0,1.0
+Prismatic Evolutions,Rare,76.9,0.769
+Prismatic Evolutions,Reverse Common,71.4,0.714
+Prismatic Evolutions,Reverse Uncommon,50.0,0.5
+Prismatic Evolutions,Pok√© Ball Foil,33.3,0.333
+Prismatic Evolutions,Reverse Rare,32.3,0.323
+Prismatic Evolutions,Double Rare,16.4,0.164
+Prismatic Evolutions,Ultra Rare,7.5,0.075
+Prismatic Evolutions,Master Ball Foil,4.9,0.049
+Prismatic Evolutions,ACE SPEC Rare,4.7,0.047
+Prismatic Evolutions,Special Illustration Rare,2.2,0.022
+Prismatic Evolutions,Hyper Rare,0.6,0.006
+Journey Together,Reverse Common,111.1,1.111
+Journey Together,Uncommon,100.0,1.0
+Journey Together,Common,100.0,1.0
+Journey Together,Energy,100.0,1.0
+Journey Together,Rare,71.4,0.714
+Journey Together,Reverse Uncommon,55.6,0.556
+Journey Together,Reverse Rare,21.3,0.213
+Journey Together,Double Rare,20.4,0.204
+Journey Together,Illustration Rare,8.5,0.085
+Journey Together,Ultra Rare,6.5,0.065
+Journey Together,Special Illustration Rare,1.2,0.012
+Journey Together,Hyper Rare,0.7,0.007
+Destined Rivals,Uncommon,100.0,1.0
+Destined Rivals,Common,100.0,1.0
+Destined Rivals,Energy,100.0,1.0
+Destined Rivals,Reverse Common,100.0,1.0
+Destined Rivals,Rare,71.4,0.714
+Destined Rivals,Reverse Uncommon,71.4,0.714
+Destined Rivals,Reverse Rare,20.8,0.208
+Destined Rivals,Double Rare,20.0,0.2
+Destined Rivals,Illustration Rare,8.3,0.083
+Destined Rivals,Ultra Rare,6.4,0.064
+Destined Rivals,Special Illustration Rare,1.1,0.011
+Destined Rivals,Hyper Rare,0.7,0.007
+Black Bolt,Uncommon,100.0,1.0
+Black Bolt,Common,100.0,1.0
+Black Bolt,Energy,76.9,0.769
+Black Bolt,Rare,71.4,0.714
+Black Bolt,Reverse Common,71.4,0.714
+Black Bolt,Reverse Uncommon,55.6,0.556
+Black Bolt,Pok√© Ball Foil,30.3,0.303
+Black Bolt,Energy (Holo),25.0,0.25
+Black Bolt,Double Rare,21.3,0.213
+Black Bolt,Reverse Rare,18.2,0.182
+Black Bolt,Illustration Rare,16.4,0.164
+Black Bolt,Ultra Rare,5.8,0.058
+Black Bolt,Master Ball Foil,5.1,0.051
+Black Bolt,Special Illustration Rare,1.3,0.013
+Black Bolt,Black White Rare,0.2,0.002
+White Flare,Uncommon,100.0,1.0
+White Flare,Common,100.0,1.0
+White Flare,Energy,76.9,0.769
+White Flare,Rare,71.4,0.714
+White Flare,Reverse Common,71.4,0.714
+White Flare,Reverse Uncommon,58.8,0.588
+White Flare,Pok√© Ball Foil,30.3,0.303
+White Flare,Energy (Holo),25.0,0.25
+White Flare,Double Rare,21.3,0.213
+White Flare,Reverse Rare,18.2,0.182
+White Flare,Illustration Rare,16.4,0.164
+White Flare,Ultra Rare,5.8,0.058
+White Flare,Master Ball Foil,5.1,0.051
+White Flare,Special Illustration Rare,1.3,0.013
+White Flare,Black White Rare,0.2,0.002

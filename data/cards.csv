@@ -1,0 +1,3415 @@
+set_name,card_name,card_number,rarity_type,price_usd
+151,Bulbasaur,#001,Common,0.19
+151,Ivysaur,#002,Uncommon,0.22
+151,Venusaur ex,#003,Double Rare,1.32
+151,Charmander,#004,Common,0.15
+151,Charmeleon,#005,Uncommon,0.2
+151,Charizard ex,#006,Double Rare,9.58
+151,Squirtle,#007,Common,0.2
+151,Wartortle,#008,Uncommon,0.26
+151,Blastoise ex,#009,Double Rare,2.36
+151,Caterpie,#010,Common,0.14
+151,Metapod,#011,Common,0.22
+151,Butterfree,#012,Uncommon,0.2
+151,Weedle,#013,Common,0.11
+151,Kakuna,#014,Common,0.18
+151,Beedrill,#015,Rare,0.31
+151,Pidgey,#016,Common,0.23
+151,Pidgeotto,#017,Common,0.31
+151,Pidgeot,#018,Uncommon,0.16
+151,Rattata,#019,Common,0.12
+151,Raticate,#020,Uncommon,0.16
+151,Spearow,#021,Common,0.13
+151,Fearow,#022,Uncommon,0.14
+151,Ekans,#023,Common,0.15
+151,Arbok ex,#024,Double Rare,1.5
+151,Pikachu,#025,Common,0.31
+151,Raichu,#026,Rare,0.3
+151,Sandshrew,#027,Common,0.13
+151,Sandslash,#028,Uncommon,0.14
+151,Nidoran ♀,#029,Common,0.19
+151,Nidorina,#030,Uncommon,0.14
+151,Nidoqueen,#031,Uncommon,0.18
+151,Nidoran ♂,#032,Common,0.19
+151,Nidorino,#033,Uncommon,0.18
+151,Nidoking,#034,Rare,0.31
+151,Clefairy,#035,Common,0.16
+151,Clefable,#036,Uncommon,0.15
+151,Vulpix,#037,Common,0.11
+151,Ninetales ex,#038,Double Rare,2.29
+151,Jigglypuff,#039,Common,0.13
+151,Wigglytuff ex,#040,Double Rare,1.63
+151,Zubat,#041,Common,0.14
+151,Golbat,#042,Uncommon,0.11
+151,Oddish,#043,Common,0.11
+151,Gloom,#044,Uncommon,0.18
+151,Vileplume,#045,Rare,16.08
+151,Paras,#046,Common,0.14
+151,Parasect,#047,Uncommon,0.12
+151,Venonat,#048,Common,0.16
+151,Venomoth,#049,Uncommon,0.17
+151,Diglett,#050,Common,0.07
+151,Dugtrio,#051,Uncommon,0.12
+151,Meowth,#052,Common,0.16
+151,Persian,#053,Uncommon,0.21
+151,Psyduck,#054,Common,0.19
+151,Golduck,#055,Uncommon,0.14
+151,Mankey,#056,Common,0.09
+151,Primeape,#057,Uncommon,0.14
+151,Growlithe,#058,Common,0.1
+151,Arcanine,#059,Uncommon,0.28
+151,Poliwag,#060,Common,0.11
+151,Poliwhirl,#061,Common,0.2
+151,Poliwrath,#062,Uncommon,0.16
+151,Abra,#063,Common,0.11
+151,Kadabra,#064,Uncommon,0.17
+151,Alakazam ex,#065,Double Rare,2.58
+151,Machop,#066,Common,0.13
+151,Machoke,#067,Uncommon,0.17
+151,Machamp,#068,Rare,0.27
+151,Bellsprout,#069,Common,0.11
+151,Weepinbell,#070,Common,0.19
+151,Victreebel,#071,Uncommon,0.19
+151,Tentacool,#072,Common,0.1
+151,Tentacruel,#073,Uncommon,0.2
+151,Geodude,#074,Common,0.15
+151,Graveler,#075,Uncommon,0.15
+151,Golem ex,#076,Double Rare,1.17
+151,Ponyta,#077,Common,0.09
+151,Rapidash,#078,Uncommon,0.14
+151,Slowpoke,#079,Common,0.14
+151,Slowbro,#080,Uncommon,0.15
+151,Magnemite,#081,Common,0.14
+151,Magneton,#082,Uncommon,0.15
+151,Farfetch’d,#083,Common,0.13
+151,Doduo,#084,Common,0.13
+151,Dodrio,#085,Rare,0.27
+151,Seel,#086,Common,0.1
+151,Dewgong,#087,Uncommon,0.11
+151,Grimer,#088,Common,0.1
+151,Muk,#089,Uncommon,0.13
+151,Shellder,#090,Common,0.14
+151,Cloyster,#091,Uncommon,0.16
+151,Gastly,#092,Common,0.2
+151,Haunter,#093,Uncommon,0.27
+151,Gengar,#094,Rare,2.68
+151,Onix,#095,Uncommon,0.13
+151,Drowzee,#096,Common,0.12
+151,Hypno,#097,Uncommon,0.12
+151,Krabby,#098,Common,0.15
+151,Kingler,#099,Uncommon,0.16
+151,Voltorb,#100,Common,0.06
+151,Electrode,#101,Rare,0.22
+151,Exeggcute,#102,Common,0.1
+151,Exeggutor,#103,Uncommon,0.13
+151,Cubone,#104,Common,0.13
+151,Marowak,#105,Rare,0.3
+151,Hitmonlee,#106,Uncommon,0.2
+151,Hitmonchan,#107,Uncommon,0.12
+151,Lickitung,#108,Common,0.12
+151,Koffing,#109,Common,0.15
+151,Weezing,#110,Rare,0.26
+151,Rhyhorn,#111,Common,0.08
+151,Rhydon,#112,Uncommon,0.13
+151,Chansey,#113,Rare,0.38
+151,Tangela,#114,Common,0.12
+151,Kangaskhan ex,#115,Double Rare,1.1
+151,Horsea,#116,Common,0.12
+151,Seadra,#117,Uncommon,0.11
+151,Goldeen,#118,Common,0.13
+151,Seaking,#119,Uncommon,0.12
+151,Staryu,#120,Common,0.12
+151,Starmie,#121,Rare,0.28
+151,Mr. Mime,#122,Rare,0.31
+151,Scyther,#123,Uncommon,0.12
+151,Jynx ex,#124,Double Rare,1.28
+151,Electabuzz,#125,Common,0.15
+151,Magmar,#126,Common,0.08
+151,Pinsir,#127,Uncommon,0.13
+151,Tauros,#128,Uncommon,0.16
+151,Magikarp,#129,Common,0.15
+151,Gyarados,#130,Rare,0.32
+151,Lapras,#131,Uncommon,0.12
+151,Ditto,#132,Rare,4.63
+151,Eevee,#133,Common,0.12
+151,Vaporeon,#134,Rare,0.49
+151,Jolteon,#135,Rare,0.32
+151,Flareon,#136,Rare,0.41
+151,Porygon,#137,Common,0.11
+151,Omanyte,#138,Uncommon,0.15
+151,Omastar,#139,Rare,0.24
+151,Kabuto,#140,Uncommon,0.14
+151,Kabutops,#141,Rare,0.31
+151,Aerodactyl,#142,Rare,0.37
+151,Snorlax,#143,Uncommon,0.3
+151,Articuno,#144,Rare,0.34
+151,Zapdos ex,#145,Double Rare,1.56
+151,Moltres,#146,Rare,1.83
+151,Dratini,#147,Common,0.16
+151,Dragonair,#148,Uncommon,0.18
+151,Dragonite,#149,Rare,1.33
+151,Mewtwo,#150,Rare,1.95
+151,Mew ex,#151,Double Rare,8.78
+151,Antique Dome Fossil,#152,Common,0.22
+151,Antique Helix Fossil,#153,Common,0.28
+151,Antique Old Amber,#154,Common,0.23
+151,Big Air Balloon,#155,Uncommon,0.2
+151,Bill’s Transfer,#156,Uncommon,0.15
+151,Cycling Road,#157,Uncommon,0.16
+151,Daisy’s Help,#158,Uncommon,0.16
+151,Energy Sticker,#159,Uncommon,0.26
+151,Erika’s Invitation,#160,Uncommon,0.2
+151,Giovanni’s Charisma,#161,Uncommon,0.13
+151,Grabber,#162,Uncommon,0.24
+151,Leftovers,#163,Uncommon,0.24
+151,Protective Goggles,#164,Uncommon,0.25
+151,Rigid Band,#165,Uncommon,0.19
+151,Bulbasaur,#166,Illustration Rare,88.34
+151,Ivysaur,#167,Illustration Rare,60.14
+151,Charmander,#168,Illustration Rare,126.96
+151,Charmeleon,#169,Illustration Rare,80.46
+151,Squirtle,#170,Illustration Rare,115.36
+151,Wartortle,#171,Illustration Rare,74.47
+151,Caterpie,#172,Illustration Rare,21.05
+151,Pikachu,#173,Illustration Rare,92.63
+151,Nidoking,#174,Illustration Rare,25.37
+151,Psyduck,#175,Illustration Rare,77.64
+151,Poliwhirl,#176,Illustration Rare,57.77
+151,Machoke,#177,Illustration Rare,26.89
+151,Tangela,#178,Illustration Rare,23.85
+151,Mr. Mime,#179,Illustration Rare,18.64
+151,Omanyte,#180,Illustration Rare,18.44
+151,Dragonair,#181,Illustration Rare,49.96
+151,Venusaur ex,#182,Ultra Rare,18.15
+151,Charizard ex,#183,Ultra Rare,48.5
+151,Blastoise ex,#184,Ultra Rare,27.59
+151,Arbok ex,#185,Ultra Rare,10.66
+151,Ninetales ex,#186,Ultra Rare,17.07
+151,Wigglytuff ex,#187,Ultra Rare,11.22
+151,Alakazam ex,#188,Ultra Rare,14.45
+151,Golem ex,#189,Ultra Rare,8.11
+151,Kangaskhan ex,#190,Ultra Rare,6.68
+151,Jynx ex,#191,Ultra Rare,8.31
+151,Zapdos ex,#192,Ultra Rare,13.82
+151,Mew ex,#193,Ultra Rare,47.17
+151,Bill’s Transfer,#194,Ultra Rare,3.92
+151,Daisy’s Help,#195,Ultra Rare,3.86
+151,Erika’s Invitation,#196,Ultra Rare,10.51
+151,Giovanni’s Charisma,#197,Ultra Rare,5.41
+151,Venusaur ex,#198,Special Illustration Rare,132.43
+151,Charizard ex,#199,Special Illustration Rare,451.28
+151,Blastoise ex,#200,Special Illustration Rare,157.87
+151,Alakazam ex,#201,Special Illustration Rare,83.79
+151,Zapdos ex,#202,Special Illustration Rare,108.49
+151,Erika’s Invitation,#203,Special Illustration Rare,21.82
+151,Giovanni’s Charisma,#204,Special Illustration Rare,16.25
+151,Mew ex,#205,Hyper Rare,36.03
+151,Switch,#206,Hyper Rare,2.9
+151,Basic Psychic Energy,#207,Hyper Rare,6.05
+Black Bolt,Snivy,#001,Common,0.08
+Black Bolt,Servine,#002,Common,0.11
+Black Bolt,Serperior ex,#003,Double Rare,0.57
+Black Bolt,Pansage,#004,Common,0.06
+Black Bolt,Simisage,#005,Uncommon,0.05
+Black Bolt,Petilil,#006,Common,0.13
+Black Bolt,Lilligant,#007,Uncommon,0.06
+Black Bolt,Maractus,#008,Common,0.04
+Black Bolt,Karrablast,#009,Common,0.04
+Black Bolt,Foongus,#010,Common,0.06
+Black Bolt,Amoonguss,#011,Uncommon,0.08
+Black Bolt,Victini,#012,Rare,0.1
+Black Bolt,Darumaka,#013,Common,0.03
+Black Bolt,Darmanitan,#014,Uncommon,0.02
+Black Bolt,Larvesta,#015,Common,0.12
+Black Bolt,Volcarona,#016,Rare,0.17
+Black Bolt,Panpour,#017,Common,0.03
+Black Bolt,Simipour,#018,Uncommon,0.05
+Black Bolt,Tympole,#019,Common,0.13
+Black Bolt,Palpitoad,#020,Common,0.1
+Black Bolt,Seismitoad,#021,Uncommon,0.06
+Black Bolt,Tirtouga,#022,Uncommon,0.1
+Black Bolt,Carracosta,#023,Rare,0.21
+Black Bolt,Alomomola,#024,Uncommon,0.1
+Black Bolt,Cubchoo,#025,Common,0.08
+Black Bolt,Beartic,#026,Rare,0.16
+Black Bolt,Cryogonal,#027,Uncommon,0.03
+Black Bolt,Kyurem ex,#028,Double Rare,0.6
+Black Bolt,Emolga,#029,Common,0.05
+Black Bolt,Tynamo,#030,Common,0.17
+Black Bolt,Eelektrik,#031,Uncommon,0.23
+Black Bolt,Eelektross,#032,Uncommon,0.07
+Black Bolt,Thundurus,#033,Rare,0.12
+Black Bolt,Zekrom ex,#034,Double Rare,0.61
+Black Bolt,Munna,#035,Common,0.11
+Black Bolt,Musharna,#036,Uncommon,0.09
+Black Bolt,Solosis,#037,Common,0.05
+Black Bolt,Duosion,#038,Common,0.13
+Black Bolt,Reuniclus,#039,Uncommon,0.49
+Black Bolt,Elgyem,#040,Common,0.12
+Black Bolt,Beheeyem,#041,Uncommon,0.05
+Black Bolt,Golett,#042,Common,0.03
+Black Bolt,Golurk,#043,Uncommon,0.1
+Black Bolt,Meloetta ex,#044,Double Rare,0.61
+Black Bolt,Drilbur,#045,Common,0.03
+Black Bolt,Excadrill ex,#046,Double Rare,0.51
+Black Bolt,Timburr,#047,Common,0.07
+Black Bolt,Gurdurr,#048,Common,0.05
+Black Bolt,Conkeldurr,#049,Rare,0.12
+Black Bolt,Throh,#050,Uncommon,0.05
+Black Bolt,Dwebble,#051,Common,0.13
+Black Bolt,Crustle,#052,Uncommon,0.04
+Black Bolt,Landorus,#053,Rare,0.08
+Black Bolt,Venipede,#054,Common,0.08
+Black Bolt,Whirlipede,#055,Common,0.08
+Black Bolt,Scolipede,#056,Uncommon,0.08
+Black Bolt,Sandile,#057,Common,0.06
+Black Bolt,Krokorok,#058,Common,0.16
+Black Bolt,Krookodile,#059,Uncommon,0.49
+Black Bolt,Escavalier,#060,Uncommon,0.06
+Black Bolt,Klink,#061,Common,0.04
+Black Bolt,Klang,#062,Common,0.04
+Black Bolt,Klinklang,#063,Rare,0.13
+Black Bolt,Pawniard,#064,Common,0.07
+Black Bolt,Bisharp,#065,Uncommon,0.05
+Black Bolt,Cobalion,#066,Rare,0.15
+Black Bolt,Genesect ex,#067,Double Rare,0.69
+Black Bolt,Axew,#068,Common,0.16
+Black Bolt,Fraxure,#069,Common,0.06
+Black Bolt,Haxorus,#070,Rare,0.15
+Black Bolt,Pidove,#071,Common,0.04
+Black Bolt,Tranquill,#072,Common,0.06
+Black Bolt,Unfezant,#073,Uncommon,0.49
+Black Bolt,Audino,#074,Common,0.09
+Black Bolt,Minccino,#075,Common,0.09
+Black Bolt,Cinccino,#076,Uncommon,0.14
+Black Bolt,Rufflet,#077,Common,0.07
+Black Bolt,Braviary,#078,Uncommon,0.06
+Black Bolt,Air Balloon,#079,Uncommon,0.2
+Black Bolt,Antique Cover Fossil,#080,Common,0.1
+Black Bolt,Energy Coin,#081,Uncommon,0.12
+Black Bolt,Fennel,#082,Uncommon,0.1
+Black Bolt,N’s Plan,#083,Uncommon,0.18
+Black Bolt,Pokégear 3.0,#084,Uncommon,0.35
+Black Bolt,Professor’s Research,#085,Uncommon,0.1
+Black Bolt,Prism Energy,#086,Uncommon,0.18
+Black Bolt,Snivy,#087,Illustration Rare,29.19
+Black Bolt,Servine,#088,Illustration Rare,15.93
+Black Bolt,Pansage,#089,Illustration Rare,29.04
+Black Bolt,Simisage,#090,Illustration Rare,10.92
+Black Bolt,Petilil,#091,Illustration Rare,33.76
+Black Bolt,Lilligant,#092,Illustration Rare,44.03
+Black Bolt,Maractus,#093,Illustration Rare,3.51
+Black Bolt,Karrablast,#094,Illustration Rare,21.23
+Black Bolt,Foongus,#095,Illustration Rare,17.73
+Black Bolt,Amoonguss,#096,Illustration Rare,38.7
+Black Bolt,Darumaka,#097,Illustration Rare,12.48
+Black Bolt,Darmanitan,#098,Illustration Rare,10.71
+Black Bolt,Larvesta,#099,Illustration Rare,12.43
+Black Bolt,Volcarona,#100,Illustration Rare,55.24
+Black Bolt,Panpour,#101,Illustration Rare,12.25
+Black Bolt,Simipour,#102,Illustration Rare,9.46
+Black Bolt,Tympole,#103,Illustration Rare,10.73
+Black Bolt,Palpitoad,#104,Illustration Rare,16.28
+Black Bolt,Seismitoad,#105,Illustration Rare,216.9
+Black Bolt,Tirtouga,#106,Illustration Rare,29.66
+Black Bolt,Carracosta,#107,Illustration Rare,9.32
+Black Bolt,Alomomola,#108,Illustration Rare,25.58
+Black Bolt,Cubchoo,#109,Illustration Rare,16.58
+Black Bolt,Beartic,#110,Illustration Rare,8.01
+Black Bolt,Cryogonal,#111,Illustration Rare,7.31
+Black Bolt,Emolga,#112,Illustration Rare,20.03
+Black Bolt,Tynamo,#113,Illustration Rare,17.38
+Black Bolt,Eelektrik,#114,Illustration Rare,20.84
+Black Bolt,Eelektross,#115,Illustration Rare,30.06
+Black Bolt,Munna,#116,Illustration Rare,14.53
+Black Bolt,Musharna,#117,Illustration Rare,9.51
+Black Bolt,Solosis,#118,Illustration Rare,32.11
+Black Bolt,Duosion,#119,Illustration Rare,12.34
+Black Bolt,Elgyem,#120,Illustration Rare,10.67
+Black Bolt,Beheeyem,#121,Illustration Rare,5.68
+Black Bolt,Golett,#122,Illustration Rare,7.09
+Black Bolt,Golurk,#123,Illustration Rare,11.66
+Black Bolt,Drilbur,#124,Illustration Rare,6.32
+Black Bolt,Timburr,#125,Illustration Rare,13.98
+Black Bolt,Gurdurr,#126,Illustration Rare,10.12
+Black Bolt,Conkeldurr,#127,Illustration Rare,28.82
+Black Bolt,Throh,#128,Illustration Rare,6.98
+Black Bolt,Dwebble,#129,Illustration Rare,58.1
+Black Bolt,Crustle,#130,Illustration Rare,5.59
+Black Bolt,Landorus,#131,Illustration Rare,26.12
+Black Bolt,Venipede,#132,Illustration Rare,7.66
+Black Bolt,Whirlipede,#133,Illustration Rare,6.95
+Black Bolt,Scolipede,#134,Illustration Rare,27.63
+Black Bolt,Sandile,#135,Illustration Rare,19.99
+Black Bolt,Krokorok,#136,Illustration Rare,9.11
+Black Bolt,Krookodile,#137,Illustration Rare,56.85
+Black Bolt,Escavalier,#138,Illustration Rare,17.05
+Black Bolt,Klink,#139,Illustration Rare,6.43
+Black Bolt,Klang,#140,Illustration Rare,5.78
+Black Bolt,Klinklang,#141,Illustration Rare,28.73
+Black Bolt,Pawniard,#142,Illustration Rare,7.63
+Black Bolt,Bisharp,#143,Illustration Rare,9.38
+Black Bolt,Cobalion,#144,Illustration Rare,29.71
+Black Bolt,Axew,#145,Illustration Rare,20.72
+Black Bolt,Fraxure,#146,Illustration Rare,23.23
+Black Bolt,Haxorus,#147,Illustration Rare,75.85
+Black Bolt,Pidove,#148,Illustration Rare,28.38
+Black Bolt,Tranquill,#149,Illustration Rare,6.58
+Black Bolt,Unfezant,#150,Illustration Rare,31.55
+Black Bolt,Audino,#151,Illustration Rare,41.47
+Black Bolt,Minccino,#152,Illustration Rare,23.94
+Black Bolt,Cinccino,#153,Illustration Rare,29.5
+Black Bolt,Rufflet,#154,Illustration Rare,7.04
+Black Bolt,Braviary,#155,Illustration Rare,7.94
+Black Bolt,Serperior ex,#156,Ultra Rare,1.12
+Black Bolt,Kyurem ex,#157,Ultra Rare,1.53
+Black Bolt,Zekrom ex,#158,Ultra Rare,4.81
+Black Bolt,Meloetta ex,#159,Ultra Rare,1.37
+Black Bolt,Excadrill ex,#160,Ultra Rare,0.77
+Black Bolt,Genesect ex,#161,Ultra Rare,1.5
+Black Bolt,Fennel,#162,Ultra Rare,1.25
+Black Bolt,N’s Plan,#163,Ultra Rare,3.91
+Black Bolt,Serperior ex,#164,Special Illustration Rare,55.64
+Black Bolt,Kyurem ex,#165,Special Illustration Rare,77.65
+Black Bolt,Zekrom ex,#166,Special Illustration Rare,256.01
+Black Bolt,Meloetta ex,#167,Special Illustration Rare,42.24
+Black Bolt,Excadrill ex,#168,Special Illustration Rare,23.02
+Black Bolt,Genesect ex,#169,Special Illustration Rare,46.36
+Black Bolt,N’s Plan,#170,Special Illustration Rare,68.22
+Black Bolt,Victini,#171,Rare,571.95
+Black Bolt,Zekrom ex,#172,Black White Rare,509.81
+Destined Rivals,Ethan’s Pinsir,#001,Uncommon,0.04
+Destined Rivals,Yanma,#002,Common,0.16
+Destined Rivals,Yanmega ex,#003,Double Rare,0.63
+Destined Rivals,Pineco,#004,Common,0.16
+Destined Rivals,Shroomish,#005,Common,0.12
+Destined Rivals,Breloom,#006,Common,0.09
+Destined Rivals,Cynthia’s Roselia,#007,Common,0.16
+Destined Rivals,Cynthia’s Roserade,#008,Rare,0.28
+Destined Rivals,Mow Rotom,#009,Common,0.11
+Destined Rivals,Shaymin,#010,Uncommon,0.28
+Destined Rivals,Dwebble,#011,Common,0.22
+Destined Rivals,Crustle,#012,Rare,0.2
+Destined Rivals,Fomantis,#013,Common,0.12
+Destined Rivals,Lurantis,#014,Uncommon,0.09
+Destined Rivals,Team Rocket’s Blipbug,#015,Common,0.1
+Destined Rivals,Applin,#016,Common,0.16
+Destined Rivals,Dipplin,#017,Common,0.15
+Destined Rivals,Hydrapple,#018,Rare,0.14
+Destined Rivals,Team Rocket’s Tarountula,#019,Common,0.23
+Destined Rivals,Team Rocket’s Spidops,#020,Rare,0.23
+Destined Rivals,Smoliv,#021,Common,0.25
+Destined Rivals,Dolliv,#022,Common,0.22
+Destined Rivals,Arboliva ex,#023,Double Rare,1.17
+Destined Rivals,Rellor,#024,Common,0.08
+Destined Rivals,Rabsca ex,#025,Double Rare,0.52
+Destined Rivals,Teal Mask Ogerpon,#026,Uncommon,0.07
+Destined Rivals,Growlithe,#027,Common,0.11
+Destined Rivals,Arcanine,#028,Uncommon,0.13
+Destined Rivals,Ponyta,#029,Common,0.19
+Destined Rivals,Rapidash,#030,Uncommon,0.1
+Destined Rivals,Team Rocket’s Moltres ex,#031,Double Rare,0.82
+Destined Rivals,Ethan’s Cyndaquil,#032,Common,0.23
+Destined Rivals,Ethan’s Quilava,#033,Common,0.28
+Destined Rivals,Ethan’s Typhlosion,#034,Rare,0.4
+Destined Rivals,Ethan’s Slugma,#035,Common,0.15
+Destined Rivals,Ethan’s Magcargo,#036,Rare,0.18
+Destined Rivals,Team Rocket’s Houndour,#037,Common,0.04
+Destined Rivals,Team Rocket’s Houndoom,#038,Uncommon,0.13
+Destined Rivals,Ethan’s Ho-Oh ex,#039,Double Rare,0.69
+Destined Rivals,Torchic,#040,Common,0.17
+Destined Rivals,Combusken,#041,Common,0.2
+Destined Rivals,Blaziken,#042,Rare,0.22
+Destined Rivals,Heat Rotom,#043,Common,0.14
+Destined Rivals,Hearthflame Mask Ogerpon,#044,Uncommon,0.09
+Destined Rivals,Misty’s Psyduck,#045,Uncommon,0.29
+Destined Rivals,Misty’s Staryu,#046,Common,0.1
+Destined Rivals,Misty’s Starmie,#047,Uncommon,0.16
+Destined Rivals,Misty’s Magikarp,#048,Common,0.28
+Destined Rivals,Misty’s Gyarados,#049,Rare,0.74
+Destined Rivals,Misty’s Lapras,#050,Common,0.23
+Destined Rivals,Team Rocket’s Articuno,#051,Rare,0.3
+Destined Rivals,Cynthia’s Feebas,#052,Common,0.12
+Destined Rivals,Cynthia’s Milotic,#053,Uncommon,0.08
+Destined Rivals,Clamperl,#054,Common,0.09
+Destined Rivals,Huntail,#055,Uncommon,0.09
+Destined Rivals,Gorebyss,#056,Rare,0.15
+Destined Rivals,Buizel,#057,Common,0.18
+Destined Rivals,Floatzel,#058,Uncommon,0.1
+Destined Rivals,Snover,#059,Common,0.17
+Destined Rivals,Abomasnow,#060,Uncommon,0.1
+Destined Rivals,Wash Rotom,#061,Common,0.11
+Destined Rivals,Arrokuda,#062,Common,0.11
+Destined Rivals,Barraskewda,#063,Uncommon,0.05
+Destined Rivals,Cetoddle,#064,Common,0.08
+Destined Rivals,Cetitan ex,#065,Double Rare,0.54
+Destined Rivals,Dondozo ex,#066,Double Rare,0.63
+Destined Rivals,Wellspring Mask Ogerpon,#067,Uncommon,0.09
+Destined Rivals,Electabuzz,#068,Common,0.07
+Destined Rivals,Electivire ex,#069,Double Rare,0.56
+Destined Rivals,Team Rocket’s Zapdos,#070,Rare,0.24
+Destined Rivals,Ethan’s Pichu,#071,Common,0.14
+Destined Rivals,Team Rocket’s Mareep,#072,Common,0.1
+Destined Rivals,Team Rocket’s Flaaffy,#073,Common,0.15
+Destined Rivals,Team Rocket’s Ampharos,#074,Uncommon,0.1
+Destined Rivals,Electrike,#075,Common,0.04
+Destined Rivals,Manectric,#076,Uncommon,0.11
+Destined Rivals,Rotom,#077,Common,0.08
+Destined Rivals,Zeraora,#078,Rare,0.19
+Destined Rivals,Team Rocket’s Drowzee,#079,Common,0.11
+Destined Rivals,Team Rocket’s Hypno,#080,Uncommon,0.14
+Destined Rivals,Team Rocket’s Mewtwo ex,#081,Double Rare,1.71
+Destined Rivals,Team Rocket’s Wobbuffet,#082,Rare,0.13
+Destined Rivals,Steven’s Baltoy,#083,Common,0.05
+Destined Rivals,Steven’s Claydol,#084,Uncommon,0.04
+Destined Rivals,Team Rocket’s Chingling,#085,Common,0.14
+Destined Rivals,Steven’s Carbink,#086,Common,0.1
+Destined Rivals,Team Rocket’s Mimikyu,#087,Uncommon,0.24
+Destined Rivals,Team Rocket’s Dottler,#088,Common,0.13
+Destined Rivals,Team Rocket’s Orbeetle,#089,Uncommon,0.08
+Destined Rivals,Mankey,#090,Common,0.09
+Destined Rivals,Primeape,#091,Common,0.11
+Destined Rivals,Annihilape,#092,Rare,0.17
+Destined Rivals,Ethan’s Sudowoodo,#093,Common,0.1
+Destined Rivals,Team Rocket’s Larvitar,#094,Common,0.12
+Destined Rivals,Team Rocket’s Pupitar,#095,Common,0.17
+Destined Rivals,Team Rocket’s Tyranitar,#096,Rare,0.22
+Destined Rivals,Nosepass,#097,Common,0.11
+Destined Rivals,Probopass,#098,Uncommon,0.09
+Destined Rivals,Meditite,#099,Common,0.05
+Destined Rivals,Medicham,#100,Uncommon,0.06
+Destined Rivals,Regirock ex,#101,Double Rare,0.58
+Destined Rivals,Cynthia’s Gible,#102,Common,0.23
+Destined Rivals,Cynthia’s Gabite,#103,Common,0.26
+Destined Rivals,Cynthia’s Garchomp ex,#104,Double Rare,1.19
+Destined Rivals,Hippopotas,#105,Common,0.08
+Destined Rivals,Hippowdon,#106,Uncommon,0.09
+Destined Rivals,Mudbray,#107,Common,0.06
+Destined Rivals,Mudsdale,#108,Uncommon,0.1
+Destined Rivals,Arven’s Toedscool,#109,Common,0.05
+Destined Rivals,Arven’s Toedscruel,#110,Uncommon,0.08
+Destined Rivals,Cornerstone Mask Ogerpon,#111,Uncommon,0.12
+Destined Rivals,Team Rocket’s Ekans,#112,Common,0.11
+Destined Rivals,Team Rocket’s Arbok,#113,Uncommon,0.12
+Destined Rivals,Team Rocket’s Nidoran♀,#114,Common,0.16
+Destined Rivals,Team Rocket’s Nidorina,#115,Common,0.2
+Destined Rivals,Team Rocket’s Nidoqueen,#116,Uncommon,0.15
+Destined Rivals,Team Rocket’s Nidoran♂,#117,Common,0.12
+Destined Rivals,Team Rocket’s Nidorino,#118,Common,0.16
+Destined Rivals,Team Rocket’s Nidoking ex,#119,Double Rare,0.68
+Destined Rivals,Team Rocket’s Zubat,#120,Common,0.16
+Destined Rivals,Team Rocket’s Golbat,#121,Uncommon,0.16
+Destined Rivals,Team Rocket’s Crobat ex,#122,Double Rare,0.64
+Destined Rivals,Team Rocket’s Grimer,#123,Common,0.11
+Destined Rivals,Team Rocket’s Muk,#124,Uncommon,0.14
+Destined Rivals,Team Rocket’s Koffing,#125,Common,0.07
+Destined Rivals,Team Rocket’s Weezing,#126,Uncommon,0.12
+Destined Rivals,Team Rocket’s Murkrow,#127,Uncommon,0.2
+Destined Rivals,Team Rocket’s Sneasel,#128,Rare,0.21
+Destined Rivals,Cynthia’s Spiritomb,#129,Uncommon,0.2
+Destined Rivals,Marnie’s Purrloin,#130,Common,0.14
+Destined Rivals,Marnie’s Liepard,#131,Uncommon,0.1
+Destined Rivals,Marnie’s Scraggy,#132,Common,0.14
+Destined Rivals,Marnie’s Scrafty,#133,Uncommon,0.06
+Destined Rivals,Marnie’s Impidimp,#134,Common,0.18
+Destined Rivals,Marnie’s Morgrem,#135,Uncommon,0.18
+Destined Rivals,Marnie’s Grimmsnarl ex,#136,Double Rare,0.86
+Destined Rivals,Marnie’s Morpeko,#137,Common,0.23
+Destined Rivals,Arven’s Maschiff,#138,Common,0.05
+Destined Rivals,Arven’s Mabosstiff ex,#139,Double Rare,0.71
+Destined Rivals,Forretress,#140,Uncommon,0.12
+Destined Rivals,Skarmory,#141,Common,0.05
+Destined Rivals,Steven’s Skarmory,#142,Common,0.11
+Destined Rivals,Steven’s Beldum,#143,Common,0.15
+Destined Rivals,Steven’s Metang,#144,Uncommon,0.18
+Destined Rivals,Steven’s Metagross ex,#145,Double Rare,1.16
+Destined Rivals,Zamazenta,#146,Rare,0.08
+Destined Rivals,Team Rocket’s Rattata,#147,Common,0.06
+Destined Rivals,Team Rocket’s Raticate,#148,Common,0.09
+Destined Rivals,Team Rocket’s Meowth,#149,Common,0.1
+Destined Rivals,Team Rocket’s Persian ex,#150,Double Rare,0.65
+Destined Rivals,Kangaskhan,#151,Common,0.07
+Destined Rivals,Tauros,#152,Common,0.2
+Destined Rivals,Team Rocket’s Porygon,#153,Common,0.19
+Destined Rivals,Team Rocket’s Porygon2,#154,Common,0.2
+Destined Rivals,Team Rocket’s Porygon-Z,#155,Uncommon,0.21
+Destined Rivals,Taillow,#156,Common,0.13
+Destined Rivals,Swellow,#157,Common,0.07
+Destined Rivals,Arven’s Skwovet,#158,Common,0.06
+Destined Rivals,Arven’s Greedent,#159,Rare,0.11
+Destined Rivals,Squawkabilly,#160,Common,0.08
+Destined Rivals,Arven’s Sandwich,#161,Uncommon,0.06
+Destined Rivals,Cynthia’s Power Weight,#162,Uncommon,0.19
+Destined Rivals,Emcee’s Hype,#163,Common,0.05
+Destined Rivals,Energy Recycler,#164,Uncommon,0.22
+Destined Rivals,Ethan’s Adventure,#165,Uncommon,0.16
+Destined Rivals,Granite Cave,#166,Uncommon,0.14
+Destined Rivals,Judge,#167,Uncommon,0.27
+Destined Rivals,Sacred Ash,#168,Uncommon,0.23
+Destined Rivals,Spikemuth Gym,#169,Uncommon,0.18
+Destined Rivals,Team Rocket’s Archer,#170,Uncommon,0.24
+Destined Rivals,Team Rocket’s Ariana,#171,Uncommon,0.21
+Destined Rivals,Team Rocket’s Bother-Bot,#172,Uncommon,0.08
+Destined Rivals,Team Rocket’s Factory,#173,Uncommon,0.24
+Destined Rivals,Team Rocket’s Giovanni,#174,Uncommon,0.22
+Destined Rivals,Team Rocket’s Great Ball,#175,Uncommon,0.1
+Destined Rivals,Team Rocket’s Petrel,#176,Uncommon,0.38
+Destined Rivals,Team Rocket’s Proton,#177,Uncommon,0.18
+Destined Rivals,Team Rocket’s Transceiver,#178,Uncommon,0.21
+Destined Rivals,Team Rocket’s Venture Bomb,#179,Uncommon,0.15
+Destined Rivals,Team Rocket’s Watchtower,#180,Uncommon,0.26
+Destined Rivals,TM Machine,#181,Uncommon,0.1
+Destined Rivals,Team Rocket’s Energy,#182,Uncommon,0.32
+Destined Rivals,Yanma,#183,Illustration Rare,4.93
+Destined Rivals,Cynthia’s Roserade,#184,Illustration Rare,17.06
+Destined Rivals,Shaymin,#185,Illustration Rare,13.86
+Destined Rivals,Crustle,#186,Illustration Rare,4.03
+Destined Rivals,Team Rocket’s Spidops,#187,Illustration Rare,7.5
+Destined Rivals,Hydrapple,#188,Illustration Rare,4.78
+Destined Rivals,Rapidash,#189,Illustration Rare,9.72
+Destined Rivals,Ethan’s Typhlosion,#190,Illustration Rare,34.49
+Destined Rivals,Team Rocket’s Houndoom,#191,Illustration Rare,17.16
+Destined Rivals,Blaziken,#192,Illustration Rare,13.2
+Destined Rivals,Misty’s Psyduck,#193,Illustration Rare,80.55
+Destined Rivals,Misty’s Lapras,#194,Illustration Rare,42.5
+Destined Rivals,Clamperl,#195,Illustration Rare,4.84
+Destined Rivals,Electrike,#196,Illustration Rare,3.58
+Destined Rivals,Rotom,#197,Illustration Rare,5.21
+Destined Rivals,Team Rocket’s Orbeetle,#198,Illustration Rare,3.91
+Destined Rivals,Team Rocket’s Weezing,#199,Illustration Rare,9.64
+Destined Rivals,Team Rocket’s Murkrow,#200,Illustration Rare,11.08
+Destined Rivals,Zamazenta,#201,Illustration Rare,5.26
+Destined Rivals,Team Rocket’s Raticate,#202,Illustration Rare,7.44
+Destined Rivals,Team Rocket’s Meowth,#203,Illustration Rare,31.57
+Destined Rivals,Kangaskhan,#204,Illustration Rare,12.89
+Destined Rivals,Arven’s Greedent,#205,Illustration Rare,4.36
+Destined Rivals,Yanmega ex,#206,Ultra Rare,1.41
+Destined Rivals,Arboliva ex,#207,Ultra Rare,3.43
+Destined Rivals,Team Rocket’s Moltres ex,#208,Ultra Rare,5.99
+Destined Rivals,Ethan’s Ho-Oh ex,#209,Ultra Rare,5.85
+Destined Rivals,Cetitan ex,#210,Ultra Rare,1.5
+Destined Rivals,Dondozo ex,#211,Ultra Rare,1.18
+Destined Rivals,Electivire ex,#212,Ultra Rare,1.53
+Destined Rivals,Team Rocket’s Mewtwo ex,#213,Ultra Rare,25.61
+Destined Rivals,Regirock ex,#214,Ultra Rare,1.14
+Destined Rivals,Cynthia’s Garchomp ex,#215,Ultra Rare,5.75
+Destined Rivals,Team Rocket’s Nidoking ex,#216,Ultra Rare,4.45
+Destined Rivals,Team Rocket’s Crobat ex,#217,Ultra Rare,3.9
+Destined Rivals,Arven’s Mabosstiff ex,#218,Ultra Rare,1.92
+Destined Rivals,Team Rocket’s Persian ex,#219,Ultra Rare,4.61
+Destined Rivals,Emcee’s Hype,#220,Ultra Rare,2.12
+Destined Rivals,Ethan’s Adventure,#221,Ultra Rare,3.46
+Destined Rivals,Judge,#222,Ultra Rare,3.16
+Destined Rivals,Team Rocket’s Archer,#223,Ultra Rare,5.69
+Destined Rivals,Team Rocket’s Ariana,#224,Ultra Rare,6.6
+Destined Rivals,Team Rocket’s Giovanni,#225,Ultra Rare,10.22
+Destined Rivals,Team Rocket’s Petrel,#226,Ultra Rare,11.92
+Destined Rivals,Team Rocket’s Proton,#227,Ultra Rare,6.2
+Destined Rivals,Yanmega ex,#228,Special Illustration Rare,25.69
+Destined Rivals,Team Rocket’s Moltres ex,#229,Special Illustration Rare,124.19
+Destined Rivals,Ethan’s Ho-Oh ex,#230,Special Illustration Rare,173.01
+Destined Rivals,Team Rocket’s Mewtwo ex,#231,Special Illustration Rare,565.64
+Destined Rivals,Cynthia’s Garchomp ex,#232,Special Illustration Rare,291.57
+Destined Rivals,Team Rocket’s Nidoking ex,#233,Special Illustration Rare,124.57
+Destined Rivals,Team Rocket’s Crobat ex,#234,Special Illustration Rare,74.41
+Destined Rivals,Arven’s Mabosstiff ex,#235,Special Illustration Rare,33.15
+Destined Rivals,Ethan’s Adventure,#236,Special Illustration Rare,47.33
+Destined Rivals,Team Rocket’s Ariana,#237,Special Illustration Rare,28.81
+Destined Rivals,Team Rocket’s Giovanni,#238,Special Illustration Rare,36.4
+Destined Rivals,Ethan’s Ho-Oh ex,#239,Hyper Rare,30.1
+Destined Rivals,Team Rocket’s Mewtwo ex,#240,Hyper Rare,71.98
+Destined Rivals,Cynthia’s Garchomp ex,#241,Hyper Rare,34.29
+Destined Rivals,Team Rocket’s Crobat ex,#242,Hyper Rare,17.73
+Destined Rivals,Jamming Tower,#243,Hyper Rare,11.33
+Destined Rivals,Levincia,#244,Hyper Rare,9.99
+Journey Together,Caterpie,#001,Common,0.07
+Journey Together,Metapod,#002,Common,0.17
+Journey Together,Butterfree,#003,Rare,0.22
+Journey Together,Paras,#004,Common,0.1
+Journey Together,Parasect,#005,Common,0.17
+Journey Together,Petilil,#006,Common,0.07
+Journey Together,Lilligant,#007,Common,0.2
+Journey Together,Maractus,#008,Uncommon,0.13
+Journey Together,Karrablast,#009,Common,0.14
+Journey Together,Foongus,#010,Common,0.09
+Journey Together,Amoonguss ex,#011,Double Rare,0.71
+Journey Together,Shelmet,#012,Common,0.08
+Journey Together,Accelgor,#013,Uncommon,0.08
+Journey Together,Durant,#014,Common,0.15
+Journey Together,Virizion,#015,Uncommon,0.06
+Journey Together,Sprigatito,#016,Common,0.13
+Journey Together,Floragato,#017,Common,0.21
+Journey Together,Meowscarada,#018,Rare,0.23
+Journey Together,Nymble,#019,Common,0.05
+Journey Together,Magmar,#020,Common,0.09
+Journey Together,Magmortar,#021,Rare,0.25
+Journey Together,Torchic,#022,Common,0.15
+Journey Together,Combusken,#023,Uncommon,0.13
+Journey Together,Blaziken ex,#024,Double Rare,2.46
+Journey Together,Torkoal,#025,Common,0.15
+Journey Together,N’s Darumaka,#026,Common,0.21
+Journey Together,N’s Darmanitan,#027,Uncommon,0.18
+Journey Together,Larvesta,#028,Common,0.06
+Journey Together,Volcarona,#029,Uncommon,0.08
+Journey Together,Reshiram ex,#030,Double Rare,0.66
+Journey Together,Volcanion ex,#031,Double Rare,0.73
+Journey Together,Articuno,#032,Uncommon,0.19
+Journey Together,Remoraid,#033,Common,0.09
+Journey Together,Octillery,#034,Uncommon,0.09
+Journey Together,Lotad,#035,Common,0.18
+Journey Together,Lombre,#036,Common,0.13
+Journey Together,Ludicolo,#037,Rare,0.17
+Journey Together,Wingull,#038,Common,0.09
+Journey Together,Pelipper,#039,Uncommon,0.17
+Journey Together,Wailmer,#040,Common,0.13
+Journey Together,Wailord,#041,Rare,0.22
+Journey Together,Regice,#042,Uncommon,0.13
+Journey Together,Veluza ex,#043,Double Rare,0.69
+Journey Together,Alolan Geodude,#044,Common,0.07
+Journey Together,Alolan Graveler,#045,Common,0.05
+Journey Together,Alolan Golem,#046,Uncommon,0.07
+Journey Together,Iono’s Voltorb,#047,Common,0.2
+Journey Together,Iono’s Electrode,#048,Uncommon,0.09
+Journey Together,N’s Joltik,#049,Common,0.13
+Journey Together,Togedemaru,#050,Common,0.06
+Journey Together,Tapu Koko ex,#051,Double Rare,0.68
+Journey Together,Iono’s Tadbulb,#052,Common,0.16
+Journey Together,Iono’s Bellibolt ex,#053,Double Rare,0.62
+Journey Together,Iono’s Wattrel,#054,Common,0.16
+Journey Together,Iono’s Kilowattrel,#055,Rare,0.56
+Journey Together,Lillie’s Clefairy ex,#056,Double Rare,2.53
+Journey Together,Alolan Marowak,#057,Uncommon,0.18
+Journey Together,Mr. Mime,#058,Common,0.13
+Journey Together,Shuppet,#059,Common,0.17
+Journey Together,Banette,#060,Uncommon,0.11
+Journey Together,Beldum,#061,Common,0.11
+Journey Together,Metang,#062,Common,0.14
+Journey Together,Metagross,#063,Rare,0.2
+Journey Together,N’s Sigilyph,#064,Common,0.14
+Journey Together,Oricorio,#065,Common,0.12
+Journey Together,Lillie’s Cutiefly,#066,Common,0.2
+Journey Together,Lillie’s Ribombee,#067,Rare,0.24
+Journey Together,Lillie’s Comfey,#068,Common,0.17
+Journey Together,Mimikyu ex,#069,Double Rare,2.02
+Journey Together,Dhelmise,#070,Common,0.12
+Journey Together,Impidimp,#071,Common,0.06
+Journey Together,Morgrem,#072,Common,0.21
+Journey Together,Grimmsnarl,#073,Uncommon,0.09
+Journey Together,Milcery,#074,Common,0.1
+Journey Together,Alcremie ex,#075,Double Rare,0.83
+Journey Together,Cubone,#076,Common,0.18
+Journey Together,Swinub,#077,Common,0.04
+Journey Together,Piloswine,#078,Common,0.12
+Journey Together,Mamoswine ex,#079,Double Rare,0.63
+Journey Together,Larvitar,#080,Common,0.12
+Journey Together,Pupitar,#081,Common,0.13
+Journey Together,Regirock,#082,Rare,0.12
+Journey Together,Pancham,#083,Common,0.13
+Journey Together,Rockruff,#084,Common,0.08
+Journey Together,Lycanroc,#085,Rare,0.17
+Journey Together,Hop’s Silicobra,#086,Common,0.17
+Journey Together,Hop’s Sandaconda,#087,Uncommon,0.04
+Journey Together,Toedscool,#088,Common,0.14
+Journey Together,Toedscruel,#089,Uncommon,0.13
+Journey Together,Klawf,#090,Uncommon,0.05
+Journey Together,Koffing,#091,Common,0.11
+Journey Together,Weezing,#092,Uncommon,0.05
+Journey Together,Paldean Wooper,#093,Common,0.17
+Journey Together,Paldean Clodsire ex,#094,Double Rare,0.66
+Journey Together,Tyranitar,#095,Rare,0.19
+Journey Together,N’s Purrloin,#096,Common,0.11
+Journey Together,N’s Zorua,#097,Common,0.25
+Journey Together,N’s Zoroark ex,#098,Double Rare,1.29
+Journey Together,Pangoro,#099,Uncommon,0.08
+Journey Together,Lokix,#100,Uncommon,0.08
+Journey Together,Bombirdier,#101,Common,0.15
+Journey Together,Escavalier,#102,Uncommon,0.03
+Journey Together,N’s Klink,#103,Common,0.1
+Journey Together,N’s Klang,#104,Common,0.19
+Journey Together,N’s Klinklang,#105,Uncommon,0.18
+Journey Together,Galarian Stunfisk,#106,Common,0.11
+Journey Together,Magearna,#107,Rare,0.17
+Journey Together,Hop’s Corviknight,#108,Uncommon,0.09
+Journey Together,Cufant,#109,Common,0.07
+Journey Together,Copperajah,#110,Uncommon,0.04
+Journey Together,Hop’s Zacian ex,#111,Double Rare,0.59
+Journey Together,Bagon,#112,Common,0.07
+Journey Together,Shelgon,#113,Common,0.11
+Journey Together,Salamence ex,#114,Double Rare,0.77
+Journey Together,Druddigon,#115,Common,0.13
+Journey Together,N’s Reshiram,#116,Rare,0.21
+Journey Together,Hop’s Snorlax,#117,Rare,0.31
+Journey Together,Sentret,#118,Common,0.12
+Journey Together,Furret,#119,Common,0.18
+Journey Together,Dunsparce,#120,Common,2.93
+Journey Together,Dudunsparce ex,#121,Double Rare,0.88
+Journey Together,Kecleon,#122,Common,0.18
+Journey Together,Tropius,#123,Common,0.06
+Journey Together,Audino,#124,Common,0.05
+Journey Together,Minccino,#125,Common,0.06
+Journey Together,Cinccino,#126,Uncommon,0.09
+Journey Together,Noibat,#127,Common,0.1
+Journey Together,Noivern,#128,Rare,0.38
+Journey Together,Komala,#129,Common,0.1
+Journey Together,Drampa,#130,Common,0.18
+Journey Together,Skwovet,#131,Common,0.13
+Journey Together,Greedent,#132,Uncommon,0.14
+Journey Together,Hop’s Rookidee,#133,Common,0.15
+Journey Together,Hop’s Corvisquire,#134,Common,0.12
+Journey Together,Hop’s Wooloo,#135,Common,0.06
+Journey Together,Hop’s Dubwool,#136,Rare,0.14
+Journey Together,Cramorant,#137,Common,0.15
+Journey Together,Hop’s Cramorant,#138,Uncommon,0.21
+Journey Together,Lechonk,#139,Common,0.1
+Journey Together,Oinkologne,#140,Uncommon,0.08
+Journey Together,Squawkabilly,#141,Common,0.18
+Journey Together,Billy & O’Nare,#142,Common,0.13
+Journey Together,Black Belt’s Training,#143,Common,0.17
+Journey Together,Black Belt’s Training,#144,Common,0.14
+Journey Together,Black Belt’s Training,#145,Common,0.21
+Journey Together,Brock’s Scouting,#146,Uncommon,0.22
+Journey Together,Hop’s Bag,#147,Uncommon,0.13
+Journey Together,Hop’s Choice Band,#148,Uncommon,0.18
+Journey Together,Iris’s Fighting Spirit,#149,Uncommon,0.08
+Journey Together,Levincia,#150,Uncommon,0.1
+Journey Together,Lillie’s Pearl,#151,Uncommon,0.18
+Journey Together,N’s Castle,#152,Uncommon,0.16
+Journey Together,N’s PP Up,#153,Uncommon,0.22
+Journey Together,Postwick,#154,Uncommon,0.13
+Journey Together,Professor’s Research,#155,Common,0.24
+Journey Together,Redeemable Ticket,#156,Uncommon,0.24
+Journey Together,Ruffian,#157,Uncommon,0.1
+Journey Together,Super Potion,#158,Uncommon,0.15
+Journey Together,Spiky Energy,#159,Uncommon,0.25
+Journey Together,Maractus,#160,Illustration Rare,2.36
+Journey Together,Articuno,#161,Illustration Rare,28.32
+Journey Together,Wailord,#162,Illustration Rare,18.48
+Journey Together,Iono’s Kilowattrel,#163,Illustration Rare,5.65
+Journey Together,Lillie’s Ribombee,#164,Illustration Rare,6.24
+Journey Together,Swinub,#165,Illustration Rare,3.99
+Journey Together,Lycanroc,#166,Illustration Rare,3.05
+Journey Together,N’s Reshiram,#167,Illustration Rare,20.25
+Journey Together,Furret,#168,Illustration Rare,8.42
+Journey Together,Noibat,#169,Illustration Rare,5.98
+Journey Together,Hop’s Wooloo,#170,Illustration Rare,4.62
+Journey Together,Volcanion ex,#171,Ultra Rare,1.11
+Journey Together,Iono’s Bellibolt ex,#172,Ultra Rare,2.22
+Journey Together,Lillie’s Clefairy ex,#173,Ultra Rare,9.07
+Journey Together,Mamoswine ex,#174,Ultra Rare,0.95
+Journey Together,N’s Zoroark ex,#175,Ultra Rare,5.02
+Journey Together,Hop’s Zacian ex,#176,Ultra Rare,1.83
+Journey Together,Salamence ex,#177,Ultra Rare,2.59
+Journey Together,Dudunsparce ex,#178,Ultra Rare,1.75
+Journey Together,Brock’s Scouting,#179,Ultra Rare,3.04
+Journey Together,Iris’s Fighting Spirit,#180,Ultra Rare,1.47
+Journey Together,Ruffian,#181,Ultra Rare,0.87
+Journey Together,Volcanion ex,#182,Special Illustration Rare,21.06
+Journey Together,Iono’s Bellibolt ex,#183,Special Illustration Rare,43.2
+Journey Together,Lillie’s Clefairy ex,#184,Special Illustration Rare,131.98
+Journey Together,N’s Zoroark ex,#185,Special Illustration Rare,55.67
+Journey Together,Hop’s Zacian ex,#186,Special Illustration Rare,37.25
+Journey Together,Salamence ex,#187,Special Illustration Rare,73.46
+Journey Together,Iono’s Bellibolt ex,#188,Hyper Rare,21.08
+Journey Together,N’s Zoroark ex,#189,Hyper Rare,17.61
+Journey Together,Spiky Energy,#190,Hyper Rare,6.17
+Obsidian Flames,Oddish,#001,Common,0.15
+Obsidian Flames,Gloom,#002,Common,0.2
+Obsidian Flames,Bellossom,#003,Uncommon,0.25
+Obsidian Flames,Scyther,#004,Common,0.19
+Obsidian Flames,Shuckle,#005,Common,0.18
+Obsidian Flames,Surskit,#006,Common,0.04
+Obsidian Flames,Masquerain,#007,Uncommon,0.11
+Obsidian Flames,Combee,#008,Common,0.14
+Obsidian Flames,Foongus,#009,Common,0.12
+Obsidian Flames,Amoonguss,#010,Uncommon,0.12
+Obsidian Flames,Phantump,#011,Common,0.08
+Obsidian Flames,Trevenant,#012,Uncommon,0.07
+Obsidian Flames,Rowlet,#013,Common,0.16
+Obsidian Flames,Dartrix,#014,Uncommon,0.16
+Obsidian Flames,Decidueye ex,#015,Double Rare,0.95
+Obsidian Flames,Bounsweet,#016,Common,0.08
+Obsidian Flames,Steenee,#017,Common,0.12
+Obsidian Flames,Tsareena,#018,Uncommon,0.14
+Obsidian Flames,Smoliv,#019,Common,0.11
+Obsidian Flames,Dolliv,#020,Common,0.14
+Obsidian Flames,Arboliva,#021,Uncommon,0.15
+Obsidian Flames,Toedscruel ex,#022,Double Rare,0.99
+Obsidian Flames,Capsakid,#023,Common,0.08
+Obsidian Flames,Capsakid,#024,Common,0.09
+Obsidian Flames,Scovillain,#025,Rare,0.08
+Obsidian Flames,Charmander,#026,Common,0.25
+Obsidian Flames,Charmeleon,#027,Uncommon,0.2
+Obsidian Flames,Vulpix,#028,Common,0.09
+Obsidian Flames,Ninetales,#029,Uncommon,0.27
+Obsidian Flames,Entei,#030,Rare,0.2
+Obsidian Flames,Numel,#031,Common,0.14
+Obsidian Flames,Camerupt,#032,Uncommon,0.11
+Obsidian Flames,Victini ex,#033,Double Rare,1.15
+Obsidian Flames,Darumaka,#034,Common,0.09
+Obsidian Flames,Darmanitan,#035,Uncommon,0.03
+Obsidian Flames,Litwick,#036,Common,0.11
+Obsidian Flames,Lampent,#037,Common,0.16
+Obsidian Flames,Chandelure,#038,Uncommon,0.16
+Obsidian Flames,Heatmor,#039,Common,0.13
+Obsidian Flames,Larvesta,#040,Common,0.12
+Obsidian Flames,Volcarona,#041,Uncommon,0.14
+Obsidian Flames,Eiscue ex,#042,Double Rare,0.97
+Obsidian Flames,Charcadet,#043,Common,0.14
+Obsidian Flames,Armarouge,#044,Uncommon,0.15
+Obsidian Flames,Lapras,#045,Uncommon,0.15
+Obsidian Flames,Carvanha,#046,Common,0.09
+Obsidian Flames,Sharpedo,#047,Uncommon,0.13
+Obsidian Flames,Buizel,#048,Common,0.06
+Obsidian Flames,Floatzel,#049,Uncommon,0.06
+Obsidian Flames,Tympole,#050,Common,0.1
+Obsidian Flames,Palpitoad,#051,Common,0.13
+Obsidian Flames,Seismitoad,#052,Uncommon,0.17
+Obsidian Flames,Cubchoo,#053,Common,0.14
+Obsidian Flames,Beartic,#054,Uncommon,0.16
+Obsidian Flames,Cryogonal,#055,Common,0.11
+Obsidian Flames,Froakie,#056,Common,0.11
+Obsidian Flames,Frogadier,#057,Uncommon,0.15
+Obsidian Flames,Wiglett,#058,Common,0.07
+Obsidian Flames,Wugtrio,#059,Uncommon,0.1
+Obsidian Flames,Finizen,#060,Common,0.18
+Obsidian Flames,Finizen,#061,Common,0.09
+Obsidian Flames,Palafin,#062,Rare,0.14
+Obsidian Flames,Magnemite,#063,Common,0.07
+Obsidian Flames,Magneton,#064,Common,0.1
+Obsidian Flames,Magnezone,#065,Uncommon,0.12
+Obsidian Flames,Tyranitar ex,#066,Double Rare,1.67
+Obsidian Flames,Tynamo,#067,Common,0.1
+Obsidian Flames,Eelektrik,#068,Common,0.09
+Obsidian Flames,Eelektross,#069,Uncommon,0.12
+Obsidian Flames,Thundurus,#070,Rare,0.12
+Obsidian Flames,Toxel,#071,Common,0.14
+Obsidian Flames,Toxtricity,#072,Rare,0.12
+Obsidian Flames,Pawmot ex,#073,Double Rare,0.88
+Obsidian Flames,Tadbulb,#074,Common,0.11
+Obsidian Flames,Tadbulb,#075,Common,0.11
+Obsidian Flames,Tadbulb,#076,Common,0.11
+Obsidian Flames,Bellibolt,#077,Uncommon,0.2
+Obsidian Flames,Bellibolt,#078,Uncommon,0.13
+Obsidian Flames,Miraidon ex,#079,Double Rare,0.98
+Obsidian Flames,Cleffa,#080,Common,0.31
+Obsidian Flames,Clefairy,#081,Common,0.25
+Obsidian Flames,Clefable ex,#082,Double Rare,1.04
+Obsidian Flames,Togepi,#083,Common,0.14
+Obsidian Flames,Togetic,#084,Uncommon,0.12
+Obsidian Flames,Togekiss,#085,Rare,0.14
+Obsidian Flames,Espeon,#086,Uncommon,0.27
+Obsidian Flames,Snubbull,#087,Common,0.15
+Obsidian Flames,Granbull,#088,Uncommon,0.1
+Obsidian Flames,Mawile,#089,Common,0.12
+Obsidian Flames,Spoink,#090,Common,0.12
+Obsidian Flames,Grumpig,#091,Uncommon,0.11
+Obsidian Flames,Lunatone,#092,Uncommon,0.12
+Obsidian Flames,Solrock,#093,Uncommon,0.07
+Obsidian Flames,Baltoy,#094,Common,0.06
+Obsidian Flames,Claydol,#095,Rare,0.12
+Obsidian Flames,Vespiquen ex,#096,Double Rare,1.0
+Obsidian Flames,Sinistea,#097,Common,0.24
+Obsidian Flames,Polteageist,#098,Uncommon,0.09
+Obsidian Flames,Greavard,#099,Common,0.15
+Obsidian Flames,Greavard,#100,Common,0.12
+Obsidian Flames,Houndstone,#101,Uncommon,0.1
+Obsidian Flames,Houndstone ex,#102,Double Rare,0.89
+Obsidian Flames,Diglett,#103,Common,0.14
+Obsidian Flames,Dugtrio,#104,Uncommon,0.1
+Obsidian Flames,Larvitar,#105,Common,0.09
+Obsidian Flames,Pupitar,#106,Uncommon,0.11
+Obsidian Flames,Nosepass,#107,Common,0.07
+Obsidian Flames,Barboach,#108,Common,0.11
+Obsidian Flames,Whiscash,#109,Uncommon,0.14
+Obsidian Flames,Bonsly,#110,Common,0.13
+Obsidian Flames,Drilbur,#111,Common,0.13
+Obsidian Flames,Stunfisk,#112,Uncommon,0.09
+Obsidian Flames,Diggersby,#113,Uncommon,0.02
+Obsidian Flames,Crabrawler,#114,Common,0.14
+Obsidian Flames,Crabominable,#115,Uncommon,0.07
+Obsidian Flames,Rockruff,#116,Common,0.11
+Obsidian Flames,Lycanroc,#117,Uncommon,0.11
+Obsidian Flames,Toedscool,#118,Common,0.06
+Obsidian Flames,Toedscruel,#119,Uncommon,0.07
+Obsidian Flames,Klawf ex,#120,Double Rare,0.89
+Obsidian Flames,Glimmet,#121,Common,0.11
+Obsidian Flames,Glimmet,#122,Common,0.09
+Obsidian Flames,Glimmora ex,#123,Double Rare,0.98
+Obsidian Flames,Koraidon ex,#124,Double Rare,0.78
+Obsidian Flames,Charizard ex,#125,Double Rare,6.02
+Obsidian Flames,Paldean Wooper,#126,Common,0.21
+Obsidian Flames,Paldean Wooper,#127,Common,0.12
+Obsidian Flames,Paldean Clodsire,#128,Uncommon,0.2
+Obsidian Flames,Paldean Clodsire,#129,Uncommon,0.18
+Obsidian Flames,Umbreon,#130,Uncommon,0.33
+Obsidian Flames,Houndour,#131,Common,0.1
+Obsidian Flames,Houndour,#132,Common,0.17
+Obsidian Flames,Houndoom,#133,Uncommon,0.14
+Obsidian Flames,Houndoom ex,#134,Double Rare,1.31
+Obsidian Flames,Absol ex,#135,Double Rare,1.38
+Obsidian Flames,Darkrai,#136,Rare,0.19
+Obsidian Flames,Inkay,#137,Common,0.08
+Obsidian Flames,Malamar,#138,Uncommon,0.12
+Obsidian Flames,Salandit,#139,Common,0.09
+Obsidian Flames,Salazzle,#140,Uncommon,0.13
+Obsidian Flames,Scizor,#141,Rare,0.18
+Obsidian Flames,Skarmory,#142,Uncommon,0.11
+Obsidian Flames,Mawile,#143,Uncommon,0.08
+Obsidian Flames,Bronzor,#144,Common,0.15
+Obsidian Flames,Bronzong,#145,Uncommon,0.1
+Obsidian Flames,Probopass,#146,Uncommon,0.15
+Obsidian Flames,Excadrill,#147,Uncommon,0.11
+Obsidian Flames,Pawniard,#148,Common,0.1
+Obsidian Flames,Bisharp,#149,Common,0.1
+Obsidian Flames,Kingambit,#150,Uncommon,0.18
+Obsidian Flames,Togedemaru,#151,Common,0.08
+Obsidian Flames,Meltan,#152,Common,0.15
+Obsidian Flames,Melmetal ex,#153,Double Rare,1.01
+Obsidian Flames,Varoom,#154,Common,0.12
+Obsidian Flames,Varoom,#155,Common,0.08
+Obsidian Flames,Revavroom ex,#156,Double Rare,0.8
+Obsidian Flames,Dratini,#157,Common,0.2
+Obsidian Flames,Dragonair,#158,Uncommon,0.21
+Obsidian Flames,Dragonite ex,#159,Double Rare,3.5
+Obsidian Flames,Altaria,#160,Uncommon,0.16
+Obsidian Flames,Drampa,#161,Uncommon,0.17
+Obsidian Flames,Pidgey,#162,Common,0.14
+Obsidian Flames,Pidgeotto,#163,Uncommon,0.2
+Obsidian Flames,Pidgeot ex,#164,Double Rare,2.24
+Obsidian Flames,Kangaskhan,#165,Uncommon,0.16
+Obsidian Flames,Eevee,#166,Common,0.24
+Obsidian Flames,Zigzagoon,#167,Common,0.1
+Obsidian Flames,Linoone,#168,Uncommon,0.07
+Obsidian Flames,Swablu,#169,Common,0.12
+Obsidian Flames,Lillipup,#170,Common,0.15
+Obsidian Flames,Herdier,#171,Common,0.11
+Obsidian Flames,Stoutland,#172,Uncommon,0.18
+Obsidian Flames,Audino,#173,Common,0.15
+Obsidian Flames,Bouffalant,#174,Uncommon,0.1
+Obsidian Flames,Bunnelby,#175,Common,0.05
+Obsidian Flames,Yungoos,#176,Common,0.08
+Obsidian Flames,Gumshoos,#177,Uncommon,0.07
+Obsidian Flames,Skwovet,#178,Common,0.14
+Obsidian Flames,Greedent ex,#179,Double Rare,0.99
+Obsidian Flames,Lechonk,#180,Common,0.18
+Obsidian Flames,Lechonk,#181,Common,0.25
+Obsidian Flames,Lechonk,#182,Common,0.11
+Obsidian Flames,Oinkologne,#183,Uncommon,0.15
+Obsidian Flames,Oinkologne,#184,Uncommon,0.12
+Obsidian Flames,Flamigo,#185,Uncommon,0.07
+Obsidian Flames,Arven,#186,Uncommon,0.29
+Obsidian Flames,Brassius,#187,Uncommon,0.17
+Obsidian Flames,Geeta,#188,Rare,0.17
+Obsidian Flames,Letter of Encouragement,#189,Uncommon,0.16
+Obsidian Flames,Ortega,#190,Uncommon,0.12
+Obsidian Flames,Patrol Cap,#191,Uncommon,0.15
+Obsidian Flames,Pokémon League Headquarters,#192,Uncommon,0.23
+Obsidian Flames,Poppy,#193,Uncommon,0.2
+Obsidian Flames,Ryme,#194,Common,0.13
+Obsidian Flames,Team Star Grunt,#195,Uncommon,0.14
+Obsidian Flames,Town Store,#196,Common,0.22
+Obsidian Flames,Vengeful Punch,#197,Uncommon,0.13
+Obsidian Flames,Gloom,#198,Illustration Rare,28.86
+Obsidian Flames,Ninetales,#199,Illustration Rare,51.52
+Obsidian Flames,Palafin,#200,Illustration Rare,5.13
+Obsidian Flames,Bellibolt,#201,Illustration Rare,6.45
+Obsidian Flames,Cleffa,#202,Illustration Rare,45.94
+Obsidian Flames,Larvitar,#203,Illustration Rare,8.95
+Obsidian Flames,Houndour,#204,Illustration Rare,12.62
+Obsidian Flames,Scizor,#205,Illustration Rare,19.55
+Obsidian Flames,Varoom,#206,Illustration Rare,2.94
+Obsidian Flames,Pidgey,#207,Illustration Rare,22.14
+Obsidian Flames,Pidgeotto,#208,Illustration Rare,11.3
+Obsidian Flames,Lechonk,#209,Illustration Rare,13.71
+Obsidian Flames,Eiscue ex,#210,Ultra Rare,1.75
+Obsidian Flames,Tyranitar ex,#211,Ultra Rare,5.85
+Obsidian Flames,Vespiquen ex,#212,Ultra Rare,1.35
+Obsidian Flames,Glimmora ex,#213,Ultra Rare,1.06
+Obsidian Flames,Absol ex,#214,Ultra Rare,3.11
+Obsidian Flames,Charizard ex,#215,Ultra Rare,22.87
+Obsidian Flames,Revavroom ex,#216,Ultra Rare,1.08
+Obsidian Flames,Pidgeot ex,#217,Ultra Rare,2.48
+Obsidian Flames,Geeta,#218,Ultra Rare,1.18
+Obsidian Flames,Ortega,#219,Ultra Rare,1.12
+Obsidian Flames,Poppy,#220,Ultra Rare,1.3
+Obsidian Flames,Ryme,#221,Ultra Rare,1.02
+Obsidian Flames,Eiscue ex,#222,Special Illustration Rare,6.48
+Obsidian Flames,Charizard ex,#223,Special Illustration Rare,140.41
+Obsidian Flames,Revavroom ex,#224,Special Illustration Rare,5.69
+Obsidian Flames,Pidgeot ex,#225,Special Illustration Rare,20.73
+Obsidian Flames,Geeta,#226,Special Illustration Rare,3.56
+Obsidian Flames,Poppy,#227,Special Illustration Rare,3.85
+Obsidian Flames,Charizard ex,#228,Hyper Rare,44.27
+Obsidian Flames,Artazon,#229,Hyper Rare,1.53
+Obsidian Flames,Basic Fire Energy,#230,Hyper Rare,4.07
+Paldea Evolved,Hoppip,#001,Common,0.11
+Paldea Evolved,Skiploom,#002,Uncommon,0.08
+Paldea Evolved,Jumpluff,#003,Rare,0.23
+Paldea Evolved,Pineco,#004,Common,0.03
+Paldea Evolved,Forretress ex,#005,Double Rare,0.76
+Paldea Evolved,Heracross,#006,Uncommon,0.11
+Paldea Evolved,Tropius,#007,Common,0.11
+Paldea Evolved,Combee,#008,Common,0.16
+Paldea Evolved,Vespiquen,#009,Uncommon,0.11
+Paldea Evolved,Snover,#010,Common,0.05
+Paldea Evolved,Abomasnow,#011,Rare,0.08
+Paldea Evolved,Sprigatito,#012,Common,0.14
+Paldea Evolved,Sprigatito,#013,Common,0.18
+Paldea Evolved,Floragato,#014,Uncommon,0.17
+Paldea Evolved,Meowscarada ex,#015,Double Rare,1.05
+Paldea Evolved,Tarountula,#016,Common,0.1
+Paldea Evolved,Tarountula,#017,Common,0.07
+Paldea Evolved,Spidops,#018,Uncommon,0.08
+Paldea Evolved,Nymble,#019,Common,0.05
+Paldea Evolved,Nymble,#020,Common,0.07
+Paldea Evolved,Lokix,#021,Rare,0.15
+Paldea Evolved,Bramblin,#022,Common,0.07
+Paldea Evolved,Bramblin,#023,Common,0.11
+Paldea Evolved,Brambleghast,#024,Uncommon,0.04
+Paldea Evolved,Rellor,#025,Common,0.06
+Paldea Evolved,Rellor,#026,Common,0.06
+Paldea Evolved,Wo-Chien ex,#027,Double Rare,0.88
+Paldea Evolved,Paldean Tauros,#028,Uncommon,0.12
+Paldea Evolved,Fletchinder,#029,Uncommon,0.04
+Paldea Evolved,Talonflame,#030,Uncommon,0.05
+Paldea Evolved,Litleo,#031,Common,0.02
+Paldea Evolved,Pyroar,#032,Uncommon,0.04
+Paldea Evolved,Oricorio,#033,Rare,0.18
+Paldea Evolved,Fuecoco,#034,Common,0.11
+Paldea Evolved,Fuecoco,#035,Common,0.09
+Paldea Evolved,Crocalor,#036,Uncommon,0.06
+Paldea Evolved,Skeledirge ex,#037,Double Rare,0.97
+Paldea Evolved,Charcadet,#038,Common,0.13
+Paldea Evolved,Charcadet,#039,Common,0.09
+Paldea Evolved,Chi-Yu ex,#040,Double Rare,0.79
+Paldea Evolved,Paldean Tauros,#041,Uncommon,0.13
+Paldea Evolved,Magikarp,#042,Common,0.12
+Paldea Evolved,Gyarados,#043,Rare,0.33
+Paldea Evolved,Marill,#044,Common,0.06
+Paldea Evolved,Azumarill,#045,Uncommon,0.09
+Paldea Evolved,Delibird,#046,Common,0.04
+Paldea Evolved,Luvdisc,#047,Common,0.12
+Paldea Evolved,Eiscue,#048,Uncommon,0.11
+Paldea Evolved,Quaxly,#049,Common,0.1
+Paldea Evolved,Quaxly,#050,Common,0.11
+Paldea Evolved,Quaxwell,#051,Uncommon,0.12
+Paldea Evolved,Quaquaval ex,#052,Double Rare,0.7
+Paldea Evolved,Cetoddle,#053,Common,0.1
+Paldea Evolved,Cetoddle,#054,Common,0.08
+Paldea Evolved,Cetitan,#055,Uncommon,0.14
+Paldea Evolved,Veluza,#056,Rare,0.17
+Paldea Evolved,Frigibax,#057,Common,0.1
+Paldea Evolved,Frigibax,#058,Common,0.12
+Paldea Evolved,Arctibax,#059,Uncommon,0.09
+Paldea Evolved,Baxcalibur,#060,Rare,0.26
+Paldea Evolved,Chien-Pao ex,#061,Double Rare,1.11
+Paldea Evolved,Pikachu,#062,Common,0.21
+Paldea Evolved,Pikachu ex,#063,Double Rare,4.29
+Paldea Evolved,Raichu,#064,Uncommon,0.16
+Paldea Evolved,Magnemite,#065,Common,0.09
+Paldea Evolved,Voltorb,#066,Common,0.08
+Paldea Evolved,Electrode,#067,Uncommon,0.06
+Paldea Evolved,Shinx,#068,Common,0.09
+Paldea Evolved,Shinx,#069,Common,0.1
+Paldea Evolved,Luxio,#070,Uncommon,0.08
+Paldea Evolved,Luxray,#071,Rare,0.22
+Paldea Evolved,Pincurchin,#072,Common,0.13
+Paldea Evolved,Pincurchin,#073,Uncommon,0.06
+Paldea Evolved,Pawmi,#074,Common,0.09
+Paldea Evolved,Pawmo,#075,Uncommon,0.05
+Paldea Evolved,Pawmot,#076,Rare,0.13
+Paldea Evolved,Tadbulb,#077,Common,0.06
+Paldea Evolved,Tadbulb,#078,Common,0.05
+Paldea Evolved,Bellibolt ex,#079,Double Rare,0.76
+Paldea Evolved,Wattrel,#080,Common,0.11
+Paldea Evolved,Wattrel,#081,Common,0.08
+Paldea Evolved,Kilowattrel,#082,Uncommon,0.12
+Paldea Evolved,Jigglypuff,#083,Common,0.18
+Paldea Evolved,Wigglytuff,#084,Rare,0.25
+Paldea Evolved,Slowpoke,#085,Common,0.15
+Paldea Evolved,Slowking ex,#086,Double Rare,1.0
+Paldea Evolved,Misdreavus,#087,Common,0.07
+Paldea Evolved,Mismagius,#088,Uncommon,0.06
+Paldea Evolved,Spiritomb,#089,Rare,0.08
+Paldea Evolved,Gothita,#090,Common,0.13
+Paldea Evolved,Gothorita,#091,Uncommon,0.12
+Paldea Evolved,Gothitelle,#092,Uncommon,0.08
+Paldea Evolved,Dedenne ex,#093,Double Rare,1.15
+Paldea Evolved,Oranguru,#094,Uncommon,0.05
+Paldea Evolved,Sandygast,#095,Common,0.03
+Paldea Evolved,Palossand,#096,Uncommon,0.12
+Paldea Evolved,Mimikyu,#097,Rare,0.31
+Paldea Evolved,Ceruledge,#098,Rare,0.22
+Paldea Evolved,Rabsca,#099,Rare,0.12
+Paldea Evolved,Tinkatink,#100,Common,0.12
+Paldea Evolved,Tinkatink,#101,Common,0.13
+Paldea Evolved,Tinkatink,#102,Common,0.11
+Paldea Evolved,Tinkatuff,#103,Uncommon,0.07
+Paldea Evolved,Tinkatuff,#104,Uncommon,0.17
+Paldea Evolved,Tinkaton,#105,Rare,0.25
+Paldea Evolved,Mankey,#106,Common,0.07
+Paldea Evolved,Primeape,#107,Uncommon,0.05
+Paldea Evolved,Paldean Tauros,#108,Uncommon,0.11
+Paldea Evolved,Sudowoodo,#109,Uncommon,0.08
+Paldea Evolved,Larvitar,#110,Common,0.06
+Paldea Evolved,Pupitar,#111,Uncommon,0.07
+Paldea Evolved,Makuhita,#112,Common,0.07
+Paldea Evolved,Hariyama,#113,Rare,0.09
+Paldea Evolved,Croagunk,#114,Common,0.04
+Paldea Evolved,Toxicroak,#115,Uncommon,0.04
+Paldea Evolved,Rockruff,#116,Common,0.07
+Paldea Evolved,Lycanroc ex,#117,Double Rare,0.87
+Paldea Evolved,Passimian,#118,Uncommon,0.08
+Paldea Evolved,Falinks,#119,Common,0.11
+Paldea Evolved,Nacli,#120,Common,0.08
+Paldea Evolved,Nacli,#121,Common,0.09
+Paldea Evolved,Naclstack,#122,Uncommon,0.11
+Paldea Evolved,Garganacl,#123,Rare,0.13
+Paldea Evolved,Glimmet,#124,Common,0.07
+Paldea Evolved,Glimmet,#125,Common,0.09
+Paldea Evolved,Glimmora,#126,Rare,0.12
+Paldea Evolved,Ting-Lu ex,#127,Double Rare,0.75
+Paldea Evolved,Paldean Wooper,#128,Common,0.13
+Paldea Evolved,Paldean Wooper,#129,Common,0.12
+Paldea Evolved,Paldean Clodsire ex,#130,Double Rare,0.79
+Paldea Evolved,Murkrow,#131,Common,0.12
+Paldea Evolved,Honchkrow,#132,Uncommon,0.09
+Paldea Evolved,Sneasel,#133,Common,0.06
+Paldea Evolved,Weavile,#134,Rare,0.09
+Paldea Evolved,Tyranitar,#135,Rare,0.12
+Paldea Evolved,Sableye,#136,Rare,0.23
+Paldea Evolved,Seviper,#137,Uncommon,0.05
+Paldea Evolved,Deino,#138,Common,0.04
+Paldea Evolved,Zweilous,#139,Uncommon,0.08
+Paldea Evolved,Hydreigon,#140,Rare,0.18
+Paldea Evolved,Maschiff,#141,Common,0.08
+Paldea Evolved,Maschiff,#142,Common,0.16
+Paldea Evolved,Mabosstiff,#143,Uncommon,0.09
+Paldea Evolved,Shroodle,#144,Common,0.07
+Paldea Evolved,Shroodle,#145,Common,0.14
+Paldea Evolved,Grafaiai,#146,Uncommon,0.07
+Paldea Evolved,Bombirdier,#147,Uncommon,0.02
+Paldea Evolved,Corviknight,#148,Uncommon,0.05
+Paldea Evolved,Cufant,#149,Common,0.06
+Paldea Evolved,Copperajah ex,#150,Double Rare,0.68
+Paldea Evolved,Orthworm,#151,Rare,0.26
+Paldea Evolved,Noibat,#152,Common,0.08
+Paldea Evolved,Noivern ex,#153,Double Rare,0.62
+Paldea Evolved,Girafarig,#154,Common,0.13
+Paldea Evolved,Farigiraf,#155,Uncommon,0.1
+Paldea Evolved,Dunsparce,#156,Common,0.17
+Paldea Evolved,Dudunsparce,#157,Uncommon,0.08
+Paldea Evolved,Wingull,#158,Common,0.08
+Paldea Evolved,Pelipper,#159,Uncommon,0.04
+Paldea Evolved,Slakoth,#160,Common,0.05
+Paldea Evolved,Vigoroth,#161,Uncommon,0.05
+Paldea Evolved,Slaking,#162,Rare,0.18
+Paldea Evolved,Fletchling,#163,Common,0.09
+Paldea Evolved,Rookidee,#164,Common,0.09
+Paldea Evolved,Corvisquire,#165,Uncommon,0.06
+Paldea Evolved,Tandemaus,#166,Common,0.14
+Paldea Evolved,Tandemaus,#167,Common,0.25
+Paldea Evolved,Maushold,#168,Uncommon,0.22
+Paldea Evolved,Squawkabilly ex,#169,Double Rare,0.74
+Paldea Evolved,Flamigo,#170,Uncommon,0.05
+Paldea Evolved,Artazon,#171,Uncommon,0.29
+Paldea Evolved,Boss’s Orders (Ghetsis),#172,Rare,0.28
+Paldea Evolved,Bravery Charm,#173,Uncommon,0.36
+Paldea Evolved,Calamitous Snowy Mountain,#174,Uncommon,0.15
+Paldea Evolved,Calamitous Wasteland,#175,Uncommon,0.07
+Paldea Evolved,Choice Belt,#176,Uncommon,0.12
+Paldea Evolved,Clavell,#177,Common,0.11
+Paldea Evolved,Delivery Drone,#178,Uncommon,0.09
+Paldea Evolved,Dendra,#179,Uncommon,0.07
+Paldea Evolved,Falkner,#180,Uncommon,0.09
+Paldea Evolved,Fighting Au Lait,#181,Uncommon,0.08
+Paldea Evolved,Giacomo,#182,Uncommon,0.09
+Paldea Evolved,Great Ball,#183,Common,0.12
+Paldea Evolved,Grusha,#184,Uncommon,0.06
+Paldea Evolved,Iono,#185,Uncommon,0.3
+Paldea Evolved,Practice Studio,#186,Uncommon,0.09
+Paldea Evolved,Saguaro,#187,Uncommon,0.09
+Paldea Evolved,Super Rod,#188,Common,0.28
+Paldea Evolved,Superior Energy Retrieval,#189,Uncommon,0.35
+Paldea Evolved,Jet Energy,#190,Uncommon,0.35
+Paldea Evolved,Luminous Energy,#191,Uncommon,0.29
+Paldea Evolved,Reversal Energy,#192,Uncommon,0.29
+Paldea Evolved,Therapeutic Energy,#193,Uncommon,0.19
+Paldea Evolved,Heracross,#194,Illustration Rare,32.45
+Paldea Evolved,Tropius,#195,Illustration Rare,13.25
+Paldea Evolved,Sprigatito,#196,Illustration Rare,58.14
+Paldea Evolved,Floragato,#197,Illustration Rare,21.59
+Paldea Evolved,Bramblin,#198,Illustration Rare,10.27
+Paldea Evolved,Fletchinder,#199,Illustration Rare,20.28
+Paldea Evolved,Pyroar,#200,Illustration Rare,17.74
+Paldea Evolved,Fuecoco,#201,Illustration Rare,55.54
+Paldea Evolved,Crocalor,#202,Illustration Rare,21.87
+Paldea Evolved,Magikarp,#203,Illustration Rare,401.77
+Paldea Evolved,Marill,#204,Illustration Rare,62.99
+Paldea Evolved,Eiscue,#205,Illustration Rare,21.6
+Paldea Evolved,Quaxly,#206,Illustration Rare,19.61
+Paldea Evolved,Quaxwell,#207,Illustration Rare,8.98
+Paldea Evolved,Frigibax,#208,Illustration Rare,22.83
+Paldea Evolved,Arctibax,#209,Illustration Rare,19.47
+Paldea Evolved,Baxcalibur,#210,Illustration Rare,36.71
+Paldea Evolved,Raichu,#211,Illustration Rare,115.88
+Paldea Evolved,Mismagius,#212,Illustration Rare,48.43
+Paldea Evolved,Gothorita,#213,Illustration Rare,13.36
+Paldea Evolved,Sandygast,#214,Illustration Rare,10.1
+Paldea Evolved,Rabsca,#215,Illustration Rare,6.06
+Paldea Evolved,Tinkatink,#216,Illustration Rare,34.41
+Paldea Evolved,Tinkatuff,#217,Illustration Rare,38.81
+Paldea Evolved,Paldean Tauros,#218,Illustration Rare,16.63
+Paldea Evolved,Sudowoodo,#219,Illustration Rare,30.46
+Paldea Evolved,Nacli,#220,Illustration Rare,7.4
+Paldea Evolved,Paldean Wooper,#221,Illustration Rare,14.06
+Paldea Evolved,Tyranitar,#222,Illustration Rare,83.58
+Paldea Evolved,Grafaiai,#223,Illustration Rare,7.73
+Paldea Evolved,Orthworm,#224,Illustration Rare,7.12
+Paldea Evolved,Rookidee,#225,Illustration Rare,11.69
+Paldea Evolved,Maushold,#226,Illustration Rare,104.41
+Paldea Evolved,Flamigo,#227,Illustration Rare,10.37
+Paldea Evolved,Farigiraf,#228,Illustration Rare,14.26
+Paldea Evolved,Dudunsparce,#229,Illustration Rare,10.58
+Paldea Evolved,Forretress ex,#230,Ultra Rare,1.3
+Paldea Evolved,Meowscarada ex,#231,Ultra Rare,4.1
+Paldea Evolved,Wo-Chien ex,#232,Ultra Rare,1.43
+Paldea Evolved,Skeledirge ex,#233,Ultra Rare,2.36
+Paldea Evolved,Chi-Yu ex,#234,Ultra Rare,3.3
+Paldea Evolved,Quaquaval ex,#235,Ultra Rare,1.82
+Paldea Evolved,Chien-Pao ex,#236,Ultra Rare,2.93
+Paldea Evolved,Bellibolt ex,#237,Ultra Rare,4.14
+Paldea Evolved,Slowking ex,#238,Ultra Rare,6.94
+Paldea Evolved,Dedenne ex,#239,Ultra Rare,16.36
+Paldea Evolved,Tinkaton ex,#240,Ultra Rare,9.2
+Paldea Evolved,Lycanroc ex,#241,Ultra Rare,1.93
+Paldea Evolved,Annihilape ex,#242,Ultra Rare,4.26
+Paldea Evolved,Ting-Lu ex,#243,Ultra Rare,1.49
+Paldea Evolved,Paldean Clodsire ex,#244,Ultra Rare,2.62
+Paldea Evolved,Copperajah ex,#245,Ultra Rare,1.33
+Paldea Evolved,Noivern ex,#246,Ultra Rare,2.18
+Paldea Evolved,Squawkabilly ex,#247,Ultra Rare,1.59
+Paldea Evolved,Boss’s Orders (Ghetsis),#248,Ultra Rare,11.37
+Paldea Evolved,Clavell,#249,Ultra Rare,1.17
+Paldea Evolved,Dendra,#250,Ultra Rare,2.06
+Paldea Evolved,Falkner,#251,Ultra Rare,1.36
+Paldea Evolved,Giacomo,#252,Ultra Rare,1.34
+Paldea Evolved,Grusha,#253,Ultra Rare,3.85
+Paldea Evolved,Iono,#254,Ultra Rare,11.81
+Paldea Evolved,Saguaro,#255,Ultra Rare,1.12
+Paldea Evolved,Meowscarada ex,#256,Special Illustration Rare,35.43
+Paldea Evolved,Wo-Chien ex,#257,Special Illustration Rare,15.5
+Paldea Evolved,Skeledirge ex,#258,Special Illustration Rare,38.03
+Paldea Evolved,Chi-Yu ex,#259,Special Illustration Rare,51.8
+Paldea Evolved,Quaquaval ex,#260,Special Illustration Rare,13.98
+Paldea Evolved,Chien-Pao ex,#261,Special Illustration Rare,28.68
+Paldea Evolved,Tinkaton ex,#262,Special Illustration Rare,58.75
+Paldea Evolved,Ting-Lu ex,#263,Special Illustration Rare,11.87
+Paldea Evolved,Squawkabilly ex,#264,Special Illustration Rare,11.04
+Paldea Evolved,Boss’s Orders (Ghetsis),#265,Special Illustration Rare,19.77
+Paldea Evolved,Dendra,#266,Special Illustration Rare,10.11
+Paldea Evolved,Giacomo,#267,Special Illustration Rare,5.15
+Paldea Evolved,Grusha,#268,Special Illustration Rare,20.19
+Paldea Evolved,Iono,#269,Special Illustration Rare,66.38
+Paldea Evolved,Saguaro,#270,Special Illustration Rare,16.04
+Paldea Evolved,Meowscarada ex,#271,Hyper Rare,8.41
+Paldea Evolved,Skeledirge ex,#272,Hyper Rare,5.69
+Paldea Evolved,Quaquaval ex,#273,Hyper Rare,7.02
+Paldea Evolved,Chien-Pao ex,#274,Hyper Rare,6.02
+Paldea Evolved,Ting-Lu ex,#275,Hyper Rare,4.13
+Paldea Evolved,Super Rod,#276,Hyper Rare,3.84
+Paldea Evolved,Superior Energy Retrieval,#277,Hyper Rare,2.6
+Paldea Evolved,Basic Grass Energy,#278,Hyper Rare,11.18
+Paldea Evolved,Basic Water Energy,#279,Hyper Rare,12.59
+Paldean Fates,Pineco,#001,Common,0.04
+Paldean Fates,Forretress ex,#002,Double Rare,0.66
+Paldean Fates,Maractus,#003,Common,0.1
+Paldean Fates,Toedscool,#004,Common,0.03
+Paldean Fates,Toedscruel ex,#005,Double Rare,0.59
+Paldean Fates,Espathra ex,#006,Double Rare,0.6
+Paldean Fates,Charmander,#007,Common,0.17
+Paldean Fates,Charmeleon,#008,Uncommon,0.12
+Paldean Fates,Magmar,#009,Common,0.06
+Paldean Fates,Magmortar,#010,Rare,0.15
+Paldean Fates,Numel,#011,Common,0.07
+Paldean Fates,Camerupt,#012,Uncommon,0.04
+Paldean Fates,Heat Rotom,#013,Rare,0.15
+Paldean Fates,Charcadet,#014,Common,0.03
+Paldean Fates,Armarouge,#015,Rare,0.14
+Paldean Fates,Lapras,#016,Common,0.07
+Paldean Fates,Frigibax,#017,Common,0.1
+Paldean Fates,Pikachu,#018,Common,0.2
+Paldean Fates,Raichu,#019,Rare,0.23
+Paldean Fates,Chinchou,#020,Common,0.05
+Paldean Fates,Lanturn,#021,Uncommon,0.09
+Paldean Fates,Kilowattrel,#022,Uncommon,0.08
+Paldean Fates,Exeggcute,#023,Common,0.03
+Paldean Fates,Exeggutor,#024,Rare,0.23
+Paldean Fates,Natu,#025,Common,0.11
+Paldean Fates,Xatu,#026,Rare,0.15
+Paldean Fates,Ralts,#027,Common,0.11
+Paldean Fates,Kirlia,#028,Uncommon,0.05
+Paldean Fates,Gardevoir ex,#029,Double Rare,0.86
+Paldean Fates,Chimecho,#030,Common,0.06
+Paldean Fates,Mime Jr.,#031,Common,0.09
+Paldean Fates,Woobat,#032,Common,0.05
+Paldean Fates,Swoobat,#033,Uncommon,0.06
+Paldean Fates,Cottonee,#034,Common,0.03
+Paldean Fates,Whimsicott,#035,Uncommon,0.05
+Paldean Fates,Dedenne,#036,Common,0.07
+Paldean Fates,Mimikyu,#037,Rare,0.31
+Paldean Fates,Fidough,#038,Common,0.08
+Paldean Fates,Dachsbun,#039,Uncommon,0.07
+Paldean Fates,Ceruledge,#040,Rare,0.14
+Paldean Fates,Flittle,#041,Common,0.04
+Paldean Fates,Greavard,#042,Common,0.03
+Paldean Fates,Houndstone,#043,Rare,0.14
+Paldean Fates,Gimmighoul,#044,Common,0.13
+Paldean Fates,Mankey,#045,Common,0.05
+Paldean Fates,Primeape,#046,Uncommon,0.04
+Paldean Fates,Annihilape,#047,Rare,0.2
+Paldean Fates,Phanpy,#048,Common,0.08
+Paldean Fates,Donphan,#049,Uncommon,0.08
+Paldean Fates,Barboach,#050,Common,0.04
+Paldean Fates,Clobbopus,#051,Common,0.06
+Paldean Fates,Grapploct,#052,Uncommon,0.04
+Paldean Fates,Great Tusk ex,#053,Double Rare,0.67
+Paldean Fates,Charizard ex,#054,Double Rare,4.89
+Paldean Fates,Gastly,#055,Common,0.08
+Paldean Fates,Haunter,#056,Common,0.09
+Paldean Fates,Gengar,#057,Uncommon,0.29
+Paldean Fates,Paldean Wooper,#058,Common,0.11
+Paldean Fates,Paldean Clodsire ex,#059,Double Rare,0.63
+Paldean Fates,Scraggy,#060,Common,0.06
+Paldean Fates,Scrafty,#061,Uncommon,0.03
+Paldean Fates,Maschiff,#062,Common,0.04
+Paldean Fates,Mabosstiff,#063,Rare,0.16
+Paldean Fates,Varoom,#064,Common,0.06
+Paldean Fates,Revavroom,#065,Rare,0.1
+Paldean Fates,Iron Treads ex,#066,Double Rare,0.73
+Paldean Fates,Gholdengo,#067,Rare,0.15
+Paldean Fates,Noibat,#068,Common,0.05
+Paldean Fates,Noivern ex,#069,Double Rare,0.66
+Paldean Fates,Cyclizar,#070,Rare,0.17
+Paldean Fates,Lechonk,#071,Common,0.07
+Paldean Fates,Oinkologne,#072,Uncommon,0.06
+Paldean Fates,Tandemaus,#073,Common,0.12
+Paldean Fates,Maushold,#074,Uncommon,0.17
+Paldean Fates,Squawkabilly ex,#075,Double Rare,0.61
+Paldean Fates,Artazon,#076,Uncommon,0.19
+Paldean Fates,Atticus,#077,Uncommon,0.06
+Paldean Fates,Clive,#078,Uncommon,0.02
+Paldean Fates,Electric Generator,#079,Uncommon,0.12
+Paldean Fates,Iono,#080,Uncommon,0.25
+Paldean Fates,Moonlit Hill,#081,Uncommon,0.07
+Paldean Fates,Nemona,#082,Common,0.06
+Paldean Fates,Nemona’s Backpack,#083,Uncommon,0.07
+Paldean Fates,Nest Ball,#084,Uncommon,0.21
+Paldean Fates,Paldean Student,#085,Common,0.07
+Paldean Fates,Paldean Student,#086,Common,0.03
+Paldean Fates,Professor’s Research,#087,Rare,0.11
+Paldean Fates,Professor’s Research,#088,Rare,0.15
+Paldean Fates,Rare Candy,#089,Common,0.14
+Paldean Fates,Technical Machine: Crisis Punch,#090,Uncommon,0.05
+Paldean Fates,Ultra Ball,#091,Uncommon,0.18
+Paldean Fates,Oddish,#092,Shiny Rare,12.05
+Paldean Fates,Gloom,#093,Shiny Rare,5.22
+Paldean Fates,Vileplume,#094,Shiny Rare,6.5
+Paldean Fates,Scyther,#095,Shiny Rare,11.42
+Paldean Fates,Hoppip,#096,Shiny Rare,3.39
+Paldean Fates,Skiploom,#097,Shiny Rare,3.08
+Paldean Fates,Jumpluff,#098,Shiny Rare,4.37
+Paldean Fates,Pineco,#099,Shiny Rare,2.69
+Paldean Fates,Snover,#100,Shiny Rare,2.92
+Paldean Fates,Abomasnow,#101,Shiny Rare,2.37
+Paldean Fates,Smoliv,#102,Shiny Rare,4.48
+Paldean Fates,Dolliv,#103,Shiny Rare,2.79
+Paldean Fates,Arboliva,#104,Shiny Rare,2.2
+Paldean Fates,Toedscool,#105,Shiny Rare,3.28
+Paldean Fates,Capsakid,#106,Shiny Rare,2.22
+Paldean Fates,Scovillain,#107,Shiny Rare,2.47
+Paldean Fates,Rellor,#108,Shiny Rare,2.1
+Paldean Fates,Charmander,#109,Shiny Rare,56.34
+Paldean Fates,Charmeleon,#110,Shiny Rare,19.45
+Paldean Fates,Paldean Tauros,#111,Shiny Rare,3.2
+Paldean Fates,Entei,#112,Shiny Rare,21.25
+Paldean Fates,Oricorio,#113,Shiny Rare,3.11
+Paldean Fates,Charcadet,#114,Shiny Rare,5.74
+Paldean Fates,Armarouge,#115,Shiny Rare,5.27
+Paldean Fates,Slowpoke,#116,Shiny Rare,21.18
+Paldean Fates,Slowbro,#117,Shiny Rare,13.8
+Paldean Fates,Staryu,#118,Shiny Rare,6.46
+Paldean Fates,Starmie,#119,Shiny Rare,9.58
+Paldean Fates,Paldean Tauros,#120,Shiny Rare,3.42
+Paldean Fates,Wiglett,#121,Shiny Rare,3.16
+Paldean Fates,Wugtrio,#122,Shiny Rare,2.68
+Paldean Fates,Finizen,#123,Shiny Rare,4.81
+Paldean Fates,Palafin,#124,Shiny Rare,2.76
+Paldean Fates,Veluza,#125,Shiny Rare,2.34
+Paldean Fates,Dondozo,#126,Shiny Rare,3.31
+Paldean Fates,Tatsugiri,#127,Shiny Rare,6.57
+Paldean Fates,Frigibax,#128,Shiny Rare,
+Paldean Fates,Arctibax,#129,Shiny Rare,3.25
+Paldean Fates,Baxcalibur,#130,Shiny Rare,4.38
+Paldean Fates,Pikachu,#131,Shiny Rare,87.53
+Paldean Fates,Raichu,#132,Shiny Rare,25.45
+Paldean Fates,Voltorb,#133,Shiny Rare,4.51
+Paldean Fates,Electrode,#134,Shiny Rare,4.12
+Paldean Fates,Shinx,#135,Shiny Rare,20.16
+Paldean Fates,Luxio,#136,Shiny Rare,5.88
+Paldean Fates,Luxray,#137,Shiny Rare,11.23
+Paldean Fates,Pachirisu,#138,Shiny Rare,10.42
+Paldean Fates,Thundurus,#139,Shiny Rare,3.09
+Paldean Fates,Toxel,#140,Shiny Rare,3.31
+Paldean Fates,Toxtricity,#141,Shiny Rare,2.72
+Paldean Fates,Pawmi,#142,Shiny Rare,4.83
+Paldean Fates,Pawmo,#143,Shiny Rare,3.59
+Paldean Fates,Pawmot,#144,Shiny Rare,3.27
+Paldean Fates,Wattrel,#145,Shiny Rare,2.76
+Paldean Fates,Kilowattrel,#146,Shiny Rare,2.61
+Paldean Fates,Wigglytuff,#147,Shiny Rare,7.0
+Paldean Fates,Abra,#148,Shiny Rare,12.6
+Paldean Fates,Kadabra,#149,Shiny Rare,6.49
+Paldean Fates,Cleffa,#150,Shiny Rare,4.58
+Paldean Fates,Natu,#151,Shiny Rare,3.07
+Paldean Fates,Xatu,#152,Shiny Rare,3.5
+Paldean Fates,Ralts,#153,Shiny Rare,12.06
+Paldean Fates,Kirlia,#154,Shiny Rare,7.56
+Paldean Fates,Drifloon,#155,Shiny Rare,5.05
+Paldean Fates,Drifblim,#156,Shiny Rare,3.08
+Paldean Fates,Mime Jr.,#157,Shiny Rare,5.25
+Paldean Fates,Spiritomb,#158,Shiny Rare,5.24
+Paldean Fates,Klefki,#159,Shiny Rare,4.45
+Paldean Fates,Mimikyu,#160,Shiny Rare,55.45
+Paldean Fates,Dachsbun,#161,Shiny Rare,10.56
+Paldean Fates,Ceruledge,#162,Shiny Rare,11.75
+Paldean Fates,Rabsca,#163,Shiny Rare,1.92
+Paldean Fates,Flittle,#164,Shiny Rare,2.46
+Paldean Fates,Tinkatink,#165,Shiny Rare,8.79
+Paldean Fates,Tinkatuff,#166,Shiny Rare,6.46
+Paldean Fates,Tinkaton,#167,Shiny Rare,9.58
+Paldean Fates,Houndstone,#168,Shiny Rare,2.21
+Paldean Fates,Mankey,#169,Shiny Rare,4.07
+Paldean Fates,Primeape,#170,Shiny Rare,3.6
+Paldean Fates,Annihilape,#171,Shiny Rare,3.61
+Paldean Fates,Paldean Tauros,#172,Shiny Rare,3.3
+Paldean Fates,Riolu,#173,Shiny Rare,14.7
+Paldean Fates,Lucario,#174,Shiny Rare,34.4
+Paldean Fates,Hawlucha,#175,Shiny Rare,8.24
+Paldean Fates,Nacli,#176,Shiny Rare,1.94
+Paldean Fates,Naclstack,#177,Shiny Rare,2.52
+Paldean Fates,Garganacl,#178,Shiny Rare,2.17
+Paldean Fates,Glimmet,#179,Shiny Rare,2.39
+Paldean Fates,Paldean Wooper,#180,Shiny Rare,11.7
+Paldean Fates,Murkrow,#181,Shiny Rare,3.58
+Paldean Fates,Sneasel,#182,Shiny Rare,3.64
+Paldean Fates,Weavile,#183,Shiny Rare,3.38
+Paldean Fates,Sableye,#184,Shiny Rare,6.75
+Paldean Fates,Pawniard,#185,Shiny Rare,2.69
+Paldean Fates,Bisharp,#186,Shiny Rare,2.78
+Paldean Fates,Kingambit,#187,Shiny Rare,3.26
+Paldean Fates,Mabosstiff,#188,Shiny Rare,2.11
+Paldean Fates,Shroodle,#189,Shiny Rare,2.12
+Paldean Fates,Grafaiai,#190,Shiny Rare,2.07
+Paldean Fates,Scizor,#191,Shiny Rare,9.88
+Paldean Fates,Varoom,#192,Shiny Rare,1.65
+Paldean Fates,Revavroom,#193,Shiny Rare,1.9
+Paldean Fates,Noibat,#194,Shiny Rare,4.69
+Paldean Fates,Cyclizar,#195,Shiny Rare,2.2
+Paldean Fates,Pidgey,#196,Shiny Rare,7.41
+Paldean Fates,Pidgeotto,#197,Shiny Rare,5.78
+Paldean Fates,Jigglypuff,#198,Shiny Rare,26.57
+Paldean Fates,Doduo,#199,Shiny Rare,4.35
+Paldean Fates,Dodrio,#200,Shiny Rare,3.99
+Paldean Fates,Ditto,#201,Shiny Rare,53.95
+Paldean Fates,Snorlax,#202,Shiny Rare,65.27
+Paldean Fates,Wingull,#203,Shiny Rare,4.06
+Paldean Fates,Pelipper,#204,Shiny Rare,2.7
+Paldean Fates,Skwovet,#205,Shiny Rare,2.47
+Paldean Fates,Greedent,#206,Shiny Rare,2.36
+Paldean Fates,Lechonk,#207,Shiny Rare,10.2
+Paldean Fates,Oinkologne,#208,Shiny Rare,4.27
+Paldean Fates,Tandemaus,#209,Shiny Rare,31.18
+Paldean Fates,Maushold,#210,Shiny Rare,37.04
+Paldean Fates,Flamigo,#211,Shiny Rare,3.86
+Paldean Fates,Forretress ex,#212,Shiny Ultra Rare,1.0
+Paldean Fates,Toedscruel ex,#213,Shiny Ultra Rare,1.52
+Paldean Fates,Espathra ex,#214,Shiny Ultra Rare,1.24
+Paldean Fates,Alakazam ex,#215,Shiny Ultra Rare,7.95
+Paldean Fates,Mew ex,#216,Shiny Ultra Rare,38.99
+Paldean Fates,Gardevoir ex,#217,Shiny Ultra Rare,10.3
+Paldean Fates,Glimmora ex,#218,Shiny Ultra Rare,0.98
+Paldean Fates,Paldean Clodsire ex,#219,Shiny Ultra Rare,2.28
+Paldean Fates,Noivern ex,#220,Shiny Ultra Rare,1.81
+Paldean Fates,Pidgeot ex,#221,Shiny Ultra Rare,2.53
+Paldean Fates,Wigglytuff ex,#222,Shiny Ultra Rare,2.39
+Paldean Fates,Squawkabilly ex,#223,Shiny Ultra Rare,1.15
+Paldean Fates,Wugtrio,#224,Illustration Rare,2.83
+Paldean Fates,Palafin,#225,Illustration Rare,2.23
+Paldean Fates,Pawmi,#226,Illustration Rare,3.2
+Paldean Fates,Clive,#227,Ultra Rare,0.58
+Paldean Fates,Judge,#228,Ultra Rare,1.49
+Paldean Fates,Nemona,#229,Ultra Rare,0.97
+Paldean Fates,Paldean Student,#230,Ultra Rare,0.82
+Paldean Fates,Paldean Student,#231,Ultra Rare,0.68
+Paldean Fates,Mew ex,#232,Special Illustration Rare,925.18
+Paldean Fates,Gardevoir ex,#233,Special Illustration Rare,184.22
+Paldean Fates,Charizard ex,#234,Special Illustration Rare,334.85
+Paldean Fates,Arven,#235,Special Illustration Rare,10.44
+Paldean Fates,Clive,#236,Special Illustration Rare,28.27
+Paldean Fates,Iono,#237,Special Illustration Rare,30.03
+Paldean Fates,Nemona,#238,Special Illustration Rare,6.7
+Paldean Fates,Penny,#239,Special Illustration Rare,19.5
+Paldean Fates,Wo-Chien ex,#240,Hyper Rare,7.5
+Paldean Fates,Chi-Yu ex,#241,Hyper Rare,11.58
+Paldean Fates,Chien-Pao ex,#242,Hyper Rare,9.93
+Paldean Fates,Miraidon ex,#243,Hyper Rare,13.17
+Paldean Fates,Ting-Lu ex,#244,Hyper Rare,6.04
+Paldean Fates,Koraidon ex,#245,Hyper Rare,13.22
+Paradox Rift,Surskit,#001,Common,0.1
+Paradox Rift,Masquerain,#002,Uncommon,0.06
+Paradox Rift,Froslass ex,#003,Double Rare,0.73
+Paradox Rift,Pansage,#004,Common,0.07
+Paradox Rift,Simisage,#005,Uncommon,0.05
+Paradox Rift,Dwebble,#006,Common,0.06
+Paradox Rift,Crustle,#007,Common,0.1
+Paradox Rift,Bounsweet,#008,Common,0.04
+Paradox Rift,Steenee,#009,Uncommon,0.05
+Paradox Rift,Blipbug,#010,Common,0.09
+Paradox Rift,Dottler,#011,Common,0.07
+Paradox Rift,Orbeetle,#012,Uncommon,0.05
+Paradox Rift,Nymble,#013,Common,0.07
+Paradox Rift,Nymble,#014,Common,0.03
+Paradox Rift,Toedscool,#015,Common,0.13
+Paradox Rift,Toedscool,#016,Common,0.18
+Paradox Rift,Toedscruel,#017,Uncommon,0.1
+Paradox Rift,Wo-Chien,#018,Rare,0.13
+Paradox Rift,Magby,#019,Common,0.1
+Paradox Rift,Pansear,#020,Common,0.03
+Paradox Rift,Simisear,#021,Uncommon,0.04
+Paradox Rift,Volcanion,#022,Rare,0.12
+Paradox Rift,Fuecoco,#023,Common,0.1
+Paradox Rift,Crocalor,#024,Uncommon,0.09
+Paradox Rift,Charcadet,#025,Common,0.17
+Paradox Rift,Charcadet,#026,Common,0.13
+Paradox Rift,Armarouge ex,#027,Double Rare,0.88
+Paradox Rift,Iron Moth,#028,Rare,0.15
+Paradox Rift,Chi-Yu,#029,Rare,0.14
+Paradox Rift,Horsea,#030,Common,0.12
+Paradox Rift,Seadra,#031,Common,0.12
+Paradox Rift,Kingdra,#032,Rare,0.14
+Paradox Rift,Remoraid,#033,Common,0.04
+Paradox Rift,Octillery,#034,Common,0.14
+Paradox Rift,Feebas,#035,Common,0.08
+Paradox Rift,Milotic,#036,Rare,0.11
+Paradox Rift,Snorunt,#037,Common,0.07
+Paradox Rift,Garchomp ex,#038,Double Rare,0.97
+Paradox Rift,Mantyke,#039,Common,0.18
+Paradox Rift,Palkia,#040,Rare,0.13
+Paradox Rift,Panpour,#041,Common,0.06
+Paradox Rift,Simipour,#042,Uncommon,0.03
+Paradox Rift,Vanillite,#043,Common,0.1
+Paradox Rift,Vanillish,#044,Common,0.13
+Paradox Rift,Vanilluxe,#045,Uncommon,0.07
+Paradox Rift,Tsareena ex,#046,Double Rare,0.83
+Paradox Rift,Wimpod,#047,Common,0.13
+Paradox Rift,Wimpod,#048,Common,0.07
+Paradox Rift,Golisopod,#049,Rare,0.15
+Paradox Rift,Golisopod ex,#050,Double Rare,0.7
+Paradox Rift,Wiglett,#051,Common,0.13
+Paradox Rift,Wiglett,#052,Common,0.09
+Paradox Rift,Wugtrio,#053,Uncommon,0.07
+Paradox Rift,Veluza,#054,Uncommon,0.03
+Paradox Rift,Dondozo,#055,Uncommon,0.06
+Paradox Rift,Iron Bundle,#056,Uncommon,0.15
+Paradox Rift,Chien-Pao,#057,Rare,0.11
+Paradox Rift,Mewtwo ex,#058,Double Rare,3.18
+Paradox Rift,Elekid,#059,Common,0.1
+Paradox Rift,Plusle,#060,Common,0.12
+Paradox Rift,Minun,#061,Common,0.13
+Paradox Rift,Blitzle,#062,Common,0.09
+Paradox Rift,Zebstrika,#063,Uncommon,0.06
+Paradox Rift,Joltik,#064,Common,0.08
+Paradox Rift,Galvantula,#065,Common,0.13
+Paradox Rift,Zekrom,#066,Rare,0.14
+Paradox Rift,Oricorio,#067,Common,0.09
+Paradox Rift,Tapu Koko ex,#068,Double Rare,0.75
+Paradox Rift,Toxel,#069,Common,0.16
+Paradox Rift,Iron Hands ex,#070,Double Rare,0.87
+Paradox Rift,Natu,#071,Common,0.09
+Paradox Rift,Xatu,#072,Rare,0.15
+Paradox Rift,Latios,#073,Rare,0.14
+Paradox Rift,Deoxys,#074,Rare,0.22
+Paradox Rift,Yamask,#075,Common,0.06
+Paradox Rift,Cofagrigus ex,#076,Double Rare,0.69
+Paradox Rift,Pumpkaboo,#077,Common,0.06
+Paradox Rift,Gourgeist,#078,Uncommon,0.09
+Paradox Rift,Flittle,#079,Common,0.05
+Paradox Rift,Flittle,#080,Common,0.1
+Paradox Rift,Espathra,#081,Rare,0.11
+Paradox Rift,Tinkatink,#082,Common,0.1
+Paradox Rift,Tinkatink,#083,Common,0.12
+Paradox Rift,Tinkatuff,#084,Common,0.12
+Paradox Rift,Tinkaton,#085,Uncommon,0.1
+Paradox Rift,Scream Tail,#086,Uncommon,0.06
+Paradox Rift,Gimmighoul,#087,Common,0.16
+Paradox Rift,Gimmighoul,#088,Common,0.13
+Paradox Rift,Iron Valiant ex,#089,Double Rare,0.81
+Paradox Rift,Onix,#090,Common,0.06
+Paradox Rift,Gligar,#091,Common,0.06
+Paradox Rift,Gliscor,#092,Uncommon,0.08
+Paradox Rift,Groudon,#093,Rare,0.13
+Paradox Rift,Gible,#094,Common,0.14
+Paradox Rift,Gabite,#095,Common,0.1
+Paradox Rift,Mienfoo,#096,Common,0.03
+Paradox Rift,Mienshao,#097,Uncommon,0.03
+Paradox Rift,Hoopa ex,#098,Double Rare,0.76
+Paradox Rift,Minior,#099,Uncommon,0.13
+Paradox Rift,Toxtricity ex,#100,Double Rare,0.87
+Paradox Rift,Nacli,#101,Common,0.06
+Paradox Rift,Nacli,#102,Common,0.09
+Paradox Rift,Naclstack,#103,Common,0.09
+Paradox Rift,Garganacl,#104,Rare,0.06
+Paradox Rift,Klawf,#105,Uncommon,0.1
+Paradox Rift,Flamigo,#106,Common,0.05
+Paradox Rift,Slither Wing,#107,Uncommon,0.12
+Paradox Rift,Sandy Shocks ex,#108,Double Rare,0.71
+Paradox Rift,Ting-Lu,#109,Rare,0.13
+Paradox Rift,Zubat,#110,Common,0.08
+Paradox Rift,Golbat,#111,Common,0.04
+Paradox Rift,Crobat,#112,Uncommon,0.06
+Paradox Rift,Absol,#113,Uncommon,0.17
+Paradox Rift,Purrloin,#114,Common,0.1
+Paradox Rift,Liepard,#115,Common,0.1
+Paradox Rift,Trubbish,#116,Common,0.09
+Paradox Rift,Garbodor,#117,Uncommon,0.06
+Paradox Rift,Yveltal,#118,Rare,0.13
+Paradox Rift,Nickit,#119,Common,0.03
+Paradox Rift,Thievul,#120,Rare,0.07
+Paradox Rift,Morpeko,#121,Rare,0.19
+Paradox Rift,Lokix,#122,Rare,0.14
+Paradox Rift,Brute Bonnet,#123,Rare,0.12
+Paradox Rift,Roaring Moon ex,#124,Double Rare,0.91
+Paradox Rift,Steelix,#125,Rare,0.16
+Paradox Rift,Jirachi,#126,Common,0.2
+Paradox Rift,Ferroseed,#127,Common,0.07
+Paradox Rift,Ferrothorn,#128,Uncommon,0.09
+Paradox Rift,Durant,#129,Uncommon,0.05
+Paradox Rift,Honedge,#130,Common,0.05
+Paradox Rift,Honedge,#131,Common,0.06
+Paradox Rift,Doublade,#132,Common,0.11
+Paradox Rift,Doublade,#133,Common,0.13
+Paradox Rift,Aegislash,#134,Rare,0.07
+Paradox Rift,Aegislash ex,#135,Double Rare,0.73
+Paradox Rift,Zacian,#136,Rare,0.15
+Paradox Rift,Skeledirge ex,#137,Double Rare,0.74
+Paradox Rift,Orthworm,#138,Uncommon,0.08
+Paradox Rift,Gholdengo ex,#139,Double Rare,1.01
+Paradox Rift,Altaria ex,#140,Double Rare,0.9
+Paradox Rift,Tatsugiri,#141,Uncommon,0.11
+Paradox Rift,Porygon,#142,Common,0.14
+Paradox Rift,Porygon2,#143,Common,0.07
+Paradox Rift,Porygon-Z,#144,Rare,0.16
+Paradox Rift,Aipom,#145,Common,0.05
+Paradox Rift,Ambipom,#146,Uncommon,0.09
+Paradox Rift,Miltank,#147,Common,0.12
+Paradox Rift,Whismur,#148,Common,0.13
+Paradox Rift,Loudred,#149,Common,0.05
+Paradox Rift,Exploud,#150,Uncommon,0.14
+Paradox Rift,Spinda,#151,Common,0.06
+Paradox Rift,Swablu,#152,Common,0.12
+Paradox Rift,Tandemaus,#153,Common,0.16
+Paradox Rift,Tandemaus,#154,Common,0.21
+Paradox Rift,Maushold ex,#155,Double Rare,1.22
+Paradox Rift,Bombirdier ex,#156,Double Rare,0.74
+Paradox Rift,Cyclizar,#157,Uncommon,0.04
+Paradox Rift,Iron Jugulis,#158,Rare,0.15
+Paradox Rift,Ancient Booster Energy Capsule,#159,Uncommon,0.1
+Paradox Rift,Counter Catcher,#160,Uncommon,0.29
+Paradox Rift,Cursed Duster,#161,Uncommon,0.08
+Paradox Rift,Defiance Vest,#162,Uncommon,0.08
+Paradox Rift,Earthen Vessel,#163,Uncommon,0.13
+Paradox Rift,Future Booster Energy Capsule,#164,Uncommon,0.08
+Paradox Rift,Larry,#165,Common,0.1
+Paradox Rift,Luxurious Cape,#166,Uncommon,0.22
+Paradox Rift,Mela,#167,Uncommon,0.12
+Paradox Rift,Norman,#168,Uncommon,0.04
+Paradox Rift,Parasol Lady,#169,Common,0.06
+Paradox Rift,Professor Sada’s Vitality,#170,Uncommon,0.09
+Paradox Rift,Professor Turo’s Scenario,#171,Uncommon,0.17
+Paradox Rift,Rika,#172,Uncommon,0.09
+Paradox Rift,Roark,#173,Uncommon,0.13
+Paradox Rift,Shauntal,#174,Uncommon,0.09
+Paradox Rift,Snorlax Doll,#175,Uncommon,0.26
+Paradox Rift,Technical Machine: Blindside,#176,Uncommon,0.09
+Paradox Rift,Technical Machine: Devolution,#177,Uncommon,0.21
+Paradox Rift,Technical Machine: Evolution,#178,Uncommon,0.3
+Paradox Rift,Technical Machine: Turbo Energize,#179,Uncommon,0.18
+Paradox Rift,Techno Radar,#180,Uncommon,0.11
+Paradox Rift,Tulip,#181,Uncommon,0.16
+Paradox Rift,Medical Energy,#182,Uncommon,0.14
+Paradox Rift,Crustle,#183,Illustration Rare,5.28
+Paradox Rift,Dottler,#184,Illustration Rare,4.86
+Paradox Rift,Toedscruel,#185,Illustration Rare,7.87
+Paradox Rift,Magby,#186,Illustration Rare,20.53
+Paradox Rift,Iron Moth,#187,Illustration Rare,8.42
+Paradox Rift,Snorunt,#188,Illustration Rare,10.45
+Paradox Rift,Mantyke,#189,Illustration Rare,36.19
+Paradox Rift,Vanillish,#190,Illustration Rare,11.99
+Paradox Rift,Wimpod,#191,Illustration Rare,12.15
+Paradox Rift,Veluza,#192,Illustration Rare,10.53
+Paradox Rift,Plusle,#193,Illustration Rare,53.14
+Paradox Rift,Minun,#194,Illustration Rare,46.25
+Paradox Rift,Blitzle,#195,Illustration Rare,9.49
+Paradox Rift,Joltik,#196,Illustration Rare,27.19
+Paradox Rift,Espathra,#197,Illustration Rare,6.88
+Paradox Rift,Gimmighoul,#198,Illustration Rare,15.08
+Paradox Rift,Groudon,#199,Illustration Rare,121.81
+Paradox Rift,Mienshao,#200,Illustration Rare,8.19
+Paradox Rift,Minior,#201,Illustration Rare,26.26
+Paradox Rift,Garganacl,#202,Illustration Rare,5.91
+Paradox Rift,Slither Wing,#203,Illustration Rare,5.65
+Paradox Rift,Garbodor,#204,Illustration Rare,16.35
+Paradox Rift,Yveltal,#205,Illustration Rare,29.42
+Paradox Rift,Morpeko,#206,Illustration Rare,41.1
+Paradox Rift,Brute Bonnet,#207,Illustration Rare,15.93
+Paradox Rift,Steelix,#208,Illustration Rare,41.09
+Paradox Rift,Ferrothorn,#209,Illustration Rare,5.43
+Paradox Rift,Aegislash,#210,Illustration Rare,9.8
+Paradox Rift,Aipom,#211,Illustration Rare,32.1
+Paradox Rift,Loudred,#212,Illustration Rare,15.22
+Paradox Rift,Swablu,#213,Illustration Rare,29.44
+Paradox Rift,Porygon-Z,#214,Illustration Rare,12.46
+Paradox Rift,Cyclizar,#215,Illustration Rare,7.26
+Paradox Rift,Iron Jugulis,#216,Illustration Rare,10.81
+Paradox Rift,Froslass ex,#217,Ultra Rare,2.18
+Paradox Rift,Armarouge ex,#218,Ultra Rare,2.08
+Paradox Rift,Garchomp ex,#219,Ultra Rare,7.41
+Paradox Rift,Tsareena ex,#220,Ultra Rare,2.23
+Paradox Rift,Golisopod ex,#221,Ultra Rare,2.01
+Paradox Rift,Tapu Koko ex,#222,Ultra Rare,1.96
+Paradox Rift,Iron Hands ex,#223,Ultra Rare,2.31
+Paradox Rift,Cofagrigus ex,#224,Ultra Rare,1.86
+Paradox Rift,Iron Valiant ex,#225,Ultra Rare,2.23
+Paradox Rift,Hoopa ex,#226,Ultra Rare,3.26
+Paradox Rift,Toxtricity ex,#227,Ultra Rare,3.09
+Paradox Rift,Sandy Shocks ex,#228,Ultra Rare,2.15
+Paradox Rift,Roaring Moon ex,#229,Ultra Rare,3.56
+Paradox Rift,Aegislash ex,#230,Ultra Rare,2.09
+Paradox Rift,Gholdengo ex,#231,Ultra Rare,3.29
+Paradox Rift,Altaria ex,#232,Ultra Rare,2.99
+Paradox Rift,Maushold ex,#233,Ultra Rare,15.55
+Paradox Rift,Bombirdier ex,#234,Ultra Rare,1.64
+Paradox Rift,Larry,#235,Ultra Rare,1.92
+Paradox Rift,Mela,#236,Ultra Rare,3.5
+Paradox Rift,Norman,#237,Ultra Rare,1.15
+Paradox Rift,Parasol Lady,#238,Ultra Rare,5.5
+Paradox Rift,Professor Sada’s Vitality,#239,Ultra Rare,2.43
+Paradox Rift,Professor Turo’s Scenario,#240,Ultra Rare,2.04
+Paradox Rift,Rika,#241,Ultra Rare,2.11
+Paradox Rift,Roark,#242,Ultra Rare,1.32
+Paradox Rift,Shauntal,#243,Ultra Rare,1.69
+Paradox Rift,Tulip,#244,Ultra Rare,3.81
+Paradox Rift,Garchomp ex,#245,Special Illustration Rare,38.37
+Paradox Rift,Golisopod ex,#246,Special Illustration Rare,25.83
+Paradox Rift,Tapu Koko ex,#247,Special Illustration Rare,21.73
+Paradox Rift,Iron Hands ex,#248,Special Illustration Rare,11.96
+Paradox Rift,Iron Valiant ex,#249,Special Illustration Rare,23.45
+Paradox Rift,Sandy Shocks ex,#250,Special Illustration Rare,8.92
+Paradox Rift,Roaring Moon ex,#251,Special Illustration Rare,41.46
+Paradox Rift,Gholdengo ex,#252,Special Illustration Rare,35.24
+Paradox Rift,Altaria ex,#253,Special Illustration Rare,60.67
+Paradox Rift,Mela,#254,Special Illustration Rare,8.33
+Paradox Rift,Parasol Lady,#255,Special Illustration Rare,18.25
+Paradox Rift,Professor Sada’s Vitality,#256,Special Illustration Rare,8.12
+Paradox Rift,Professor Turo’s Scenario,#257,Special Illustration Rare,5.28
+Paradox Rift,Rika,#258,Special Illustration Rare,8.96
+Paradox Rift,Tulip,#259,Special Illustration Rare,8.5
+Paradox Rift,Garchomp ex,#260,Hyper Rare,16.3
+Paradox Rift,Iron Valiant ex,#261,Hyper Rare,4.99
+Paradox Rift,Roaring Moon ex,#262,Hyper Rare,6.71
+Paradox Rift,Beach Court,#263,Hyper Rare,2.95
+Paradox Rift,Counter Catcher,#264,Hyper Rare,3.02
+Paradox Rift,Luxurious Cape,#265,Hyper Rare,2.75
+Paradox Rift,Reversal Energy,#266,Hyper Rare,2.88
+Prismatic Evolutions,Exeggcute,#001,Common,0.06
+Prismatic Evolutions,Exeggutor,#002,Uncommon,0.08
+Prismatic Evolutions,Pinsir,#003,Common,0.06
+Prismatic Evolutions,Budew,#004,Common,0.27
+Prismatic Evolutions,Leafeon,#005,Rare,0.34
+Prismatic Evolutions,Leafeon ex,#006,Double Rare,4.35
+Prismatic Evolutions,Cottonee,#007,Common,0.05
+Prismatic Evolutions,Whimsicott,#008,Rare,0.13
+Prismatic Evolutions,Applin,#009,Common,0.17
+Prismatic Evolutions,Dipplin,#010,Uncommon,0.2
+Prismatic Evolutions,Hydrapple ex,#011,Double Rare,0.82
+Prismatic Evolutions,Teal Mask Ogerpon ex,#012,Double Rare,3.78
+Prismatic Evolutions,Flareon,#013,Rare,0.3
+Prismatic Evolutions,Flareon ex,#014,Double Rare,5.61
+Prismatic Evolutions,Litleo,#015,Common,0.06
+Prismatic Evolutions,Pyroar,#016,Uncommon,0.05
+Prismatic Evolutions,Hearthflame Mask Ogerpon ex,#017,Double Rare,0.68
+Prismatic Evolutions,Slowpoke,#018,Common,0.1
+Prismatic Evolutions,Slowking,#019,Uncommon,0.1
+Prismatic Evolutions,Goldeen,#020,Common,0.12
+Prismatic Evolutions,Seaking,#021,Uncommon,0.17
+Prismatic Evolutions,Vaporeon,#022,Rare,0.34
+Prismatic Evolutions,Vaporeon ex,#023,Double Rare,3.12
+Prismatic Evolutions,Suicune,#024,Uncommon,0.1
+Prismatic Evolutions,Glaceon,#025,Rare,0.3
+Prismatic Evolutions,Glaceon ex,#026,Double Rare,2.41
+Prismatic Evolutions,Wellspring Mask Ogerpon ex,#027,Double Rare,0.87
+Prismatic Evolutions,Pikachu ex,#028,Double Rare,2.41
+Prismatic Evolutions,Jolteon,#029,Rare,0.31
+Prismatic Evolutions,Jolteon ex,#030,Double Rare,4.06
+Prismatic Evolutions,Iron Hands ex,#031,Double Rare,0.67
+Prismatic Evolutions,Iron Thorns ex,#032,Double Rare,0.77
+Prismatic Evolutions,Espeon,#033,Rare,0.38
+Prismatic Evolutions,Espeon ex,#034,Double Rare,3.22
+Prismatic Evolutions,Duskull,#035,Common,0.2
+Prismatic Evolutions,Dusclops,#036,Common,0.24
+Prismatic Evolutions,Dusknoir,#037,Rare,0.25
+Prismatic Evolutions,Spritzee,#038,Common,0.06
+Prismatic Evolutions,Aromatisse,#039,Common,0.07
+Prismatic Evolutions,Sylveon,#040,Rare,0.42
+Prismatic Evolutions,Sylveon ex,#041,Double Rare,2.68
+Prismatic Evolutions,Scream Tail,#042,Uncommon,0.09
+Prismatic Evolutions,Flutter Mane,#043,Rare,0.1
+Prismatic Evolutions,Munkidori,#044,Rare,0.27
+Prismatic Evolutions,Fezandipiti,#045,Rare,0.13
+Prismatic Evolutions,Iron Boulder,#046,Rare,0.16
+Prismatic Evolutions,Larvitar,#047,Common,0.05
+Prismatic Evolutions,Pupitar,#048,Common,0.07
+Prismatic Evolutions,Groudon,#049,Rare,0.13
+Prismatic Evolutions,Riolu,#050,Common,0.12
+Prismatic Evolutions,Lucario ex,#051,Double Rare,0.79
+Prismatic Evolutions,Hippopotas,#052,Common,0.04
+Prismatic Evolutions,Hippowdon,#053,Common,0.05
+Prismatic Evolutions,Bloodmoon Ursaluna,#054,Rare,0.2
+Prismatic Evolutions,Great Tusk,#055,Uncommon,0.11
+Prismatic Evolutions,Sandy Shocks ex,#056,Double Rare,0.63
+Prismatic Evolutions,Okidogi,#057,Rare,0.15
+Prismatic Evolutions,Cornerstone Mask Ogerpon ex,#058,Double Rare,0.94
+Prismatic Evolutions,Umbreon,#059,Rare,0.39
+Prismatic Evolutions,Umbreon ex,#060,Double Rare,7.92
+Prismatic Evolutions,Sneasel,#061,Common,0.05
+Prismatic Evolutions,Houndour,#062,Common,0.07
+Prismatic Evolutions,Houndoom,#063,Common,0.06
+Prismatic Evolutions,Tyranitar ex,#064,Double Rare,0.78
+Prismatic Evolutions,Roaring Moon,#065,Rare,0.18
+Prismatic Evolutions,Bronzor,#066,Common,0.03
+Prismatic Evolutions,Bronzong,#067,Uncommon,0.02
+Prismatic Evolutions,Heatran,#068,Uncommon,0.08
+Prismatic Evolutions,Duraludon,#069,Common,0.09
+Prismatic Evolutions,Archaludon,#070,Rare,0.11
+Prismatic Evolutions,Dreepy,#071,Common,0.25
+Prismatic Evolutions,Drakloak,#072,Common,0.25
+Prismatic Evolutions,Dragapult ex,#073,Double Rare,1.11
+Prismatic Evolutions,Eevee,#074,Common,0.19
+Prismatic Evolutions,Eevee ex,#075,Double Rare,6.09
+Prismatic Evolutions,Snorlax ex,#076,Double Rare,1.51
+Prismatic Evolutions,Hoothoot,#077,Common,0.16
+Prismatic Evolutions,Noctowl,#078,Rare,0.2
+Prismatic Evolutions,Dunsparce,#079,Common,0.11
+Prismatic Evolutions,Dudunsparce,#080,Rare,0.31
+Prismatic Evolutions,Miltank,#081,Common,0.12
+Prismatic Evolutions,Lugia ex,#082,Double Rare,1.35
+Prismatic Evolutions,Buneary,#083,Common,0.09
+Prismatic Evolutions,Lopunny,#084,Common,0.07
+Prismatic Evolutions,Fan Rotom,#085,Common,0.19
+Prismatic Evolutions,Regigigas,#086,Uncommon,0.16
+Prismatic Evolutions,Shaymin,#087,Uncommon,0.09
+Prismatic Evolutions,Furfrou,#088,Common,0.06
+Prismatic Evolutions,Hawlucha,#089,Uncommon,0.04
+Prismatic Evolutions,Noibat,#090,Common,0.1
+Prismatic Evolutions,Noivern ex,#091,Double Rare,0.65
+Prismatic Evolutions,Terapagos ex,#092,Double Rare,0.79
+Prismatic Evolutions,Amarys,#093,Common,0.05
+Prismatic Evolutions,Area Zero Underdepths,#094,Uncommon,0.2
+Prismatic Evolutions,Binding Mochi,#095,Uncommon,0.2
+Prismatic Evolutions,Black Belt’s Training,#096,Common,0.09
+Prismatic Evolutions,Black Belt’s Training,#097,Common,0.08
+Prismatic Evolutions,Black Belt’s Training,#098,Common,0.06
+Prismatic Evolutions,Black Belt’s Training,#099,Common,0.04
+Prismatic Evolutions,Briar,#100,Uncommon,0.15
+Prismatic Evolutions,Buddy-Buddy Poffin,#101,Uncommon,0.18
+Prismatic Evolutions,Bug Catching Set,#102,Uncommon,0.18
+Prismatic Evolutions,Carmine,#103,Uncommon,0.15
+Prismatic Evolutions,Ciphermaniac’s Codebreaking,#104,Uncommon,0.19
+Prismatic Evolutions,Crispin,#105,Uncommon,0.22
+Prismatic Evolutions,Earthen Vessel,#106,Uncommon,0.17
+Prismatic Evolutions,Explorer’s Guidance,#107,Uncommon,0.19
+Prismatic Evolutions,Festival Grounds,#108,Uncommon,0.16
+Prismatic Evolutions,Friends in Paldea,#109,Common,0.13
+Prismatic Evolutions,Glass Trumpet,#110,Uncommon,0.08
+Prismatic Evolutions,Haban Berry,#111,Common,0.05
+Prismatic Evolutions,Janine’s Secret Art,#112,Uncommon,0.18
+Prismatic Evolutions,Kieran,#113,Uncommon,0.15
+Prismatic Evolutions,Lacey,#114,Uncommon,0.03
+Prismatic Evolutions,Larry’s Skill,#115,Common,0.21
+Prismatic Evolutions,Max Rod,#116,ACE SPEC Rare,0.7
+Prismatic Evolutions,Maximum Belt,#117,ACE SPEC Rare,0.58
+Prismatic Evolutions,Ogre’s Mask,#118,Uncommon,0.02
+Prismatic Evolutions,Prime Catcher,#119,ACE SPEC Rare,0.47
+Prismatic Evolutions,Professor Sada’s Vitality,#120,Uncommon,0.05
+Prismatic Evolutions,Professor Turo’s Scenario,#121,Uncommon,0.13
+Prismatic Evolutions,Professor’s Research,#122,Common,0.13
+Prismatic Evolutions,Professor’s Research,#123,Common,0.13
+Prismatic Evolutions,Professor’s Research,#124,Common,0.11
+Prismatic Evolutions,Professor’s Research,#125,Common,0.1
+Prismatic Evolutions,Rescue Board,#126,Uncommon,0.06
+Prismatic Evolutions,Roto-Stick,#127,Common,0.18
+Prismatic Evolutions,Scoop Up Cyclone,#128,ACE SPEC Rare,0.39
+Prismatic Evolutions,Sparkling Crystal,#129,ACE SPEC Rare,0.38
+Prismatic Evolutions,Techno Radar,#130,Uncommon,0.03
+Prismatic Evolutions,Treasure Tracker,#131,ACE SPEC Rare,0.32
+Prismatic Evolutions,Amarys,#132,Ultra Rare,0.55
+Prismatic Evolutions,Atticus,#133,Ultra Rare,0.94
+Prismatic Evolutions,Atticus,#134,Ultra Rare,0.63
+Prismatic Evolutions,Brassius,#135,Ultra Rare,0.56
+Prismatic Evolutions,Eri,#136,Ultra Rare,1.02
+Prismatic Evolutions,Friends in Paldea,#137,Ultra Rare,1.09
+Prismatic Evolutions,Giacomo,#138,Ultra Rare,0.5
+Prismatic Evolutions,Larry’s Skill,#139,Ultra Rare,0.97
+Prismatic Evolutions,Mela,#140,Ultra Rare,0.77
+Prismatic Evolutions,Ortega,#141,Ultra Rare,0.57
+Prismatic Evolutions,Raifort,#142,Ultra Rare,0.78
+Prismatic Evolutions,Tyme,#143,Ultra Rare,0.47
+Prismatic Evolutions,Leafeon ex,#144,Special Illustration Rare,327.87
+Prismatic Evolutions,Teal Mask Ogerpon ex,#145,Special Illustration Rare,23.25
+Prismatic Evolutions,Flareon ex,#146,Special Illustration Rare,202.72
+Prismatic Evolutions,Ceruledge ex,#147,Special Illustration Rare,100.9
+Prismatic Evolutions,Hearthflame Mask Ogerpon ex,#148,Special Illustration Rare,19.58
+Prismatic Evolutions,Vaporeon ex,#149,Special Illustration Rare,295.84
+Prismatic Evolutions,Glaceon ex,#150,Special Illustration Rare,286.42
+Prismatic Evolutions,Palafin ex,#151,Special Illustration Rare,46.06
+Prismatic Evolutions,Wellspring Mask Ogerpon ex,#152,Special Illustration Rare,17.95
+Prismatic Evolutions,Jolteon ex,#153,Special Illustration Rare,196.58
+Prismatic Evolutions,Iron Hands ex,#154,Special Illustration Rare,35.12
+Prismatic Evolutions,Espeon ex,#155,Special Illustration Rare,330.44
+Prismatic Evolutions,Sylveon ex,#156,Special Illustration Rare,468.46
+Prismatic Evolutions,Iron Valiant ex,#157,Special Illustration Rare,65.99
+Prismatic Evolutions,Iron Crown ex,#158,Special Illustration Rare,36.64
+Prismatic Evolutions,Sandy Shocks ex,#159,Special Illustration Rare,26.25
+Prismatic Evolutions,Cornerstone Mask Ogerpon ex,#160,Special Illustration Rare,16.82
+Prismatic Evolutions,Umbreon ex,#161,Special Illustration Rare,1584.55
+Prismatic Evolutions,Roaring Moon ex,#162,Special Illustration Rare,183.26
+Prismatic Evolutions,Pecharunt ex,#163,Special Illustration Rare,33.42
+Prismatic Evolutions,Gholdengo ex,#164,Special Illustration Rare,49.34
+Prismatic Evolutions,Dragapult ex,#165,Special Illustration Rare,140.72
+Prismatic Evolutions,Raging Bolt ex,#166,Special Illustration Rare,70.68
+Prismatic Evolutions,Eevee ex,#167,Special Illustration Rare,186.09
+Prismatic Evolutions,Bloodmoon Ursaluna ex,#168,Special Illustration Rare,74.9
+Prismatic Evolutions,Terapagos ex,#169,Special Illustration Rare,38.06
+Prismatic Evolutions,Amarys,#170,Special Illustration Rare,15.79
+Prismatic Evolutions,Crispin,#171,Special Illustration Rare,46.33
+Prismatic Evolutions,Drayton,#172,Special Illustration Rare,17.66
+Prismatic Evolutions,Janine’s Secret Art,#173,Special Illustration Rare,26.62
+Prismatic Evolutions,Kieran,#174,Special Illustration Rare,20.64
+Prismatic Evolutions,Lacey,#175,Special Illustration Rare,28.36
+Prismatic Evolutions,Iron Leaves ex,#176,Hyper Rare,6.11
+Prismatic Evolutions,Teal Mask Ogerpon ex,#177,Hyper Rare,11.94
+Prismatic Evolutions,Walking Wake ex,#178,Hyper Rare,6.62
+Prismatic Evolutions,Pikachu ex,#179,Hyper Rare,68.63
+Prismatic Evolutions,Terapagos ex,#180,Hyper Rare,11.57
+Scarlet & Violet Base,Pineco,#001,Common,0.09
+Scarlet & Violet Base,Heracross,#002,Uncommon,0.06
+Scarlet & Violet Base,Shroomish,#003,Common,0.09
+Scarlet & Violet Base,Breloom,#004,Uncommon,0.09
+Scarlet & Violet Base,Cacnea,#005,Common,0.19
+Scarlet & Violet Base,Cacturne,#006,Uncommon,0.12
+Scarlet & Violet Base,Tropius,#007,Common,0.12
+Scarlet & Violet Base,Scatterbug,#008,Common,0.16
+Scarlet & Violet Base,Spewpa,#009,Common,0.1
+Scarlet & Violet Base,Vivillon,#010,Uncommon,0.11
+Scarlet & Violet Base,Skiddo,#011,Common,0.09
+Scarlet & Violet Base,Gogoat,#012,Common,0.12
+Scarlet & Violet Base,Sprigatito,#013,Common,0.24
+Scarlet & Violet Base,Floragato,#014,Uncommon,0.13
+Scarlet & Violet Base,Meowscarada,#015,Rare,0.22
+Scarlet & Violet Base,Tarountula,#016,Common,0.1
+Scarlet & Violet Base,Tarountula,#017,Common,0.11
+Scarlet & Violet Base,Tarountula,#018,Common,0.15
+Scarlet & Violet Base,Spidops ex,#019,Double Rare,0.69
+Scarlet & Violet Base,Smoliv,#020,Common,0.12
+Scarlet & Violet Base,Smoliv,#021,Common,0.11
+Scarlet & Violet Base,Dolliv,#022,Common,0.09
+Scarlet & Violet Base,Arboliva,#023,Rare,0.25
+Scarlet & Violet Base,Toedscool,#024,Common,0.07
+Scarlet & Violet Base,Toedscool,#025,Common,0.06
+Scarlet & Violet Base,Toedscruel,#026,Uncommon,0.08
+Scarlet & Violet Base,Capsakid,#027,Common,0.09
+Scarlet & Violet Base,Capsakid,#028,Common,0.14
+Scarlet & Violet Base,Scovillain,#029,Uncommon,0.11
+Scarlet & Violet Base,Growlithe,#030,Common,0.16
+Scarlet & Violet Base,Growlithe,#031,Common,0.19
+Scarlet & Violet Base,Arcanine ex,#032,Double Rare,1.06
+Scarlet & Violet Base,Houndour,#033,Common,0.05
+Scarlet & Violet Base,Houndoom,#034,Common,0.16
+Scarlet & Violet Base,Torkoal,#035,Uncommon,0.1
+Scarlet & Violet Base,Fuecoco,#036,Common,0.12
+Scarlet & Violet Base,Crocalor,#037,Uncommon,0.1
+Scarlet & Violet Base,Skeledirge,#038,Rare,0.2
+Scarlet & Violet Base,Charcadet,#039,Common,0.11
+Scarlet & Violet Base,Charcadet,#040,Common,0.12
+Scarlet & Violet Base,Armarouge,#041,Rare,0.16
+Scarlet & Violet Base,Slowpoke,#042,Common,0.16
+Scarlet & Violet Base,Slowbro,#043,Rare,0.28
+Scarlet & Violet Base,Magikarp,#044,Common,0.1
+Scarlet & Violet Base,Gyarados ex,#045,Double Rare,1.95
+Scarlet & Violet Base,Buizel,#046,Common,0.08
+Scarlet & Violet Base,Floatzel,#047,Uncommon,0.1
+Scarlet & Violet Base,Alomomola,#048,Common,0.17
+Scarlet & Violet Base,Clauncher,#049,Common,0.04
+Scarlet & Violet Base,Clawitzer,#050,Common,0.06
+Scarlet & Violet Base,Bruxish,#051,Common,0.14
+Scarlet & Violet Base,Quaxly,#052,Common,0.11
+Scarlet & Violet Base,Quaxwell,#053,Uncommon,0.14
+Scarlet & Violet Base,Quaquaval,#054,Rare,0.2
+Scarlet & Violet Base,Wiglett,#055,Common,0.09
+Scarlet & Violet Base,Wiglett,#056,Common,0.16
+Scarlet & Violet Base,Wugtrio,#057,Uncommon,0.11
+Scarlet & Violet Base,Cetoddle,#058,Common,0.07
+Scarlet & Violet Base,Cetoddle,#059,Common,0.08
+Scarlet & Violet Base,Cetitan,#060,Uncommon,0.04
+Scarlet & Violet Base,Dondozo,#061,Rare,0.15
+Scarlet & Violet Base,Tatsugiri,#062,Uncommon,0.19
+Scarlet & Violet Base,Magnemite,#063,Common,0.04
+Scarlet & Violet Base,Magneton,#064,Common,0.09
+Scarlet & Violet Base,Magnezone ex,#065,Double Rare,0.7
+Scarlet & Violet Base,Mareep,#066,Common,0.17
+Scarlet & Violet Base,Flaaffy,#067,Uncommon,0.19
+Scarlet & Violet Base,Pachirisu,#068,Uncommon,0.1
+Scarlet & Violet Base,Rotom,#069,Common,0.1
+Scarlet & Violet Base,Rotom,#070,Common,0.08
+Scarlet & Violet Base,Toxel,#071,Common,0.1
+Scarlet & Violet Base,Toxtricity,#072,Uncommon,0.11
+Scarlet & Violet Base,Pawmi,#073,Common,0.14
+Scarlet & Violet Base,Pawmi,#074,Common,0.11
+Scarlet & Violet Base,Pawmo,#075,Common,0.09
+Scarlet & Violet Base,Pawmot,#076,Rare,0.16
+Scarlet & Violet Base,Wattrel,#077,Common,0.12
+Scarlet & Violet Base,Wattrel,#078,Common,0.03
+Scarlet & Violet Base,Kilowattrel,#079,Uncommon,0.11
+Scarlet & Violet Base,Miraidon,#080,Rare,0.15
+Scarlet & Violet Base,Miraidon ex,#081,Double Rare,0.66
+Scarlet & Violet Base,Drowzee,#082,Common,0.09
+Scarlet & Violet Base,Hypno,#083,Uncommon,0.08
+Scarlet & Violet Base,Ralts,#084,Common,0.11
+Scarlet & Violet Base,Kirlia,#085,Common,0.18
+Scarlet & Violet Base,Gardevoir ex,#086,Double Rare,0.85
+Scarlet & Violet Base,Shuppet,#087,Common,0.08
+Scarlet & Violet Base,Banette ex,#088,Double Rare,0.83
+Scarlet & Violet Base,Drifloon,#089,Common,0.12
+Scarlet & Violet Base,Drifblim,#090,Uncommon,0.09
+Scarlet & Violet Base,Flabébé,#091,Common,0.09
+Scarlet & Violet Base,Floette,#092,Common,0.06
+Scarlet & Violet Base,Florges,#093,Uncommon,0.06
+Scarlet & Violet Base,Dedenne,#094,Common,0.14
+Scarlet & Violet Base,Dedenne,#095,Common,0.17
+Scarlet & Violet Base,Klefki,#096,Rare,0.25
+Scarlet & Violet Base,Fidough,#097,Common,0.19
+Scarlet & Violet Base,Fidough,#098,Common,0.19
+Scarlet & Violet Base,Dachsbun,#099,Uncommon,0.13
+Scarlet & Violet Base,Flittle,#100,Common,0.11
+Scarlet & Violet Base,Flittle,#101,Common,0.04
+Scarlet & Violet Base,Flittle,#102,Common,0.09
+Scarlet & Violet Base,Espathra,#103,Uncommon,0.07
+Scarlet & Violet Base,Greavard,#104,Common,0.11
+Scarlet & Violet Base,Greavard,#105,Common,0.06
+Scarlet & Violet Base,Houndstone,#106,Rare,0.17
+Scarlet & Violet Base,Mankey,#107,Common,0.12
+Scarlet & Violet Base,Primeape,#108,Common,0.11
+Scarlet & Violet Base,Annihilape,#109,Rare,0.17
+Scarlet & Violet Base,Meditite,#110,Common,0.05
+Scarlet & Violet Base,Medicham,#111,Uncommon,0.13
+Scarlet & Violet Base,Riolu,#112,Common,0.17
+Scarlet & Violet Base,Riolu,#113,Common,0.13
+Scarlet & Violet Base,Lucario,#114,Uncommon,0.16
+Scarlet & Violet Base,Sandile,#115,Common,0.1
+Scarlet & Violet Base,Krokorok,#116,Common,0.12
+Scarlet & Violet Base,Krookodile,#117,Uncommon,0.12
+Scarlet & Violet Base,Hawlucha,#118,Rare,0.29
+Scarlet & Violet Base,Silicobra,#119,Common,0.11
+Scarlet & Violet Base,Sandaconda,#120,Uncommon,0.06
+Scarlet & Violet Base,Stonjourner,#121,Uncommon,0.16
+Scarlet & Violet Base,Klawf,#122,Rare,0.11
+Scarlet & Violet Base,Great Tusk ex,#123,Double Rare,0.75
+Scarlet & Violet Base,Koraidon,#124,Rare,0.13
+Scarlet & Violet Base,Koraidon ex,#125,Double Rare,0.74
+Scarlet & Violet Base,Grimer,#126,Common,0.13
+Scarlet & Violet Base,Muk,#127,Uncommon,0.13
+Scarlet & Violet Base,Seviper,#128,Common,0.09
+Scarlet & Violet Base,Spiritomb,#129,Uncommon,0.04
+Scarlet & Violet Base,Croagunk,#130,Common,0.08
+Scarlet & Violet Base,Toxicroak ex,#131,Double Rare,0.78
+Scarlet & Violet Base,Pawniard,#132,Common,0.1
+Scarlet & Violet Base,Bisharp,#133,Common,0.07
+Scarlet & Violet Base,Kingambit,#134,Rare,0.19
+Scarlet & Violet Base,Maschiff,#135,Common,0.11
+Scarlet & Violet Base,Maschiff,#136,Common,0.1
+Scarlet & Violet Base,Mabosstiff,#137,Uncommon,0.08
+Scarlet & Violet Base,Bombirdier,#138,Uncommon,0.12
+Scarlet & Violet Base,Forretress,#139,Uncommon,0.07
+Scarlet & Violet Base,Varoom,#140,Common,0.05
+Scarlet & Violet Base,Varoom,#141,Common,0.07
+Scarlet & Violet Base,Revavroom,#142,Rare,0.17
+Scarlet & Violet Base,Iron Treads ex,#143,Double Rare,0.71
+Scarlet & Violet Base,Chansey,#144,Common,0.15
+Scarlet & Violet Base,Blissey,#145,Uncommon,0.12
+Scarlet & Violet Base,Zangoose,#146,Common,0.08
+Scarlet & Violet Base,Zangoose,#147,Uncommon,0.15
+Scarlet & Violet Base,Starly,#148,Common,0.19
+Scarlet & Violet Base,Staravia,#149,Common,0.08
+Scarlet & Violet Base,Staraptor,#150,Uncommon,0.11
+Scarlet & Violet Base,Skwovet,#151,Common,0.17
+Scarlet & Violet Base,Greedent,#152,Uncommon,0.14
+Scarlet & Violet Base,Indeedee,#153,Rare,0.17
+Scarlet & Violet Base,Lechonk,#154,Common,0.11
+Scarlet & Violet Base,Lechonk,#155,Common,0.13
+Scarlet & Violet Base,Lechonk,#156,Common,0.09
+Scarlet & Violet Base,Oinkologne,#157,Uncommon,0.13
+Scarlet & Violet Base,Oinkologne ex,#158,Double Rare,0.63
+Scarlet & Violet Base,Tandemaus,#159,Common,0.22
+Scarlet & Violet Base,Tandemaus,#160,Common,0.2
+Scarlet & Violet Base,Maushold,#161,Uncommon,0.14
+Scarlet & Violet Base,Squawkabilly,#162,Common,0.21
+Scarlet & Violet Base,Cyclizar,#163,Uncommon,0.06
+Scarlet & Violet Base,Cyclizar,#164,Rare,0.14
+Scarlet & Violet Base,Flamigo,#165,Uncommon,0.11
+Scarlet & Violet Base,Arven,#166,Uncommon,0.33
+Scarlet & Violet Base,Beach Court,#167,Uncommon,0.14
+Scarlet & Violet Base,Crushing Hammer,#168,Common,0.17
+Scarlet & Violet Base,Defiance Band,#169,Uncommon,0.22
+Scarlet & Violet Base,Electric Generator,#170,Uncommon,0.1
+Scarlet & Violet Base,Energy Retrieval,#171,Common,0.29
+Scarlet & Violet Base,Energy Search,#172,Common,0.26
+Scarlet & Violet Base,Energy Switch,#173,Common,0.22
+Scarlet & Violet Base,Exp. Share,#174,Uncommon,0.22
+Scarlet & Violet Base,Jacq,#175,Uncommon,0.15
+Scarlet & Violet Base,Judge,#176,Uncommon,0.26
+Scarlet & Violet Base,Katy,#177,Uncommon,0.12
+Scarlet & Violet Base,Mesagoza,#178,Uncommon,0.1
+Scarlet & Violet Base,Miriam,#179,Uncommon,0.13
+Scarlet & Violet Base,Nemona,#180,Common,0.1
+Scarlet & Violet Base,Nest Ball,#181,Uncommon,0.22
+Scarlet & Violet Base,Pal Pad,#182,Common,0.22
+Scarlet & Violet Base,Penny,#183,Uncommon,0.25
+Scarlet & Violet Base,Picnic Basket,#184,Uncommon,0.11
+Scarlet & Violet Base,Poké Ball,#185,Common,0.17
+Scarlet & Violet Base,Pokégear 3.0,#186,Common,0.35
+Scarlet & Violet Base,Pokémon Catcher,#187,Common,0.18
+Scarlet & Violet Base,Potion,#188,Common,0.08
+Scarlet & Violet Base,Professor’s Research (Professor Sada),#189,Rare,0.21
+Scarlet & Violet Base,Professor’s Research (Professor Turo),#190,Rare,0.14
+Scarlet & Violet Base,Rare Candy,#191,Common,0.15
+Scarlet & Violet Base,Rock Chestplate,#192,Uncommon,0.06
+Scarlet & Violet Base,Rocky Helmet,#193,Uncommon,0.15
+Scarlet & Violet Base,Switch,#194,Common,0.14
+Scarlet & Violet Base,Team Star Grunt,#195,Uncommon,0.11
+Scarlet & Violet Base,Ultra Ball,#196,Uncommon,0.28
+Scarlet & Violet Base,Vitality Band,#197,Uncommon,0.18
+Scarlet & Violet Base,Youngster,#198,Uncommon,0.07
+Scarlet & Violet Base,Tarountula,#199,Illustration Rare,12.62
+Scarlet & Violet Base,Dolliv,#200,Illustration Rare,6.46
+Scarlet & Violet Base,Toedscool,#201,Illustration Rare,5.87
+Scarlet & Violet Base,Scovillain,#202,Illustration Rare,6.44
+Scarlet & Violet Base,Armarouge,#203,Illustration Rare,18.74
+Scarlet & Violet Base,Slowpoke,#204,Illustration Rare,49.31
+Scarlet & Violet Base,Clauncher,#205,Illustration Rare,7.79
+Scarlet & Violet Base,Wiglett,#206,Illustration Rare,31.91
+Scarlet & Violet Base,Dondozo,#207,Illustration Rare,14.44
+Scarlet & Violet Base,Pachirisu,#208,Illustration Rare,18.25
+Scarlet & Violet Base,Pawmot,#209,Illustration Rare,10.01
+Scarlet & Violet Base,Drowzee,#210,Illustration Rare,69.53
+Scarlet & Violet Base,Ralts,#211,Illustration Rare,54.48
+Scarlet & Violet Base,Kirlia,#212,Illustration Rare,50.32
+Scarlet & Violet Base,Fidough,#213,Illustration Rare,27.53
+Scarlet & Violet Base,Greavard,#214,Illustration Rare,25.8
+Scarlet & Violet Base,Riolu,#215,Illustration Rare,43.92
+Scarlet & Violet Base,Sandile,#216,Illustration Rare,5.92
+Scarlet & Violet Base,Klawf,#217,Illustration Rare,5.92
+Scarlet & Violet Base,Mabosstiff,#218,Illustration Rare,7.76
+Scarlet & Violet Base,Bombirdier,#219,Illustration Rare,5.3
+Scarlet & Violet Base,Kingambit,#220,Illustration Rare,10.98
+Scarlet & Violet Base,Starly,#221,Illustration Rare,15.06
+Scarlet & Violet Base,Skwovet,#222,Illustration Rare,7.65
+Scarlet & Violet Base,Spidops ex,#223,Ultra Rare,1.27
+Scarlet & Violet Base,Arcanine ex,#224,Ultra Rare,17.43
+Scarlet & Violet Base,Gyarados ex,#225,Ultra Rare,15.64
+Scarlet & Violet Base,Magnezone ex,#226,Ultra Rare,1.42
+Scarlet & Violet Base,Miraidon ex,#227,Ultra Rare,3.54
+Scarlet & Violet Base,Gardevoir ex,#228,Ultra Rare,5.0
+Scarlet & Violet Base,Banette ex,#229,Ultra Rare,1.82
+Scarlet & Violet Base,Great Tusk ex,#230,Ultra Rare,1.1
+Scarlet & Violet Base,Koraidon ex,#231,Ultra Rare,2.09
+Scarlet & Violet Base,Toxicroak ex,#232,Ultra Rare,1.78
+Scarlet & Violet Base,Iron Treads ex,#233,Ultra Rare,1.14
+Scarlet & Violet Base,Oinkologne ex,#234,Ultra Rare,1.39
+Scarlet & Violet Base,Arven,#235,Ultra Rare,3.28
+Scarlet & Violet Base,Jacq,#236,Ultra Rare,2.46
+Scarlet & Violet Base,Katy,#237,Ultra Rare,3.38
+Scarlet & Violet Base,Miriam,#238,Ultra Rare,5.88
+Scarlet & Violet Base,Penny,#239,Ultra Rare,4.44
+Scarlet & Violet Base,Professor’s Research (Professor Sada),#240,Ultra Rare,3.24
+Scarlet & Violet Base,Professor’s Research (Professor Turo),#241,Ultra Rare,1.81
+Scarlet & Violet Base,Team Star Grunt,#242,Ultra Rare,1.99
+Scarlet & Violet Base,Spidops ex,#243,Special Illustration Rare,10.76
+Scarlet & Violet Base,Miraidon ex,#244,Special Illustration Rare,26.46
+Scarlet & Violet Base,Gardevoir ex,#245,Special Illustration Rare,94.45
+Scarlet & Violet Base,Great Tusk ex,#246,Special Illustration Rare,11.64
+Scarlet & Violet Base,Koraidon ex,#247,Special Illustration Rare,24.03
+Scarlet & Violet Base,Iron Treads ex,#248,Special Illustration Rare,5.82
+Scarlet & Violet Base,Arven,#249,Special Illustration Rare,5.46
+Scarlet & Violet Base,Jacq,#250,Special Illustration Rare,5.27
+Scarlet & Violet Base,Miriam,#251,Special Illustration Rare,28.74
+Scarlet & Violet Base,Penny,#252,Special Illustration Rare,6.42
+Scarlet & Violet Base,Miraidon ex,#253,Hyper Rare,7.41
+Scarlet & Violet Base,Koraidon ex,#254,Hyper Rare,6.53
+Scarlet & Violet Base,Nest Ball,#255,Hyper Rare,5.0
+Scarlet & Violet Base,Rare Candy,#256,Hyper Rare,6.75
+Scarlet & Violet Base,Basic Lightning Energy,#257,Hyper Rare,4.37
+Scarlet & Violet Base,Basic Fighting Energy,#258,Hyper Rare,8.93
+Shrouded Fable,Joltik,#001,Common,0.07
+Shrouded Fable,Galvantula,#002,Uncommon,0.18
+Shrouded Fable,Rowlet,#003,Common,0.13
+Shrouded Fable,Dartrix,#004,Common,0.12
+Shrouded Fable,Decidueye,#005,Uncommon,0.08
+Shrouded Fable,Tapu Bulu,#006,Rare,0.18
+Shrouded Fable,Houndour,#007,Common,0.15
+Shrouded Fable,Houndoom,#008,Common,0.1
+Shrouded Fable,Iron Moth,#009,Uncommon,0.22
+Shrouded Fable,Horsea,#010,Common,0.04
+Shrouded Fable,Seadra,#011,Common,0.05
+Shrouded Fable,Kingdra ex,#012,Double Rare,0.83
+Shrouded Fable,Sneasel,#013,Common,0.05
+Shrouded Fable,Weavile,#014,Uncommon,0.07
+Shrouded Fable,Revavroom ex,#015,Double Rare,0.7
+Shrouded Fable,Drowzee,#016,Common,0.07
+Shrouded Fable,Hypno,#017,Uncommon,0.05
+Shrouded Fable,Duskull,#018,Common,0.18
+Shrouded Fable,Dusclops,#019,Common,0.17
+Shrouded Fable,Dusknoir,#020,Rare,0.18
+Shrouded Fable,Cresselia,#021,Rare,0.08
+Shrouded Fable,Sylveon,#022,Uncommon,0.28
+Shrouded Fable,Croagunk,#023,Common,0.05
+Shrouded Fable,Toxicroak,#024,Common,0.04
+Shrouded Fable,Bloodmoon Ursaluna,#025,Rare,0.21
+Shrouded Fable,Slither Wing,#026,Uncommon,0.12
+Shrouded Fable,Zubat,#027,Common,0.17
+Shrouded Fable,Golbat,#028,Common,0.16
+Shrouded Fable,Crobat,#029,Uncommon,0.08
+Shrouded Fable,Absol,#030,Common,0.16
+Shrouded Fable,Zorua,#031,Common,0.04
+Shrouded Fable,Zoroark,#032,Rare,0.11
+Shrouded Fable,Inkay,#033,Common,0.05
+Shrouded Fable,Malamar,#034,Uncommon,0.05
+Shrouded Fable,Yveltal,#035,Uncommon,0.03
+Shrouded Fable,Okidogi ex,#036,Double Rare,0.69
+Shrouded Fable,Munkidori ex,#037,Double Rare,0.76
+Shrouded Fable,Fezandipiti ex,#038,Double Rare,5.07
+Shrouded Fable,Pecharunt ex,#039,Double Rare,4.8
+Shrouded Fable,Genesect,#040,Uncommon,0.17
+Shrouded Fable,Cufant,#041,Common,0.07
+Shrouded Fable,Copperajah,#042,Rare,0.08
+Shrouded Fable,Varoom,#043,Common,0.1
+Shrouded Fable,Axew,#044,Common,0.06
+Shrouded Fable,Fraxure,#045,Common,0.08
+Shrouded Fable,Haxorus,#046,Rare,0.11
+Shrouded Fable,Kyurem,#047,Uncommon,0.1
+Shrouded Fable,Meowth,#048,Common,0.12
+Shrouded Fable,Persian,#049,Common,0.08
+Shrouded Fable,Eevee,#050,Common,0.21
+Shrouded Fable,Furfrou,#051,Common,0.06
+Shrouded Fable,Stufful,#052,Common,0.05
+Shrouded Fable,Bewear,#053,Common,0.04
+Shrouded Fable,Academy at Night,#054,Uncommon,0.1
+Shrouded Fable,Binding Mochi,#055,Uncommon,0.11
+Shrouded Fable,Cassiopeia,#056,Uncommon,0.09
+Shrouded Fable,Colress’s Tenacity,#057,Uncommon,0.22
+Shrouded Fable,Dangerous Laser,#058,ACE SPEC Rare,0.49
+Shrouded Fable,Janine’s Secret Art,#059,Uncommon,0.08
+Shrouded Fable,Neutralization Zone,#060,ACE SPEC Rare,0.92
+Shrouded Fable,Night Stretcher,#061,Uncommon,0.36
+Shrouded Fable,Poké Vital A,#062,ACE SPEC Rare,0.57
+Shrouded Fable,Powerglass,#063,Uncommon,0.23
+Shrouded Fable,Xerosic’s Machinations,#064,Uncommon,0.19
+Shrouded Fable,Tapu Bulu,#065,Illustration Rare,10.76
+Shrouded Fable,Houndoom,#066,Illustration Rare,51.63
+Shrouded Fable,Horsea,#067,Illustration Rare,52.71
+Shrouded Fable,Duskull,#068,Illustration Rare,57.86
+Shrouded Fable,Dusclops,#069,Illustration Rare,50.15
+Shrouded Fable,Dusknoir,#070,Illustration Rare,35.96
+Shrouded Fable,Cresselia,#071,Illustration Rare,27.72
+Shrouded Fable,Munkidori,#072,Illustration Rare,42.7
+Shrouded Fable,Fezandipiti,#073,Illustration Rare,11.21
+Shrouded Fable,Okidogi,#074,Illustration Rare,16.99
+Shrouded Fable,Zorua,#075,Illustration Rare,21.46
+Shrouded Fable,Cufant,#076,Illustration Rare,15.46
+Shrouded Fable,Fraxure,#077,Illustration Rare,13.48
+Shrouded Fable,Persian,#078,Illustration Rare,78.7
+Shrouded Fable,Bewear,#079,Illustration Rare,35.71
+Shrouded Fable,Kingdra ex,#080,Ultra Rare,3.35
+Shrouded Fable,Revavroom ex,#081,Ultra Rare,1.51
+Shrouded Fable,Okidogi ex,#082,Ultra Rare,2.68
+Shrouded Fable,Munkidori ex,#083,Ultra Rare,2.18
+Shrouded Fable,Fezandipiti ex,#084,Ultra Rare,13.01
+Shrouded Fable,Pecharunt ex,#085,Ultra Rare,6.61
+Shrouded Fable,Cassiopeia,#086,Ultra Rare,3.35
+Shrouded Fable,Colress’s Tenacity,#087,Ultra Rare,7.67
+Shrouded Fable,Janine’s Secret Art,#088,Ultra Rare,6.07
+Shrouded Fable,Xerosic’s Machinations,#089,Ultra Rare,12.04
+Shrouded Fable,Okidogi ex,#090,Special Illustration Rare,21.97
+Shrouded Fable,Munkidori ex,#091,Special Illustration Rare,18.32
+Shrouded Fable,Fezandipiti ex,#092,Special Illustration Rare,45.22
+Shrouded Fable,Pecharunt ex,#093,Special Illustration Rare,25.89
+Shrouded Fable,Cassiopeia,#094,Special Illustration Rare,40.7
+Shrouded Fable,Pecharunt ex,#095,Hyper Rare,22.19
+Shrouded Fable,Earthen Vessel,#096,Hyper Rare,20.65
+Shrouded Fable,Powerglass,#097,Hyper Rare,21.23
+Shrouded Fable,Basic Darkness Energy,#098,Hyper Rare,67.01
+Shrouded Fable,Basic Metal Energy,#099,Hyper Rare,35.41
+Stellar Crown,Venusaur ex,#001,Double Rare,1.15
+Stellar Crown,Ledyba,#002,Common,0.14
+Stellar Crown,Ledian,#003,Rare,0.2
+Stellar Crown,Celebi,#004,Uncommon,0.13
+Stellar Crown,Lileep,#005,Common,0.19
+Stellar Crown,Cradily,#006,Rare,0.16
+Stellar Crown,Carnivine,#007,Common,0.04
+Stellar Crown,Mow Rotom,#008,Common,0.06
+Stellar Crown,Grubbin,#009,Common,0.04
+Stellar Crown,Gossifleur,#010,Common,0.04
+Stellar Crown,Eldegoss,#011,Uncommon,0.08
+Stellar Crown,Applin,#012,Common,0.1
+Stellar Crown,Dipplin,#013,Common,0.18
+Stellar Crown,Hydrapple ex,#014,Double Rare,1.01
+Stellar Crown,Nymble,#015,Common,0.09
+Stellar Crown,Lokix,#016,Common,0.1
+Stellar Crown,Toedscool,#017,Common,0.17
+Stellar Crown,Toedscruel,#018,Uncommon,0.07
+Stellar Crown,Ponyta,#019,Common,0.12
+Stellar Crown,Rapidash,#020,Uncommon,0.12
+Stellar Crown,Pansear,#021,Common,0.05
+Stellar Crown,Reshiram,#022,Uncommon,0.09
+Stellar Crown,Salandit,#023,Common,0.08
+Stellar Crown,Salazzle,#024,Uncommon,0.07
+Stellar Crown,Turtonator,#025,Common,0.04
+Stellar Crown,Scorbunny,#026,Common,0.14
+Stellar Crown,Raboot,#027,Common,0.12
+Stellar Crown,Cinderace ex,#028,Double Rare,0.95
+Stellar Crown,Charcadet,#029,Common,0.06
+Stellar Crown,Blastoise ex,#030,Double Rare,4.25
+Stellar Crown,Lapras,#031,Uncommon,0.18
+Stellar Crown,Lapras ex,#032,Double Rare,1.58
+Stellar Crown,Marill,#033,Common,0.12
+Stellar Crown,Azumarill,#034,Uncommon,0.07
+Stellar Crown,Finneon,#035,Common,0.06
+Stellar Crown,Lumineon,#036,Uncommon,0.05
+Stellar Crown,Tirtouga,#037,Common,0.06
+Stellar Crown,Carracosta,#038,Rare,0.22
+Stellar Crown,Froakie,#039,Common,0.12
+Stellar Crown,Frogadier,#040,Uncommon,0.1
+Stellar Crown,Greninja ex,#041,Double Rare,1.75
+Stellar Crown,Crabominable,#042,Uncommon,0.06
+Stellar Crown,Chewtle,#043,Common,0.17
+Stellar Crown,Drednaw,#044,Rare,0.05
+Stellar Crown,Veluza,#045,Uncommon,0.06
+Stellar Crown,Electabuzz,#046,Common,0.06
+Stellar Crown,Electivire,#047,Uncommon,0.11
+Stellar Crown,Chinchou,#048,Common,0.07
+Stellar Crown,Lanturn,#049,Uncommon,0.06
+Stellar Crown,Joltik,#050,Common,0.21
+Stellar Crown,Galvantula ex,#051,Double Rare,0.8
+Stellar Crown,Charjabug,#052,Common,0.08
+Stellar Crown,Vikavolt,#053,Uncommon,0.07
+Stellar Crown,Togedemaru,#054,Uncommon,0.05
+Stellar Crown,Zeraora,#055,Rare,0.11
+Stellar Crown,Pawmi,#056,Common,0.09
+Stellar Crown,Slowpoke,#057,Common,1.11
+Stellar Crown,Slowking,#058,Uncommon,0.17
+Stellar Crown,Mewtwo,#059,Uncommon,0.33
+Stellar Crown,Drifloon,#060,Common,0.09
+Stellar Crown,Drifblim,#061,Uncommon,0.13
+Stellar Crown,Yamask,#062,Common,0.06
+Stellar Crown,Comfey,#063,Common,0.07
+Stellar Crown,Milcery,#064,Common,0.07
+Stellar Crown,Alcremie,#065,Rare,0.18
+Stellar Crown,Fidough,#066,Common,0.21
+Stellar Crown,Dachsbun ex,#067,Double Rare,1.08
+Stellar Crown,Flittle,#068,Common,0.12
+Stellar Crown,Espathra,#069,Common,0.11
+Stellar Crown,Greavard,#070,Common,0.08
+Stellar Crown,Iron Boulder,#071,Rare,0.12
+Stellar Crown,Cubone,#072,Common,0.2
+Stellar Crown,Marowak,#073,Uncommon,0.11
+Stellar Crown,Rhyhorn,#074,Common,0.09
+Stellar Crown,Rhydon,#075,Common,0.13
+Stellar Crown,Rhyperior,#076,Rare,0.12
+Stellar Crown,Meditite,#077,Common,0.16
+Stellar Crown,Meditite,#078,Common,0.14
+Stellar Crown,Medicham,#079,Common,0.08
+Stellar Crown,Medicham ex,#080,Double Rare,0.65
+Stellar Crown,Riolu,#081,Common,0.16
+Stellar Crown,Lucario ex,#082,Double Rare,0.98
+Stellar Crown,Mienfoo,#083,Common,0.03
+Stellar Crown,Mienshao,#084,Uncommon,0.1
+Stellar Crown,Pancham,#085,Common,0.12
+Stellar Crown,Diancie,#086,Uncommon,0.11
+Stellar Crown,Crabrawler,#087,Common,0.03
+Stellar Crown,Falinks,#088,Common,0.21
+Stellar Crown,Garganacl ex,#089,Double Rare,0.58
+Stellar Crown,Koraidon,#090,Uncommon,0.05
+Stellar Crown,Gulpin,#091,Common,0.19
+Stellar Crown,Swalot,#092,Uncommon,0.09
+Stellar Crown,Pangoro,#093,Uncommon,0.06
+Stellar Crown,Impidimp,#094,Common,0.12
+Stellar Crown,Morgrem,#095,Common,0.11
+Stellar Crown,Grimmsnarl,#096,Rare,0.05
+Stellar Crown,Bombirdier,#097,Common,0.04
+Stellar Crown,Jirachi,#098,Uncommon,0.19
+Stellar Crown,Klink,#099,Common,0.05
+Stellar Crown,Klang,#100,Common,0.05
+Stellar Crown,Klinklang,#101,Rare,0.15
+Stellar Crown,Meltan,#102,Common,0.23
+Stellar Crown,Meltan,#103,Common,0.12
+Stellar Crown,Melmetal,#104,Rare,0.06
+Stellar Crown,Melmetal ex,#105,Double Rare,0.71
+Stellar Crown,Duraludon,#106,Common,0.11
+Stellar Crown,Archaludon,#107,Rare,0.05
+Stellar Crown,Varoom,#108,Common,0.07
+Stellar Crown,Revavroom,#109,Uncommon,0.04
+Stellar Crown,Orthworm ex,#110,Double Rare,0.74
+Stellar Crown,Raging Bolt,#111,Rare,0.17
+Stellar Crown,Tauros,#112,Common,0.09
+Stellar Crown,Eevee,#113,Common,0.26
+Stellar Crown,Hoothoot,#114,Common,0.28
+Stellar Crown,Noctowl,#115,Rare,0.3
+Stellar Crown,Glameow,#116,Common,0.09
+Stellar Crown,Purugly,#117,Common,0.06
+Stellar Crown,Fan Rotom,#118,Common,0.15
+Stellar Crown,Bouffalant,#119,Rare,0.16
+Stellar Crown,Tornadus,#120,Uncommon,0.05
+Stellar Crown,Fletchling,#121,Common,0.1
+Stellar Crown,Fletchinder,#122,Common,0.11
+Stellar Crown,Talonflame,#123,Uncommon,0.11
+Stellar Crown,Wooloo,#124,Common,0.14
+Stellar Crown,Dubwool,#125,Uncommon,0.07
+Stellar Crown,Lechonk,#126,Common,0.14
+Stellar Crown,Cyclizar,#127,Common,0.04
+Stellar Crown,Terapagos ex,#128,Double Rare,1.05
+Stellar Crown,Antique Cover Fossil,#129,Common,0.18
+Stellar Crown,Antique Root Fossil,#130,Common,0.11
+Stellar Crown,Area Zero Underdepths,#131,Uncommon,0.15
+Stellar Crown,Briar,#132,Uncommon,0.17
+Stellar Crown,Crispin,#133,Uncommon,0.21
+Stellar Crown,Deluxe Bomb,#134,ACE SPEC Rare,0.42
+Stellar Crown,Glass Trumpet,#135,Uncommon,0.11
+Stellar Crown,Grand Tree,#136,ACE SPEC Rare,0.62
+Stellar Crown,Gravity Gemstone,#137,Uncommon,0.08
+Stellar Crown,Kofu,#138,Uncommon,0.06
+Stellar Crown,Lacey,#139,Uncommon,0.07
+Stellar Crown,Occa Berry,#140,Uncommon,0.06
+Stellar Crown,Payapa Berry,#141,Uncommon,0.05
+Stellar Crown,Sparkling Crystal,#142,ACE SPEC Rare,0.4
+Stellar Crown,Bulbasaur,#143,Illustration Rare,133.9
+Stellar Crown,Ledian,#144,Illustration Rare,6.47
+Stellar Crown,Lileep,#145,Illustration Rare,8.34
+Stellar Crown,Turtonator,#146,Illustration Rare,4.39
+Stellar Crown,Raboot,#147,Illustration Rare,8.48
+Stellar Crown,Squirtle,#148,Illustration Rare,120.45
+Stellar Crown,Crabominable,#149,Illustration Rare,2.94
+Stellar Crown,Joltik,#150,Illustration Rare,7.99
+Stellar Crown,Zeraora,#151,Illustration Rare,14.19
+Stellar Crown,Milcery,#152,Illustration Rare,18.99
+Stellar Crown,Meditite,#153,Illustration Rare,7.8
+Stellar Crown,Gulpin,#154,Illustration Rare,12.84
+Stellar Crown,Archaludon,#155,Illustration Rare,3.86
+Stellar Crown,Hydrapple ex,#156,Ultra Rare,3.19
+Stellar Crown,Cinderace ex,#157,Ultra Rare,3.61
+Stellar Crown,Lapras ex,#158,Ultra Rare,6.04
+Stellar Crown,Galvantula ex,#159,Ultra Rare,1.94
+Stellar Crown,Dachsbun ex,#160,Ultra Rare,4.08
+Stellar Crown,Medicham ex,#161,Ultra Rare,1.2
+Stellar Crown,Orthworm ex,#162,Ultra Rare,1.19
+Stellar Crown,Briar,#163,Ultra Rare,2.23
+Stellar Crown,Crispin,#164,Ultra Rare,14.11
+Stellar Crown,Kofu,#165,Ultra Rare,1.27
+Stellar Crown,Lacey,#166,Ultra Rare,2.89
+Stellar Crown,Hydrapple ex,#167,Special Illustration Rare,37.14
+Stellar Crown,Galvantula ex,#168,Special Illustration Rare,19.23
+Stellar Crown,Dachsbun ex,#169,Special Illustration Rare,81.31
+Stellar Crown,Terapagos ex,#170,Special Illustration Rare,64.35
+Stellar Crown,Briar,#171,Special Illustration Rare,12.93
+Stellar Crown,Lacey,#172,Special Illustration Rare,19.04
+Stellar Crown,Terapagos ex,#173,Hyper Rare,11.38
+Stellar Crown,Area Zero Underdepths,#174,Hyper Rare,13.65
+Stellar Crown,Bravery Charm,#175,Hyper Rare,5.02
+Surging Sparks,Exeggcute,#001,Common,0.15
+Surging Sparks,Exeggcute,#002,Common,0.12
+Surging Sparks,Exeggutor,#003,Uncommon,0.05
+Surging Sparks,Durant ex,#004,Double Rare,0.59
+Surging Sparks,Scatterbug,#005,Common,0.16
+Surging Sparks,Spewpa,#006,Common,0.16
+Surging Sparks,Vivillon,#007,Uncommon,0.16
+Surging Sparks,Morelull,#008,Common,0.11
+Surging Sparks,Shiinotic,#009,Uncommon,0.09
+Surging Sparks,Dhelmise,#010,Common,0.13
+Surging Sparks,Zarude,#011,Rare,0.12
+Surging Sparks,Capsakid,#012,Common,0.06
+Surging Sparks,Rellor,#013,Common,0.09
+Surging Sparks,Rabsca,#014,Rare,0.1
+Surging Sparks,Wo-Chien,#015,Uncommon,0.06
+Surging Sparks,Vulpix,#016,Common,0.17
+Surging Sparks,Ninetales,#017,Uncommon,0.17
+Surging Sparks,Paldean Tauros,#018,Uncommon,0.1
+Surging Sparks,Ho-Oh,#019,Uncommon,0.15
+Surging Sparks,Castform Sunny Form,#020,Common,0.09
+Surging Sparks,Victini,#021,Uncommon,0.22
+Surging Sparks,Pansear,#022,Common,0.08
+Surging Sparks,Simisear,#023,Common,0.13
+Surging Sparks,Larvesta,#024,Common,0.04
+Surging Sparks,Volcarona,#025,Common,0.14
+Surging Sparks,Oricorio,#026,Common,0.05
+Surging Sparks,Sizzlipede,#027,Common,0.05
+Surging Sparks,Centiskorch,#028,Common,0.15
+Surging Sparks,Fuecoco,#029,Common,0.06
+Surging Sparks,Crocalor,#030,Common,0.13
+Surging Sparks,Skeledirge,#031,Rare,0.13
+Surging Sparks,Charcadet,#032,Common,0.15
+Surging Sparks,Charcadet,#033,Common,0.13
+Surging Sparks,Armarouge,#034,Uncommon,0.1
+Surging Sparks,Ceruledge,#035,Uncommon,0.08
+Surging Sparks,Ceruledge ex,#036,Double Rare,1.71
+Surging Sparks,Scovillain ex,#037,Double Rare,0.54
+Surging Sparks,Gouging Fire,#038,Rare,0.11
+Surging Sparks,Paldean Tauros,#039,Uncommon,0.16
+Surging Sparks,Mantine,#040,Common,0.1
+Surging Sparks,Feebas,#041,Common,0.11
+Surging Sparks,Milotic ex,#042,Double Rare,0.79
+Surging Sparks,Spheal,#043,Common,0.12
+Surging Sparks,Sealeo,#044,Common,0.07
+Surging Sparks,Walrein,#045,Uncommon,0.07
+Surging Sparks,Shellos,#046,Common,0.1
+Surging Sparks,Cryogonal,#047,Common,0.07
+Surging Sparks,Black Kyurem ex,#048,Double Rare,0.66
+Surging Sparks,Bruxish,#049,Uncommon,0.08
+Surging Sparks,Quaxly,#050,Common,0.09
+Surging Sparks,Quaxwell,#051,Common,0.1
+Surging Sparks,Quaquaval,#052,Uncommon,0.08
+Surging Sparks,Cetoddle,#053,Common,0.09
+Surging Sparks,Cetitan,#054,Common,0.06
+Surging Sparks,Iron Bundle,#055,Uncommon,0.04
+Surging Sparks,Chien-Pao,#056,Rare,0.19
+Surging Sparks,Pikachu ex,#057,Double Rare,5.3
+Surging Sparks,Magnemite,#058,Common,0.07
+Surging Sparks,Magneton,#059,Uncommon,0.15
+Surging Sparks,Magnezone,#060,Uncommon,0.05
+Surging Sparks,Rotom,#061,Common,0.05
+Surging Sparks,Blitzle,#062,Common,0.07
+Surging Sparks,Zebstrika,#063,Common,0.1
+Surging Sparks,Stunfisk,#064,Common,0.07
+Surging Sparks,Tapu Koko,#065,Rare,0.09
+Surging Sparks,Wattrel,#066,Common,0.07
+Surging Sparks,Kilowattrel,#067,Uncommon,0.07
+Surging Sparks,Kilowattrel ex,#068,Double Rare,0.63
+Surging Sparks,Miraidon,#069,Uncommon,0.03
+Surging Sparks,Togepi,#070,Common,0.07
+Surging Sparks,Togetic,#071,Common,0.14
+Surging Sparks,Togekiss,#072,Rare,0.18
+Surging Sparks,Marill,#073,Common,0.09
+Surging Sparks,Azumarill,#074,Uncommon,0.1
+Surging Sparks,Smoochum,#075,Common,0.17
+Surging Sparks,Latias ex,#076,Double Rare,5.13
+Surging Sparks,Latios,#077,Uncommon,0.07
+Surging Sparks,Uxie,#078,Common,0.22
+Surging Sparks,Mesprit,#079,Common,0.16
+Surging Sparks,Azelf,#080,Common,0.12
+Surging Sparks,Sigilyph,#081,Common,0.1
+Surging Sparks,Yamask,#082,Common,0.05
+Surging Sparks,Cofagrigus,#083,Rare,0.19
+Surging Sparks,Espurr,#084,Common,0.12
+Surging Sparks,Meowstic,#085,Uncommon,0.11
+Surging Sparks,Sylveon ex,#086,Double Rare,2.23
+Surging Sparks,Dedenne,#087,Common,0.23
+Surging Sparks,Xerneas,#088,Uncommon,0.08
+Surging Sparks,Oricorio,#089,Common,0.11
+Surging Sparks,Sandygast,#090,Common,0.02
+Surging Sparks,Palossand ex,#091,Double Rare,0.68
+Surging Sparks,Tapu Lele,#092,Rare,0.12
+Surging Sparks,Indeedee,#093,Uncommon,0.19
+Surging Sparks,Flittle,#094,Common,0.06
+Surging Sparks,Espathra,#095,Uncommon,0.03
+Surging Sparks,Flutter Mane,#096,Uncommon,0.07
+Surging Sparks,Gimmighoul,#097,Common,0.16
+Surging Sparks,Mankey,#098,Common,0.08
+Surging Sparks,Primeape,#099,Common,0.05
+Surging Sparks,Annihilape,#100,Uncommon,0.18
+Surging Sparks,Paldean Tauros,#101,Uncommon,0.14
+Surging Sparks,Phanpy,#102,Common,0.15
+Surging Sparks,Donphan,#103,Common,0.1
+Surging Sparks,Trapinch,#104,Common,0.06
+Surging Sparks,Vibrava,#105,Common,0.14
+Surging Sparks,Flygon ex,#106,Double Rare,0.72
+Surging Sparks,Gastrodon,#107,Rare,0.13
+Surging Sparks,Drilbur,#108,Common,0.03
+Surging Sparks,Excadrill,#109,Common,0.04
+Surging Sparks,Landorus,#110,Rare,0.12
+Surging Sparks,Passimian,#111,Uncommon,0.15
+Surging Sparks,Clobbopus,#112,Common,0.12
+Surging Sparks,Grapploct,#113,Common,0.08
+Surging Sparks,Glimmet,#114,Common,0.04
+Surging Sparks,Glimmora,#115,Common,0.09
+Surging Sparks,Koraidon,#116,Uncommon,0.09
+Surging Sparks,Deino,#117,Common,0.1
+Surging Sparks,Zweilous,#118,Common,0.15
+Surging Sparks,Hydreigon ex,#119,Double Rare,1.1
+Surging Sparks,Shroodle,#120,Common,0.06
+Surging Sparks,Grafaiai,#121,Uncommon,0.08
+Surging Sparks,Alolan Diglett,#122,Common,0.19
+Surging Sparks,Alolan Dugtrio,#123,Uncommon,0.11
+Surging Sparks,Skarmory,#124,Common,0.09
+Surging Sparks,Registeel,#125,Uncommon,0.08
+Surging Sparks,Bronzor,#126,Common,0.03
+Surging Sparks,Bronzong,#127,Common,0.06
+Surging Sparks,Klefki,#128,Common,0.06
+Surging Sparks,Duraludon,#129,Common,0.07
+Surging Sparks,Archaludon ex,#130,Double Rare,0.71
+Surging Sparks,Gholdengo,#131,Uncommon,0.09
+Surging Sparks,Iron Crown,#132,Rare,0.16
+Surging Sparks,Alolan Exeggutor ex,#133,Double Rare,0.84
+Surging Sparks,Altaria,#134,Uncommon,0.11
+Surging Sparks,Dialga,#135,Rare,0.15
+Surging Sparks,Palkia,#136,Rare,0.1
+Surging Sparks,Turtonator,#137,Uncommon,0.05
+Surging Sparks,Applin,#138,Common,0.18
+Surging Sparks,Flapple,#139,Uncommon,0.17
+Surging Sparks,Appletun,#140,Uncommon,0.12
+Surging Sparks,Eternatus,#141,Rare,0.13
+Surging Sparks,Tatsugiri ex,#142,Double Rare,0.79
+Surging Sparks,Eevee,#143,Common,0.19
+Surging Sparks,Snorlax,#144,Common,0.27
+Surging Sparks,Slakoth,#145,Common,0.1
+Surging Sparks,Vigoroth,#146,Common,0.06
+Surging Sparks,Slaking ex,#147,Double Rare,0.53
+Surging Sparks,Swablu,#148,Common,0.07
+Surging Sparks,Zangoose,#149,Common,0.05
+Surging Sparks,Kecleon,#150,Common,0.17
+Surging Sparks,Bouffalant,#151,Common,0.11
+Surging Sparks,Rufflet,#152,Common,0.04
+Surging Sparks,Braviary,#153,Uncommon,0.04
+Surging Sparks,Helioptile,#154,Common,0.08
+Surging Sparks,Heliolisk,#155,Common,0.12
+Surging Sparks,Oranguru,#156,Common,0.06
+Surging Sparks,Tandemaus,#157,Common,0.2
+Surging Sparks,Maushold,#158,Uncommon,0.21
+Surging Sparks,Cyclizar ex,#159,Double Rare,0.66
+Surging Sparks,Flamigo ex,#160,Double Rare,0.62
+Surging Sparks,Terapagos,#161,Rare,0.11
+Surging Sparks,Amulet of Hope,#162,ACE SPEC Rare,0.55
+Surging Sparks,Babiri Berry,#163,Uncommon,0.07
+Surging Sparks,Brilliant Blender,#164,ACE SPEC Rare,0.78
+Surging Sparks,Call Bell,#165,Uncommon,0.09
+Surging Sparks,Chill Teaser Toy,#166,Uncommon,0.07
+Surging Sparks,Clemont’s Quick Wit,#167,Uncommon,0.17
+Surging Sparks,Colbur Berry,#168,Uncommon,0.07
+Surging Sparks,Counter Gain,#169,Uncommon,0.14
+Surging Sparks,Cyrano,#170,Uncommon,0.2
+Surging Sparks,Deduction Kit,#171,Uncommon,0.08
+Surging Sparks,Dragon Elixir,#172,Uncommon,0.12
+Surging Sparks,Drasna,#173,Common,0.08
+Surging Sparks,Drayton,#174,Uncommon,0.08
+Surging Sparks,Dusk Ball,#175,Uncommon,0.14
+Surging Sparks,Energy Search Pro,#176,ACE SPEC Rare,0.57
+Surging Sparks,Gravity Mountain,#177,Uncommon,0.2
+Surging Sparks,Jasmine’s Gaze,#178,Uncommon,0.08
+Surging Sparks,Lisia’s Appeal,#179,Uncommon,0.18
+Surging Sparks,Lively Stadium,#180,Uncommon,0.19
+Surging Sparks,Meddling Memo,#181,Uncommon,0.09
+Surging Sparks,Megaton Blower,#182,ACE SPEC Rare,0.41
+Surging Sparks,Miracle Headset,#183,ACE SPEC Rare,1.36
+Surging Sparks,Passho Berry,#184,Uncommon,0.07
+Surging Sparks,Precious Trolley,#185,ACE SPEC Rare,1.79
+Surging Sparks,Scramble Switch,#186,ACE SPEC Rare,0.46
+Surging Sparks,Surfer,#187,Uncommon,0.17
+Surging Sparks,Technical Machine: Fluorite,#188,Uncommon,0.06
+Surging Sparks,Tera Orb,#189,Uncommon,0.18
+Surging Sparks,Tyme,#190,Uncommon,0.08
+Surging Sparks,Enriching Energy,#191,ACE SPEC Rare,3.81
+Surging Sparks,Exeggcute,#192,Illustration Rare,7.76
+Surging Sparks,Vivillon,#193,Illustration Rare,5.09
+Surging Sparks,Shiinotic,#194,Illustration Rare,3.94
+Surging Sparks,Castform Sunny Form,#195,Illustration Rare,8.67
+Surging Sparks,Larvesta,#196,Illustration Rare,2.28
+Surging Sparks,Ceruledge,#197,Illustration Rare,25.35
+Surging Sparks,Feebas,#198,Illustration Rare,8.21
+Surging Sparks,Spheal,#199,Illustration Rare,11.0
+Surging Sparks,Bruxish,#200,Illustration Rare,2.83
+Surging Sparks,Cetitan,#201,Illustration Rare,2.67
+Surging Sparks,Stunfisk,#202,Illustration Rare,2.48
+Surging Sparks,Latios,#203,Illustration Rare,36.92
+Surging Sparks,Mesprit,#204,Illustration Rare,13.37
+Surging Sparks,Phanpy,#205,Illustration Rare,9.57
+Surging Sparks,Vibrava,#206,Illustration Rare,3.39
+Surging Sparks,Clobbopus,#207,Illustration Rare,8.08
+Surging Sparks,Alolan Dugtrio,#208,Illustration Rare,8.74
+Surging Sparks,Skarmory,#209,Illustration Rare,10.93
+Surging Sparks,Flapple,#210,Illustration Rare,4.62
+Surging Sparks,Appletun,#211,Illustration Rare,7.33
+Surging Sparks,Slakoth,#212,Illustration Rare,15.35
+Surging Sparks,Kecleon,#213,Illustration Rare,6.79
+Surging Sparks,Braviary,#214,Illustration Rare,5.71
+Surging Sparks,Durant ex,#215,Ultra Rare,1.05
+Surging Sparks,Scovillain ex,#216,Ultra Rare,1.01
+Surging Sparks,Milotic ex,#217,Ultra Rare,2.65
+Surging Sparks,Black Kyurem ex,#218,Ultra Rare,2.55
+Surging Sparks,Pikachu ex,#219,Ultra Rare,30.62
+Surging Sparks,Latias ex,#220,Ultra Rare,7.53
+Surging Sparks,Palossand ex,#221,Ultra Rare,1.61
+Surging Sparks,Flygon ex,#222,Ultra Rare,2.77
+Surging Sparks,Hydreigon ex,#223,Ultra Rare,5.16
+Surging Sparks,Archaludon ex,#224,Ultra Rare,1.12
+Surging Sparks,Alolan Exeggutor ex,#225,Ultra Rare,2.27
+Surging Sparks,Tatsugiri ex,#226,Ultra Rare,1.96
+Surging Sparks,Slaking ex,#227,Ultra Rare,1.11
+Surging Sparks,Cyclizar ex,#228,Ultra Rare,1.61
+Surging Sparks,Clemont’s Quick Wit,#229,Ultra Rare,1.22
+Surging Sparks,Cyrano,#230,Ultra Rare,4.18
+Surging Sparks,Drasna,#231,Ultra Rare,1.0
+Surging Sparks,Drayton,#232,Ultra Rare,1.03
+Surging Sparks,Jasmine’s Gaze,#233,Ultra Rare,1.62
+Surging Sparks,Lisia’s Appeal,#234,Ultra Rare,4.27
+Surging Sparks,Surfer,#235,Ultra Rare,1.39
+Surging Sparks,Durant ex,#236,Special Illustration Rare,32.03
+Surging Sparks,Milotic ex,#237,Special Illustration Rare,138.7
+Surging Sparks,Pikachu ex,#238,Special Illustration Rare,331.68
+Surging Sparks,Latias ex,#239,Special Illustration Rare,184.18
+Surging Sparks,Hydreigon ex,#240,Special Illustration Rare,41.0
+Surging Sparks,Archaludon ex,#241,Special Illustration Rare,13.39
+Surging Sparks,Alolan Exeggutor ex,#242,Special Illustration Rare,33.27
+Surging Sparks,Clemont’s Quick Wit,#243,Special Illustration Rare,9.3
+Surging Sparks,Drayton,#244,Special Illustration Rare,7.83
+Surging Sparks,Jasmine’s Gaze,#245,Special Illustration Rare,24.29
+Surging Sparks,Lisia’s Appeal,#246,Special Illustration Rare,32.92
+Surging Sparks,Pikachu ex,#247,Hyper Rare,88.34
+Surging Sparks,Alolan Exeggutor ex,#248,Hyper Rare,10.73
+Surging Sparks,Counter Gain,#249,Hyper Rare,3.74
+Surging Sparks,Gravity Mountain,#250,Hyper Rare,10.44
+Surging Sparks,Night Stretcher,#251,Hyper Rare,10.49
+Surging Sparks,Jet Energy,#252,Hyper Rare,5.01
+Temporal Forces,Scyther,#001,Common,0.13
+Temporal Forces,Pineco,#002,Common,0.09
+Temporal Forces,Seedot,#003,Common,0.2
+Temporal Forces,Nuzleaf,#004,Common,0.11
+Temporal Forces,Shiftry,#005,Uncommon,0.13
+Temporal Forces,Shroomish,#006,Common,0.08
+Temporal Forces,Breloom,#007,Common,0.08
+Temporal Forces,Roselia,#008,Common,0.06
+Temporal Forces,Roserade,#009,Uncommon,0.1
+Temporal Forces,Turtwig,#010,Common,0.15
+Temporal Forces,Grotle,#011,Common,0.16
+Temporal Forces,Torterra ex,#012,Double Rare,0.86
+Temporal Forces,Shaymin,#013,Uncommon,0.13
+Temporal Forces,Cottonee,#014,Common,0.03
+Temporal Forces,Whimsicott,#015,Rare,0.03
+Temporal Forces,Deerling,#016,Common,0.09
+Temporal Forces,Sawsbuck,#017,Uncommon,0.11
+Temporal Forces,Grubbin,#018,Common,0.04
+Temporal Forces,Dhelmise,#019,Uncommon,0.1
+Temporal Forces,Bramblin,#020,Common,0.1
+Temporal Forces,Brambleghast,#021,Rare,0.11
+Temporal Forces,Scovillain ex,#022,Double Rare,0.64
+Temporal Forces,Rellor,#023,Common,0.17
+Temporal Forces,Rabsca,#024,Uncommon,0.14
+Temporal Forces,Iron Leaves ex,#025,Double Rare,0.88
+Temporal Forces,Ponyta,#026,Common,0.15
+Temporal Forces,Rapidash,#027,Uncommon,0.16
+Temporal Forces,Slugma,#028,Common,0.04
+Temporal Forces,Magcargo,#029,Rare,0.08
+Temporal Forces,Victini,#030,Common,0.11
+Temporal Forces,Heatmor,#031,Common,0.07
+Temporal Forces,Litten,#032,Common,0.09
+Temporal Forces,Torracat,#033,Common,0.14
+Temporal Forces,Incineroar ex,#034,Double Rare,0.91
+Temporal Forces,Turtonator,#035,Common,0.07
+Temporal Forces,Sizzlipede,#036,Common,0.05
+Temporal Forces,Centiskorch,#037,Uncommon,0.1
+Temporal Forces,Gouging Fire ex,#038,Double Rare,0.82
+Temporal Forces,Totodile,#039,Common,0.21
+Temporal Forces,Croconaw,#040,Common,0.27
+Temporal Forces,Feraligatr,#041,Rare,0.22
+Temporal Forces,Carvanha,#042,Common,0.07
+Temporal Forces,Sharpedo,#043,Uncommon,0.2
+Temporal Forces,Keldeo,#044,Uncommon,0.2
+Temporal Forces,Snom,#045,Common,0.14
+Temporal Forces,Frosmoth,#046,Common,0.1
+Temporal Forces,Wiglett,#047,Common,0.1
+Temporal Forces,Finizen,#048,Common,0.07
+Temporal Forces,Palafin,#049,Uncommon,0.07
+Temporal Forces,Walking Wake ex,#050,Double Rare,0.75
+Temporal Forces,Pikachu,#051,Common,0.27
+Temporal Forces,Raichu,#052,Common,0.16
+Temporal Forces,Electabuzz,#053,Common,0.05
+Temporal Forces,Electivire,#054,Uncommon,0.16
+Temporal Forces,Charjabug,#055,Common,0.09
+Temporal Forces,Vikavolt,#056,Uncommon,0.14
+Temporal Forces,Zeraora,#057,Uncommon,0.07
+Temporal Forces,Yamper,#058,Common,0.18
+Temporal Forces,Boltund,#059,Uncommon,0.09
+Temporal Forces,Wugtrio ex,#060,Double Rare,0.76
+Temporal Forces,Iron Hands,#061,Uncommon,0.15
+Temporal Forces,Iron Thorns,#062,Rare,0.2
+Temporal Forces,Mr. Mime,#063,Common,0.14
+Temporal Forces,Marill,#064,Common,0.11
+Temporal Forces,Azumarill,#065,Common,0.17
+Temporal Forces,Girafarig,#066,Common,0.08
+Temporal Forces,Latias,#067,Uncommon,0.16
+Temporal Forces,Bronzor,#068,Common,0.07
+Temporal Forces,Bronzong,#069,Uncommon,0.08
+Temporal Forces,Solosis,#070,Common,0.05
+Temporal Forces,Duosion,#071,Common,0.14
+Temporal Forces,Reuniclus,#072,Uncommon,0.06
+Temporal Forces,Elgyem,#073,Common,0.1
+Temporal Forces,Beheeyem,#074,Uncommon,0.07
+Temporal Forces,Cutiefly,#075,Common,0.07
+Temporal Forces,Ribombee,#076,Uncommon,0.08
+Temporal Forces,Scream Tail,#077,Uncommon,0.1
+Temporal Forces,Flutter Mane,#078,Rare,0.2
+Temporal Forces,Iron Valiant,#079,Uncommon,0.08
+Temporal Forces,Iron Valiant,#080,Rare,0.1
+Temporal Forces,Iron Crown ex,#081,Double Rare,0.71
+Temporal Forces,Meditite,#082,Common,0.08
+Temporal Forces,Medicham,#083,Common,0.09
+Temporal Forces,Relicanth,#084,Rare,0.29
+Temporal Forces,Drilbur,#085,Common,0.09
+Temporal Forces,Excadrill,#086,Uncommon,0.04
+Temporal Forces,Golett,#087,Common,0.05
+Temporal Forces,Golurk,#088,Uncommon,0.09
+Temporal Forces,Rockruff,#089,Common,0.07
+Temporal Forces,Lycanroc,#090,Uncommon,0.06
+Temporal Forces,Mudbray,#091,Common,0.06
+Temporal Forces,Mudsdale,#092,Uncommon,0.07
+Temporal Forces,Rolycoly,#093,Common,0.07
+Temporal Forces,Carkol,#094,Common,0.11
+Temporal Forces,Coalossal,#095,Uncommon,0.11
+Temporal Forces,Great Tusk,#096,Uncommon,0.09
+Temporal Forces,Great Tusk,#097,Uncommon,0.07
+Temporal Forces,Sandy Shocks,#098,Uncommon,0.17
+Temporal Forces,Iron Boulder ex,#099,Double Rare,0.66
+Temporal Forces,Ekans,#100,Common,0.13
+Temporal Forces,Arbok,#101,Common,0.18
+Temporal Forces,Gastly,#102,Common,0.13
+Temporal Forces,Haunter,#103,Common,0.25
+Temporal Forces,Gengar ex,#104,Double Rare,5.52
+Temporal Forces,Poochyena,#105,Common,0.12
+Temporal Forces,Mightyena,#106,Common,0.12
+Temporal Forces,Sableye,#107,Uncommon,0.12
+Temporal Forces,Farigiraf ex,#108,Double Rare,0.68
+Temporal Forces,Roaring Moon,#109,Rare,0.13
+Temporal Forces,Forretress,#110,Uncommon,0.12
+Temporal Forces,Scizor ex,#111,Double Rare,0.69
+Temporal Forces,Mawile,#112,Common,0.14
+Temporal Forces,Beldum,#113,Common,0.15
+Temporal Forces,Metang,#114,Common,0.18
+Temporal Forces,Metagross,#115,Uncommon,0.14
+Temporal Forces,Meltan,#116,Common,0.08
+Temporal Forces,Melmetal,#117,Rare,0.14
+Temporal Forces,Iron Treads,#118,Uncommon,0.08
+Temporal Forces,Koraidon,#119,Rare,0.15
+Temporal Forces,Koraidon ex,#120,Double Rare,0.6
+Temporal Forces,Miraidon,#121,Rare,0.18
+Temporal Forces,Miraidon ex,#122,Double Rare,0.68
+Temporal Forces,Raging Bolt ex,#123,Double Rare,1.79
+Temporal Forces,Lickitung,#124,Common,0.11
+Temporal Forces,Lickilicky,#125,Common,0.19
+Temporal Forces,Hoothoot,#126,Common,0.18
+Temporal Forces,Noctowl,#127,Common,0.08
+Temporal Forces,Dunsparce,#128,Common,0.2
+Temporal Forces,Dudunsparce,#129,Rare,0.36
+Temporal Forces,Skitty,#130,Common,0.14
+Temporal Forces,Delcatty,#131,Uncommon,0.17
+Temporal Forces,Chatot,#132,Common,0.08
+Temporal Forces,Pidove,#133,Common,0.08
+Temporal Forces,Tranquill,#134,Common,0.06
+Temporal Forces,Unfezant,#135,Uncommon,0.09
+Temporal Forces,Minccino,#136,Common,0.19
+Temporal Forces,Cinccino,#137,Uncommon,0.18
+Temporal Forces,Drampa,#138,Rare,0.1
+Temporal Forces,Iron Jugulis,#139,Uncommon,0.12
+Temporal Forces,Ancient Booster Energy Capsule,#140,Uncommon,0.09
+Temporal Forces,Awakening Drum,#141,ACE SPEC Rare,0.45
+Temporal Forces,Bianca’s Devotion,#142,Uncommon,0.18
+Temporal Forces,Boxed Order,#143,Uncommon,0.14
+Temporal Forces,Buddy-Buddy Poffin,#144,Uncommon,0.2
+Temporal Forces,Ciphermaniac’s Codebreaking,#145,Uncommon,0.18
+Temporal Forces,Eri,#146,Uncommon,0.22
+Temporal Forces,Explorer’s Guidance,#147,Uncommon,0.1
+Temporal Forces,Full Metal Lab,#148,Uncommon,0.2
+Temporal Forces,Future Booster Energy Capsule,#149,Uncommon,0.15
+Temporal Forces,Hand Trimmer,#150,Uncommon,0.12
+Temporal Forces,Heavy Baton,#151,Uncommon,0.21
+Temporal Forces,Hero’s Cape,#152,ACE SPEC Rare,22.22
+Temporal Forces,Master Ball,#153,ACE SPEC Rare,1.58
+Temporal Forces,Maximum Belt,#154,ACE SPEC Rare,0.68
+Temporal Forces,Morty’s Conviction,#155,Uncommon,0.13
+Temporal Forces,Perilous Jungle,#156,Uncommon,0.23
+Temporal Forces,Prime Catcher,#157,ACE SPEC Rare,0.76
+Temporal Forces,Reboot Pod,#158,ACE SPEC Rare,0.41
+Temporal Forces,Rescue Board,#159,Uncommon,0.15
+Temporal Forces,Salvatore,#160,Uncommon,0.1
+Temporal Forces,Mist Energy,#161,Uncommon,2.99
+Temporal Forces,Neo Upper Energy,#162,ACE SPEC Rare,18.19
+Temporal Forces,Shiftry,#163,Illustration Rare,12.52
+Temporal Forces,Grotle,#164,Illustration Rare,18.64
+Temporal Forces,Deerling,#165,Illustration Rare,45.22
+Temporal Forces,Sawsbuck,#166,Illustration Rare,60.14
+Temporal Forces,Litten,#167,Illustration Rare,40.25
+Temporal Forces,Snom,#168,Illustration Rare,16.11
+Temporal Forces,Charjabug,#169,Illustration Rare,7.79
+Temporal Forces,Bronzor,#170,Illustration Rare,7.74
+Temporal Forces,Reuniclus,#171,Illustration Rare,13.49
+Temporal Forces,Cutiefly,#172,Illustration Rare,8.47
+Temporal Forces,Relicanth,#173,Illustration Rare,11.21
+Temporal Forces,Excadrill,#174,Illustration Rare,9.2
+Temporal Forces,Mudsdale,#175,Illustration Rare,9.36
+Temporal Forces,Arbok,#176,Illustration Rare,29.13
+Temporal Forces,Gastly,#177,Illustration Rare,109.28
+Temporal Forces,Metagross,#178,Illustration Rare,38.59
+Temporal Forces,Meltan,#179,Illustration Rare,5.79
+Temporal Forces,Lickitung,#180,Illustration Rare,28.18
+Temporal Forces,Chatot,#181,Illustration Rare,10.8
+Temporal Forces,Minccino,#182,Illustration Rare,24.89
+Temporal Forces,Cinccino,#183,Illustration Rare,37.04
+Temporal Forces,Drampa,#184,Illustration Rare,38.14
+Temporal Forces,Torterra ex,#185,Ultra Rare,3.91
+Temporal Forces,Iron Leaves ex,#186,Ultra Rare,1.87
+Temporal Forces,Incineroar ex,#187,Ultra Rare,2.6
+Temporal Forces,Gouging Fire ex,#188,Ultra Rare,2.89
+Temporal Forces,Walking Wake ex,#189,Ultra Rare,1.94
+Temporal Forces,Wugtrio ex,#190,Ultra Rare,1.38
+Temporal Forces,Iron Crown ex,#191,Ultra Rare,1.59
+Temporal Forces,Iron Boulder ex,#192,Ultra Rare,1.44
+Temporal Forces,Gengar ex,#193,Ultra Rare,72.36
+Temporal Forces,Farigiraf ex,#194,Ultra Rare,1.91
+Temporal Forces,Scizor ex,#195,Ultra Rare,3.14
+Temporal Forces,Raging Bolt ex,#196,Ultra Rare,4.64
+Temporal Forces,Bianca’s Devotion,#197,Ultra Rare,2.76
+Temporal Forces,Ciphermaniac’s Codebreaking,#198,Ultra Rare,6.98
+Temporal Forces,Eri,#199,Ultra Rare,2.35
+Temporal Forces,Explorer’s Guidance,#200,Ultra Rare,2.23
+Temporal Forces,Morty’s Conviction,#201,Ultra Rare,4.29
+Temporal Forces,Salvatore,#202,Ultra Rare,5.29
+Temporal Forces,Iron Leaves ex,#203,Special Illustration Rare,43.49
+Temporal Forces,Gouging Fire ex,#204,Special Illustration Rare,48.47
+Temporal Forces,Walking Wake ex,#205,Special Illustration Rare,67.48
+Temporal Forces,Iron Crown ex,#206,Special Illustration Rare,55.54
+Temporal Forces,Iron Boulder ex,#207,Special Illustration Rare,27.95
+Temporal Forces,Raging Bolt ex,#208,Special Illustration Rare,71.92
+Temporal Forces,Bianca’s Devotion,#209,Special Illustration Rare,27.49
+Temporal Forces,Eri,#210,Special Illustration Rare,15.53
+Temporal Forces,Morty’s Conviction,#211,Special Illustration Rare,79.03
+Temporal Forces,Salvatore,#212,Special Illustration Rare,18.98
+Temporal Forces,Iron Leaves ex,#213,Hyper Rare,8.57
+Temporal Forces,Gouging Fire ex,#214,Hyper Rare,14.23
+Temporal Forces,Walking Wake ex,#215,Hyper Rare,9.68
+Temporal Forces,Iron Crown ex,#216,Hyper Rare,9.21
+Temporal Forces,Iron Boulder ex,#217,Hyper Rare,9.09
+Temporal Forces,Raging Bolt ex,#218,Hyper Rare,12.93
+Twilight Masquerade,Tangela,#001,Common,0.06
+Twilight Masquerade,Tangrowth,#002,Common,0.11
+Twilight Masquerade,Pinsir,#003,Common,0.11
+Twilight Masquerade,Spinarak,#004,Common,0.07
+Twilight Masquerade,Ariados,#005,Uncommon,0.07
+Twilight Masquerade,Sunkern,#006,Common,0.05
+Twilight Masquerade,Sunflora,#007,Uncommon,0.06
+Twilight Masquerade,Heracross,#008,Uncommon,0.11
+Twilight Masquerade,Volbeat,#009,Common,0.2
+Twilight Masquerade,Illumise,#010,Common,0.16
+Twilight Masquerade,Leafeon,#011,Uncommon,0.22
+Twilight Masquerade,Phantump,#012,Common,0.1
+Twilight Masquerade,Trevenant,#013,Common,0.11
+Twilight Masquerade,Grookey,#014,Common,0.19
+Twilight Masquerade,Thwackey,#015,Common,0.47
+Twilight Masquerade,Rillaboom,#016,Uncommon,0.17
+Twilight Masquerade,Applin,#017,Common,0.18
+Twilight Masquerade,Dipplin,#018,Uncommon,0.13
+Twilight Masquerade,Iron Leaves,#019,Rare,0.14
+Twilight Masquerade,Poltchageist,#020,Common,0.14
+Twilight Masquerade,Poltchageist,#021,Common,0.13
+Twilight Masquerade,Sinistcha,#022,Rare,0.31
+Twilight Masquerade,Sinistcha ex,#023,Double Rare,0.69
+Twilight Masquerade,Teal Mask Ogerpon,#024,Rare,0.16
+Twilight Masquerade,Teal Mask Ogerpon ex,#025,Double Rare,4.7
+Twilight Masquerade,Vulpix,#026,Common,0.18
+Twilight Masquerade,Ninetales,#027,Common,0.17
+Twilight Masquerade,Slugma,#028,Common,0.06
+Twilight Masquerade,Magcargo ex,#029,Double Rare,0.65
+Twilight Masquerade,Torkoal,#030,Common,0.18
+Twilight Masquerade,Chimchar,#031,Common,0.09
+Twilight Masquerade,Monferno,#032,Common,0.12
+Twilight Masquerade,Infernape,#033,Rare,0.21
+Twilight Masquerade,Darumaka,#034,Common,0.04
+Twilight Masquerade,Darmanitan,#035,Uncommon,0.08
+Twilight Masquerade,Litwick,#036,Common,0.14
+Twilight Masquerade,Lampent,#037,Common,0.1
+Twilight Masquerade,Chandelure,#038,Rare,0.13
+Twilight Masquerade,Chi-Yu,#039,Uncommon,0.13
+Twilight Masquerade,Hearthflame Mask Ogerpon ex,#040,Double Rare,0.62
+Twilight Masquerade,Poliwag,#041,Common,0.13
+Twilight Masquerade,Poliwhirl,#042,Common,0.17
+Twilight Masquerade,Poliwrath,#043,Uncommon,0.09
+Twilight Masquerade,Goldeen,#044,Common,0.14
+Twilight Masquerade,Seaking,#045,Common,0.1
+Twilight Masquerade,Jynx,#046,Common,0.12
+Twilight Masquerade,Corphish,#047,Common,0.06
+Twilight Masquerade,Crawdaunt,#048,Common,0.1
+Twilight Masquerade,Feebas,#049,Common,0.07
+Twilight Masquerade,Milotic,#050,Uncommon,0.12
+Twilight Masquerade,Snorunt,#051,Common,0.15
+Twilight Masquerade,Glalie,#052,Uncommon,0.11
+Twilight Masquerade,Froslass,#053,Rare,0.33
+Twilight Masquerade,Glaceon,#054,Uncommon,0.25
+Twilight Masquerade,Phione,#055,Common,0.11
+Twilight Masquerade,Froakie,#056,Common,0.19
+Twilight Masquerade,Frogadier,#057,Common,0.17
+Twilight Masquerade,Cramorant,#058,Uncommon,0.2
+Twilight Masquerade,Finizen,#059,Common,0.1
+Twilight Masquerade,Palafin,#060,Uncommon,0.12
+Twilight Masquerade,Palafin ex,#061,Double Rare,0.63
+Twilight Masquerade,Iron Bundle,#062,Uncommon,0.07
+Twilight Masquerade,Walking Wake,#063,Rare,0.18
+Twilight Masquerade,Wellspring Mask Ogerpon ex,#064,Double Rare,0.9
+Twilight Masquerade,Zapdos,#065,Rare,0.21
+Twilight Masquerade,Shinx,#066,Common,0.12
+Twilight Masquerade,Luxio,#067,Common,0.08
+Twilight Masquerade,Luxray ex,#068,Double Rare,0.76
+Twilight Masquerade,Emolga,#069,Common,0.03
+Twilight Masquerade,Helioptile,#070,Common,0.07
+Twilight Masquerade,Heliolisk,#071,Common,0.1
+Twilight Masquerade,Morpeko,#072,Uncommon,0.15
+Twilight Masquerade,Tadbulb,#073,Common,0.08
+Twilight Masquerade,Bellibolt,#074,Uncommon,0.12
+Twilight Masquerade,Wattrel,#075,Common,0.11
+Twilight Masquerade,Kilowattrel,#076,Uncommon,0.04
+Twilight Masquerade,Iron Thorns ex,#077,Double Rare,0.65
+Twilight Masquerade,Clefairy,#078,Common,0.12
+Twilight Masquerade,Clefable,#079,Uncommon,0.11
+Twilight Masquerade,Abra,#080,Common,0.27
+Twilight Masquerade,Kadabra,#081,Common,0.21
+Twilight Masquerade,Alakazam,#082,Rare,0.27
+Twilight Masquerade,Girafarig,#083,Common,0.19
+Twilight Masquerade,Farigiraf,#084,Uncommon,0.07
+Twilight Masquerade,Chimecho,#085,Common,0.13
+Twilight Masquerade,Flabébé,#086,Common,0.06
+Twilight Masquerade,Floette,#087,Common,0.09
+Twilight Masquerade,Florges,#088,Uncommon,0.09
+Twilight Masquerade,Swirlix,#089,Common,0.2
+Twilight Masquerade,Slurpuff,#090,Uncommon,0.16
+Twilight Masquerade,Sandygast,#091,Common,0.2
+Twilight Masquerade,Palossand,#092,Common,0.12
+Twilight Masquerade,Enamorus,#093,Rare,0.1
+Twilight Masquerade,Scream Tail ex,#094,Double Rare,0.75
+Twilight Masquerade,Munkidori,#095,Rare,0.24
+Twilight Masquerade,Fezandipiti,#096,Rare,0.06
+Twilight Masquerade,Sandshrew,#097,Common,0.06
+Twilight Masquerade,Sandslash,#098,Uncommon,0.09
+Twilight Masquerade,Hisuian Growlithe,#099,Common,0.09
+Twilight Masquerade,Hisuian Arcanine,#100,Rare,0.15
+Twilight Masquerade,Nosepass,#101,Common,0.05
+Twilight Masquerade,Probopass,#102,Uncommon,0.05
+Twilight Masquerade,Timburr,#103,Common,0.04
+Twilight Masquerade,Gurdurr,#104,Common,0.08
+Twilight Masquerade,Conkeldurr,#105,Uncommon,0.16
+Twilight Masquerade,Greninja ex,#106,Double Rare,6.09
+Twilight Masquerade,Hawlucha,#107,Common,0.11
+Twilight Masquerade,Glimmet,#108,Common,0.05
+Twilight Masquerade,Glimmora,#109,Uncommon,0.09
+Twilight Masquerade,Ting-Lu,#110,Rare,0.15
+Twilight Masquerade,Okidogi,#111,Rare,0.16
+Twilight Masquerade,Cornerstone Mask Ogerpon ex,#112,Double Rare,1.0
+Twilight Masquerade,Poochyena,#113,Common,0.07
+Twilight Masquerade,Mightyena,#114,Uncommon,0.1
+Twilight Masquerade,Venipede,#115,Common,0.1
+Twilight Masquerade,Whirlipede,#116,Common,0.06
+Twilight Masquerade,Scolipede,#117,Uncommon,0.12
+Twilight Masquerade,Brute Bonnet,#118,Uncommon,0.09
+Twilight Masquerade,Skarmory,#119,Common,0.11
+Twilight Masquerade,Aron,#120,Common,0.12
+Twilight Masquerade,Lairon,#121,Common,0.03
+Twilight Masquerade,Aggron,#122,Uncommon,0.12
+Twilight Masquerade,Heatran,#123,Rare,0.22
+Twilight Masquerade,Varoom,#124,Common,0.09
+Twilight Masquerade,Revavroom,#125,Uncommon,0.09
+Twilight Masquerade,Applin,#126,Common,0.14
+Twilight Masquerade,Dipplin,#127,Uncommon,0.1
+Twilight Masquerade,Dreepy,#128,Common,0.14
+Twilight Masquerade,Drakloak,#129,Common,0.17
+Twilight Masquerade,Dragapult ex,#130,Double Rare,1.45
+Twilight Masquerade,Tatsugiri,#131,Uncommon,0.22
+Twilight Masquerade,Farfetch’d,#132,Common,0.2
+Twilight Masquerade,Chansey,#133,Common,0.15
+Twilight Masquerade,Blissey ex,#134,Double Rare,0.74
+Twilight Masquerade,Eevee,#135,Common,0.27
+Twilight Masquerade,Snorlax,#136,Uncommon,0.24
+Twilight Masquerade,Aipom,#137,Common,0.09
+Twilight Masquerade,Ambipom,#138,Uncommon,0.04
+Twilight Masquerade,Ducklett,#139,Common,0.08
+Twilight Masquerade,Swanna,#140,Uncommon,0.06
+Twilight Masquerade,Bloodmoon Ursaluna ex,#141,Double Rare,1.42
+Twilight Masquerade,Accompanying Flute,#142,Uncommon,0.1
+Twilight Masquerade,Bug Catching Set,#143,Uncommon,0.18
+Twilight Masquerade,Caretaker,#144,Common,0.11
+Twilight Masquerade,Carmine,#145,Uncommon,0.17
+Twilight Masquerade,Community Center,#146,Uncommon,0.14
+Twilight Masquerade,Cook,#147,Uncommon,0.11
+Twilight Masquerade,Enhanced Hammer,#148,Uncommon,0.17
+Twilight Masquerade,Festival Grounds,#149,Uncommon,0.17
+Twilight Masquerade,Handheld Fan,#150,Uncommon,0.15
+Twilight Masquerade,Hassel,#151,Uncommon,0.16
+Twilight Masquerade,Hyper Aroma,#152,ACE SPEC Rare,0.38
+Twilight Masquerade,Jamming Tower,#153,Uncommon,0.21
+Twilight Masquerade,Kieran,#154,Uncommon,0.15
+Twilight Masquerade,Lana’s Aid,#155,Uncommon,0.26
+Twilight Masquerade,Love Ball,#156,Uncommon,0.16
+Twilight Masquerade,Lucian,#157,Uncommon,0.05
+Twilight Masquerade,Lucky Helmet,#158,Uncommon,0.17
+Twilight Masquerade,Ogre’s Mask,#159,Uncommon,0.09
+Twilight Masquerade,Perrin,#160,Uncommon,0.14
+Twilight Masquerade,Raifort,#161,Uncommon,0.1
+Twilight Masquerade,Scoop Up Cyclone,#162,ACE SPEC Rare,0.53
+Twilight Masquerade,Secret Box,#163,ACE SPEC Rare,8.53
+Twilight Masquerade,Survival Brace,#164,ACE SPEC Rare,0.54
+Twilight Masquerade,Unfair Stamp,#165,ACE SPEC Rare,15.53
+Twilight Masquerade,Boomerang Energy,#166,Uncommon,0.11
+Twilight Masquerade,Legacy Energy,#167,ACE SPEC Rare,4.38
+Twilight Masquerade,Pinsir,#168,Illustration Rare,16.1
+Twilight Masquerade,Sunflora,#169,Illustration Rare,7.77
+Twilight Masquerade,Dipplin,#170,Illustration Rare,14.06
+Twilight Masquerade,Poltchageist,#171,Illustration Rare,5.59
+Twilight Masquerade,Torkoal,#172,Illustration Rare,6.25
+Twilight Masquerade,Infernape,#173,Illustration Rare,15.23
+Twilight Masquerade,Froslass,#174,Illustration Rare,8.98
+Twilight Masquerade,Phione,#175,Illustration Rare,13.38
+Twilight Masquerade,Cramorant,#176,Illustration Rare,4.35
+Twilight Masquerade,Heliolisk,#177,Illustration Rare,4.9
+Twilight Masquerade,Wattrel,#178,Illustration Rare,5.21
+Twilight Masquerade,Chimecho,#179,Illustration Rare,4.91
+Twilight Masquerade,Enamorus,#180,Illustration Rare,6.18
+Twilight Masquerade,Hisuian Growlithe,#181,Illustration Rare,33.76
+Twilight Masquerade,Probopass,#182,Illustration Rare,4.73
+Twilight Masquerade,Timburr,#183,Illustration Rare,5.74
+Twilight Masquerade,Lairon,#184,Illustration Rare,5.64
+Twilight Masquerade,Applin,#185,Illustration Rare,12.05
+Twilight Masquerade,Tatsugiri,#186,Illustration Rare,23.71
+Twilight Masquerade,Chansey,#187,Illustration Rare,64.76
+Twilight Masquerade,Eevee,#188,Illustration Rare,96.12
+Twilight Masquerade,Sinistcha ex,#189,Ultra Rare,1.47
+Twilight Masquerade,Teal Mask Ogerpon ex,#190,Ultra Rare,7.14
+Twilight Masquerade,Magcargo ex,#191,Ultra Rare,1.72
+Twilight Masquerade,Hearthflame Mask Ogerpon ex,#192,Ultra Rare,2.12
+Twilight Masquerade,Palafin ex,#193,Ultra Rare,1.78
+Twilight Masquerade,Wellspring Mask Ogerpon ex,#194,Ultra Rare,3.86
+Twilight Masquerade,Luxray ex,#195,Ultra Rare,2.77
+Twilight Masquerade,Iron Thorns ex,#196,Ultra Rare,2.31
+Twilight Masquerade,Scream Tail ex,#197,Ultra Rare,2.62
+Twilight Masquerade,Greninja ex,#198,Ultra Rare,19.24
+Twilight Masquerade,Cornerstone Mask Ogerpon ex,#199,Ultra Rare,4.43
+Twilight Masquerade,Dragapult ex,#200,Ultra Rare,17.66
+Twilight Masquerade,Blissey ex,#201,Ultra Rare,3.99
+Twilight Masquerade,Bloodmoon Ursaluna ex,#202,Ultra Rare,2.93
+Twilight Masquerade,Caretaker,#203,Ultra Rare,0.97
+Twilight Masquerade,Carmine,#204,Ultra Rare,7.24
+Twilight Masquerade,Hassel,#205,Ultra Rare,1.49
+Twilight Masquerade,Kieran,#206,Ultra Rare,3.81
+Twilight Masquerade,Lana’s Aid,#207,Ultra Rare,6.63
+Twilight Masquerade,Lucian,#208,Ultra Rare,1.96
+Twilight Masquerade,Perrin,#209,Ultra Rare,5.26
+Twilight Masquerade,Sinistcha ex,#210,Special Illustration Rare,27.48
+Twilight Masquerade,Teal Mask Ogerpon ex,#211,Special Illustration Rare,28.31
+Twilight Masquerade,Hearthflame Mask Ogerpon ex,#212,Special Illustration Rare,11.83
+Twilight Masquerade,Wellspring Mask Ogerpon ex,#213,Special Illustration Rare,17.74
+Twilight Masquerade,Greninja ex,#214,Special Illustration Rare,379.78
+Twilight Masquerade,Cornerstone Mask Ogerpon ex,#215,Special Illustration Rare,15.57
+Twilight Masquerade,Bloodmoon Ursaluna ex,#216,Special Illustration Rare,46.46
+Twilight Masquerade,Carmine,#217,Special Illustration Rare,74.89
+Twilight Masquerade,Kieran,#218,Special Illustration Rare,34.72
+Twilight Masquerade,Lana’s Aid,#219,Special Illustration Rare,35.88
+Twilight Masquerade,Perrin,#220,Special Illustration Rare,181.07
+Twilight Masquerade,Teal Mask Ogerpon ex,#221,Hyper Rare,10.53
+Twilight Masquerade,Bloodmoon Ursaluna ex,#222,Hyper Rare,9.03
+Twilight Masquerade,Buddy-Buddy Poffin,#223,Hyper Rare,13.65
+Twilight Masquerade,Enhanced Hammer,#224,Hyper Rare,6.67
+Twilight Masquerade,Rescue Board,#225,Hyper Rare,2.83
+Twilight Masquerade,Luminous Energy,#226,Hyper Rare,5.46
+White Flare,Sewaddle,#001,Common,0.08
+White Flare,Swadloon,#002,Common,0.12
+White Flare,Leavanny,#003,Uncommon,0.13
+White Flare,Cottonee,#004,Common,0.12
+White Flare,Whimsicott ex,#005,Double Rare,0.61
+White Flare,Deerling,#006,Common,0.12
+White Flare,Sawsbuck,#007,Uncommon,0.09
+White Flare,Shelmet,#008,Common,0.05
+White Flare,Accelgor,#009,Uncommon,0.06
+White Flare,Virizion,#010,Rare,0.17
+White Flare,Tepig,#011,Common,0.12
+White Flare,Pignite,#012,Common,0.09
+White Flare,Emboar,#013,Rare,0.25
+White Flare,Pansear,#014,Common,0.06
+White Flare,Simisear,#015,Uncommon,0.08
+White Flare,Litwick,#016,Common,0.13
+White Flare,Lampent,#017,Common,0.09
+White Flare,Chandelure,#018,Rare,0.19
+White Flare,Heatmor,#019,Uncommon,0.13
+White Flare,Reshiram ex,#020,Double Rare,0.61
+White Flare,Oshawott,#021,Common,0.22
+White Flare,Dewott,#022,Common,0.16
+White Flare,Samurott,#023,Rare,0.25
+White Flare,Basculin,#024,Common,0.04
+White Flare,Ducklett,#025,Common,0.08
+White Flare,Swanna,#026,Uncommon,0.06
+White Flare,Vanillite,#027,Common,0.09
+White Flare,Vanillish,#028,Common,0.11
+White Flare,Vanilluxe,#029,Uncommon,0.09
+White Flare,Keldeo ex,#030,Double Rare,0.56
+White Flare,Blitzle,#031,Common,0.06
+White Flare,Zebstrika,#032,Uncommon,0.07
+White Flare,Joltik,#033,Common,0.14
+White Flare,Galvantula,#034,Uncommon,0.07
+White Flare,Stunfisk,#035,Uncommon,0.09
+White Flare,Woobat,#036,Common,0.05
+White Flare,Swoobat,#037,Uncommon,0.11
+White Flare,Sigilyph,#038,Uncommon,0.06
+White Flare,Yamask,#039,Common,0.08
+White Flare,Cofagrigus,#040,Rare,0.14
+White Flare,Gothita,#041,Common,0.09
+White Flare,Gothorita,#042,Common,0.16
+White Flare,Gothitelle,#043,Rare,0.23
+White Flare,Frillish,#044,Common,0.28
+White Flare,Jellicent ex,#045,Double Rare,0.67
+White Flare,Roggenrola,#046,Common,0.04
+White Flare,Boldore,#047,Common,0.08
+White Flare,Gigalith,#048,Uncommon,0.05
+White Flare,Sawk,#049,Uncommon,0.11
+White Flare,Archen,#050,Uncommon,0.09
+White Flare,Archeops,#051,Rare,0.24
+White Flare,Mienfoo,#052,Common,0.05
+White Flare,Mienshao,#053,Uncommon,0.04
+White Flare,Terrakion,#054,Rare,0.08
+White Flare,Purrloin,#055,Common,0.18
+White Flare,Liepard,#056,Uncommon,0.11
+White Flare,Scraggy,#057,Common,0.14
+White Flare,Scrafty,#058,Uncommon,0.17
+White Flare,Trubbish,#059,Common,0.12
+White Flare,Garbodor,#060,Uncommon,0.08
+White Flare,Zorua,#061,Common,0.14
+White Flare,Zoroark,#062,Rare,0.22
+White Flare,Vullaby,#063,Common,0.04
+White Flare,Mandibuzz,#064,Uncommon,0.05
+White Flare,Deino,#065,Common,0.08
+White Flare,Zweilous,#066,Common,0.12
+White Flare,Hydreigon ex,#067,Double Rare,0.57
+White Flare,Ferroseed,#068,Common,0.06
+White Flare,Ferrothorn,#069,Uncommon,0.04
+White Flare,Durant,#070,Uncommon,0.15
+White Flare,Druddigon,#071,Uncommon,0.07
+White Flare,Patrat,#072,Common,0.15
+White Flare,Watchog,#073,Uncommon,0.18
+White Flare,Lillipup,#074,Common,0.18
+White Flare,Herdier,#075,Common,0.06
+White Flare,Stoutland,#076,Uncommon,0.12
+White Flare,Bouffalant ex,#077,Double Rare,0.53
+White Flare,Tornadus,#078,Rare,0.13
+White Flare,Antique Plume Fossil,#079,Common,0.09
+White Flare,Brave Bangle,#080,Uncommon,0.34
+White Flare,Cheren,#081,Uncommon,0.17
+White Flare,Energy Retrieval,#082,Uncommon,0.15
+White Flare,Harlequin,#083,Uncommon,0.19
+White Flare,Hilda,#084,Uncommon,2.8
+White Flare,Tool Scrapper,#085,Uncommon,0.2
+White Flare,Ignition Energy,#086,Uncommon,0.42
+White Flare,Sewaddle,#087,Illustration Rare,17.06
+White Flare,Swadloon,#088,Illustration Rare,9.1
+White Flare,Leavanny,#089,Illustration Rare,42.43
+White Flare,Cottonee,#090,Illustration Rare,8.52
+White Flare,Deerling,#091,Illustration Rare,20.8
+White Flare,Sawsbuck,#092,Illustration Rare,39.62
+White Flare,Shelmet,#093,Illustration Rare,7.4
+White Flare,Accelgor,#094,Illustration Rare,13.34
+White Flare,Virizion,#095,Illustration Rare,31.83
+White Flare,Tepig,#096,Illustration Rare,32.38
+White Flare,Pignite,#097,Illustration Rare,10.55
+White Flare,Emboar,#098,Illustration Rare,43.82
+White Flare,Pansear,#099,Illustration Rare,12.15
+White Flare,Simisear,#100,Illustration Rare,15.77
+White Flare,Litwick,#101,Illustration Rare,20.24
+White Flare,Lampent,#102,Illustration Rare,13.52
+White Flare,Chandelure,#103,Illustration Rare,66.94
+White Flare,Heatmor,#104,Illustration Rare,7.96
+White Flare,Oshawott,#105,Illustration Rare,93.17
+White Flare,Dewott,#106,Illustration Rare,18.54
+White Flare,Samurott,#107,Illustration Rare,47.77
+White Flare,Basculin,#108,Illustration Rare,6.39
+White Flare,Ducklett,#109,Illustration Rare,28.98
+White Flare,Swanna,#110,Illustration Rare,12.12
+White Flare,Vanillite,#111,Illustration Rare,14.72
+White Flare,Vanillish,#112,Illustration Rare,12.08
+White Flare,Vanilluxe,#113,Illustration Rare,40.32
+White Flare,Blitzle,#114,Illustration Rare,8.49
+White Flare,Zebstrika,#115,Illustration Rare,27.72
+White Flare,Joltik,#116,Illustration Rare,28.51
+White Flare,Galvantula,#117,Illustration Rare,18.5
+White Flare,Stunfisk,#118,Illustration Rare,5.52
+White Flare,Woobat,#119,Illustration Rare,11.99
+White Flare,Swoobat,#120,Illustration Rare,11.15
+White Flare,Sigilyph,#121,Illustration Rare,9.0
+White Flare,Yamask,#122,Illustration Rare,7.97
+White Flare,Cofagrigus,#123,Illustration Rare,21.19
+White Flare,Gothita,#124,Illustration Rare,21.76
+White Flare,Gothorita,#125,Illustration Rare,17.62
+White Flare,Frillish,#126,Illustration Rare,12.96
+White Flare,Roggenrola,#127,Illustration Rare,10.87
+White Flare,Boldore,#128,Illustration Rare,5.44
+White Flare,Gigalith,#129,Illustration Rare,18.29
+White Flare,Sawk,#130,Illustration Rare,8.08
+White Flare,Archen,#131,Uncommon,7.23
+White Flare,Archeops,#132,Illustration Rare,10.94
+White Flare,Mienfoo,#133,Illustration Rare,10.23
+White Flare,Mienshao,#134,Illustration Rare,7.92
+White Flare,Terrakion,#135,Illustration Rare,26.03
+White Flare,Purrloin,#136,Illustration Rare,18.06
+White Flare,Liepard,#137,Illustration Rare,46.37
+White Flare,Scraggy,#138,Illustration Rare,22.22
+White Flare,Scrafty,#139,Illustration Rare,21.54
+White Flare,Trubbish,#140,Illustration Rare,15.07
+White Flare,Garbodor,#141,Illustration Rare,20.88
+White Flare,Zorua,#142,Illustration Rare,38.17
+White Flare,Zoroark,#143,Illustration Rare,63.13
+White Flare,Vullaby,#144,Illustration Rare,7.29
+White Flare,Mandibuzz,#145,Illustration Rare,6.95
+White Flare,Deino,#146,Illustration Rare,15.34
+White Flare,Zweilous,#147,Illustration Rare,11.52
+White Flare,Ferroseed,#148,Illustration Rare,5.31
+White Flare,Ferrothorn,#149,Illustration Rare,15.03
+White Flare,Durant,#150,Illustration Rare,7.39
+White Flare,Druddigon,#151,Illustration Rare,29.27
+White Flare,Patrat,#152,Illustration Rare,12.58
+White Flare,Watchog,#153,Illustration Rare,7.94
+White Flare,Lillipup,#154,Illustration Rare,35.64
+White Flare,Herdier,#155,Illustration Rare,15.81
+White Flare,Stoutland,#156,Illustration Rare,37.25
+White Flare,Whimsicott ex,#157,Ultra Rare,1.2
+White Flare,Reshiram ex,#158,Ultra Rare,3.29
+White Flare,Keldeo ex,#159,Ultra Rare,1.45
+White Flare,Jellicent ex,#160,Ultra Rare,1.19
+White Flare,Hydreigon ex,#161,Ultra Rare,1.23
+White Flare,Bouffalant ex,#162,Ultra Rare,0.88
+White Flare,Harlequin,#163,Ultra Rare,1.73
+White Flare,Hilda,#164,Ultra Rare,15.3
+White Flare,Whimsicott ex,#165,Special Illustration Rare,26.14
+White Flare,Reshiram ex,#166,Special Illustration Rare,208.54
+White Flare,Keldeo ex,#167,Special Illustration Rare,69.67
+White Flare,Jellicent ex,#168,Special Illustration Rare,31.01
+White Flare,Hydreigon ex,#169,Special Illustration Rare,83.82
+White Flare,Bouffalant ex,#170,Special Illustration Rare,17.05
+White Flare,Hilda,#171,Special Illustration Rare,65.14
+White Flare,Victini,#172,Rare,462.22
+White Flare,Reshiram ex,#173,Black White Rare,449.75
